@@ -1,0 +1,4931 @@
+city,price,state,title
+São Paulo,R$ 190, SP,IPhone
+Jaú,R$ 190, SP,IPhone
+Betim,R$ 190, MG,IPhone
+Sorocaba,R$ 190, SP,IPhone
+Dois Vizinhos,R$ 190, PR,IPhone
+Rio de Janeiro,R$ 190, RJ,IPhone
+João Pessoa,R$ 190, PB,IPhone
+Salvador,R$ 190, BA,IPhone
+Maceió,R$ 190, AL,IPhone
+Osasco,R$ 190, SP,IPhone
+Rio de Janeiro,R$ 190, RJ,IPhone
+Brasília,R$ 190, DF,IPhone
+Campo Grande,R$ 190, MS,IPhone
+Olinda,R$ 190, PE,IPhone
+Cuiabá,R$ 190, MT,IPhone
+Votorantim,R$ 190, SP,IPhone
+Natal,R$ 190, RN,IPhone
+Osasco,R$ 190, SP,IPhone
+Belo Horizonte,R$ 190, MG,IPhone
+Fortaleza,R$ 190, CE,IPhone
+Teresina,R$ 190, PI,IPhone
+São Gonçalo,R$ 190, RJ,IPhone
+Rio de Janeiro,R$ 190, RJ,IPhone
+Bom Jardim de Goiás,R$ 190, GO,IPhone
+Nova Iguaçu,R$ 190, RJ,IPhone
+Belo Horizonte,R$ 190, MG,IPhone
+Florianópolis,R$ 190, SC,IPhone
+São Paulo,R$ 190, SP,IPhone
+Salvador,R$ 190, BA,IPhone
+Goiânia,R$ 190, GO,IPhone
+Natal,R$ 190, RN,IPhone
+São Paulo,R$ 190, SP,IPhone
+Curitiba,R$ 190, PR,IPhone
+Goiânia,R$ 190, GO,IPhone
+Tatuí,R$ 190, SP,IPhone
+Rio de Janeiro,R$ 190, RJ,IPhone
+São Paulo,R$ 190, SP,IPhone
+Franca,R$ 190, SP,IPhone
+Bayeux,R$ 190, PB,IPhone
+Curitiba,R$ 190, PR,IPhone
+Belém,R$ 190, PA,IPhone
+Boa Vista,R$ 190, RR,IPhone
+Salvador,R$ 190, BA,IPhone
+Campos dos Goytacazes,R$ 190, RJ,IPhone
+São Sebastião do Passé,R$ 190, BA,IPhone
+Belo Horizonte,R$ 190, MG,IPhone
+Palhoça,R$ 190, SC,IPhone
+Curitiba,R$ 190, PR,IPhone
+Franca,R$ 250, SP,iPhone ? 
+Bayeux,R$ 250, PB,iPhone ? 
+Belém,R$ 250, PA,iPhone ? 
+Boa Vista,R$ 250, RR,iPhone ? 
+Salvador,R$ 250, BA,iPhone ? 
+Belém,R$ 250, PA,iPhone ? 
+Anápolis,R$ 250, GO,iPhone ? 
+São Luís,R$ 250, MA,iPhone ? 
+Curitiba,R$ 250, PR,iPhone ? 
+Osasco,R$ 250, SP,iPhone ? 
+Pindamonhangaba,R$ 250, SP,iPhone ? 
+Praia Grande,R$ 250, SP,iPhone ? 
+Boa Vista,R$ 250, RR,iPhone ? 
+Duque de Caxias,R$ 250, RJ,iPhone ? 
+Parauapebas,R$ 250, PA,iPhone ? 
+São Paulo,R$ 250, SP,iPhone ? 
+Paraíso do Tocantins,R$ 250, TO,iPhone ? 
+Jaú,R$ 250, SP,iPhone ? 
+Maceió,R$ 250, AL,iPhone ? 
+Arapiraca,R$ 250, AL,iPhone ? 
+São Paulo,R$ 250, SP,iPhone ? 
+Campo Grande,R$ 250, MS,iPhone ? 
+Manaus,R$ 250, AM,iPhone ? 
+Aracaju,R$ 250, SE,iPhone ? 
+São Paulo,R$ 250, SP,iPhone ? 
+Suzano,R$ 250, SP,iPhone ? 
+Guarujá,R$ 250, SP,iPhone ? 
+Fortaleza,R$ 250, CE,iPhone ? 
+Cotia,R$ 250, SP,iPhone ? 
+Maceió,R$ 250, AL,iPhone ? 
+Manaus,R$ 250, AM,iPhone ? 
+Recife,R$ 250, PE,iPhone ? 
+Manaus,R$ 250, AM,iPhone ? 
+Anápolis,R$ 250, GO,iPhone ? 
+João Pessoa,R$ 250, PB,iPhone ? 
+Salto de Pirapora,R$ 250, SP,iPhone ? 
+Rio de Janeiro,R$ 250, RJ,iPhone ? 
+Cariacica,R$ 250, ES,iPhone ? 
+Brasília,R$ 250, DF,iPhone ? 
+Vitória da Conquista,R$ 250, BA,iPhone ? 
+Presidente Prudente,R$ 250, SP,iPhone ? 
+Jaboatão dos Guararapes,R$ 250, PE,iPhone ? 
+Cariacica,R$ 250, ES,iPhone ? 
+Olinda,R$ 250, PE,iPhone ? 
+Ananindeua,R$ 250, PA,iPhone ? 
+Brasília,R$ 250, DF,iPhone ? 
+Rio de Janeiro,R$ 250, RJ,iPhone ? 
+Duque de Caxias,R$ 350, RJ,iPhone se 
+Brasília,R$ 350, DF,iPhone se 
+São Paulo,R$ 350, SP,iPhone se 
+Belém,R$ 350, PA,iPhone se 
+Anápolis,R$ 350, GO,iPhone se 
+São Luís,R$ 350, MA,iPhone se 
+Aracaju,R$ 350, SE,iPhone se 
+São Paulo,R$ 350, SP,iPhone se 
+Suzano,R$ 350, SP,iPhone se 
+Guarujá,R$ 350, SP,iPhone se 
+Rio de Janeiro,R$ 350, RJ,iPhone se 
+Manaus,R$ 350, AM,iPhone se 
+João Pessoa,R$ 350, PB,iPhone se 
+Salto de Pirapora,R$ 350, SP,iPhone se 
+Rio de Janeiro,R$ 350, RJ,iPhone se 
+Cariacica,R$ 350, ES,iPhone se 
+Olinda,R$ 350, PE,iPhone se 
+Ananindeua,R$ 350, PA,iPhone se 
+Brasília,R$ 350, DF,iPhone se 
+Rio de Janeiro,R$ 350, RJ,iPhone se 
+São Luís,R$ 350, MA,iPhone se 
+Fortaleza,R$ 350, CE,iPhone se 
+Salvador,R$ 350, BA,iPhone se 
+Belo Horizonte,R$ 350, MG,iPhone se 
+Rio de Janeiro,R$ 350, RJ,iPhone se 
+São Luís,R$ 350, MA,iPhone se 
+Vitória de Santo Antão,R$ 350, PE,iPhone se 
+São Paulo,R$ 350, SP,iPhone se 
+Guarujá,R$ 350, SP,iPhone se 
+Natal,R$ 350, RN,iPhone se 
+Tatuí,R$ 350, SP,iPhone se 
+Rio de Janeiro,R$ 350, RJ,iPhone se 
+São Paulo,R$ 350, SP,iPhone se 
+Franca,R$ 350, SP,iPhone se 
+Bayeux,R$ 350, PB,iPhone se 
+Belém,R$ 350, PA,iPhone se 
+Boa Vista,R$ 350, RR,iPhone se 
+Salvador,R$ 350, BA,iPhone se 
+Natal,R$ 350, RN,iPhone se 
+Curitiba,R$ 350, PR,iPhone se 
+Osasco,R$ 350, SP,iPhone se 
+Pindamonhangaba,R$ 350, SP,iPhone se 
+Praia Grande,R$ 350, SP,iPhone se 
+Boa Vista,R$ 350, RR,iPhone se 
+Duque de Caxias,R$ 350, RJ,iPhone se 
+Parauapebas,R$ 350, PA,iPhone se 
+São Paulo,R$ 350, SP,iPhone se 
+Paraíso do Tocantins,R$ 350, TO,iPhone se 
+Guarujá,R$ 3.000, SP,iphone 
+Vila Velha,R$ 3.000, ES,iphone 
+Salvador,R$ 3.000, BA,iphone 
+Itaquaquecetuba,R$ 3.000, SP,iphone 
+São Luís,R$ 3.000, MA,iphone 
+Cachoeira,R$ 3.000, BA,iphone 
+São Luís,R$ 3.000, MA,iphone 
+Guarujá,R$ 3.000, SP,iphone 
+Belém,R$ 3.000, PA,iphone 
+Brasília,R$ 3.000, DF,iphone 
+Porto Alegre,R$ 3.000, RS,iphone 
+Belém,R$ 3.000, PA,iphone 
+Vitória de Santo Antão,R$ 3.000, PE,iphone 
+São Paulo,R$ 3.000, SP,iphone 
+Guarujá,R$ 3.000, SP,iphone 
+Diadema,R$ 3.000, SP,iphone 
+Osasco,R$ 3.000, SP,iphone 
+Praia Grande,R$ 3.000, SP,iphone 
+Vitória,R$ 3.000, ES,iphone 
+Curitiba,R$ 3.000, PR,iphone 
+Londrina,R$ 3.000, PR,iphone 
+São Pedro da Aldeia,R$ 3.000, RJ,iphone 
+Fortaleza,R$ 3.000, CE,iphone 
+Parauapebas,R$ 3.000, PA,iphone 
+Feira de Santana,R$ 3.000, BA,iphone 
+Salvador,R$ 3.000, BA,iphone 
+Guarulhos,R$ 3.000, SP,iphone 
+São Pedro da Aldeia,R$ 3.000, RJ,iphone 
+Lauro de Freitas,R$ 3.000, BA,iphone 
+Vila Velha,R$ 3.000, ES,iphone 
+Rio de Janeiro,R$ 3.000, RJ,iphone 
+Governador Valadares,R$ 3.000, MG,iphone 
+Recife,R$ 3.000, PE,iphone 
+Fernandópolis,R$ 3.000, SP,iphone 
+São Cristóvão,R$ 3.000, SE,iphone 
+Aparecida de Goiânia,R$ 3.000, GO,iphone 
+Taubaté,R$ 3.000, SP,iphone 
+Salvador,R$ 3.000, BA,iphone 
+Suzano,R$ 3.000, SP,iphone 
+Vila Velha,R$ 3.000, ES,iphone 
+São Luís,R$ 3.000, MA,iphone 
+São Leopoldo,R$ 3.000, RS,iphone 
+São Leopoldo,R$ 3.000, RS,iphone 
+Boa Vista,R$ 3.000, RR,iphone 
+Duque de Caxias,R$ 3.000, RJ,iphone 
+Brasília,R$ 3.000, DF,iphone 
+São Paulo,R$ 3.000, SP,iphone 
+Guarapari,R$ 3.000, ES,iphone 
+Rio de Janeiro,R$ 3.000, RJ,iphone 
+Duque de Caxias,R$ 1.700, RJ,Iphone 
+Parauapebas,R$ 1.700, PA,Iphone 
+São Paulo,R$ 1.700, SP,Iphone 
+Paraíso do Tocantins,R$ 1.700, TO,Iphone 
+Jaú,R$ 1.700, SP,Iphone 
+Maceió,R$ 1.700, AL,Iphone 
+Arapiraca,R$ 1.700, AL,Iphone 
+São Paulo,R$ 1.700, SP,Iphone 
+Campo Grande,R$ 1.700, MS,Iphone 
+Manaus,R$ 1.700, AM,Iphone 
+Fortaleza,R$ 1.700, CE,Iphone 
+Belford Roxo,R$ 1.700, RJ,Iphone 
+Natal,R$ 1.700, RN,Iphone 
+Goiânia,R$ 1.700, GO,Iphone 
+Goiânia,R$ 1.700, GO,Iphone 
+Águas Lindas de Goiás,R$ 1.700, DF,Iphone 
+Planaltina,R$ 1.700, GO,Iphone 
+Navegantes,R$ 1.700, SC,Iphone 
+Fortaleza,R$ 1.700, CE,Iphone 
+Cruz das Almas,R$ 1.700, BA,Iphone 
+São Pedro do Piauí,R$ 1.700, PI,Iphone 
+Brasília,R$ 1.700, DF,Iphone 
+São Paulo,R$ 1.700, SP,Iphone 
+São Bernardo do Campo,R$ 1.700, SP,Iphone 
+Goiânia,R$ 1.700, GO,Iphone 
+Belo Horizonte,R$ 1.700, MG,Iphone 
+Aracaju,R$ 1.700, SE,Iphone 
+Goiânia,R$ 1.700, GO,Iphone 
+Porto Velho,R$ 1.700, RO,Iphone 
+Manaus,R$ 1.700, AM,Iphone 
+Goiânia,R$ 1.700, GO,Iphone 
+Cuiabá,R$ 1.700, MT,Iphone 
+Manaus,R$ 1.700, AM,Iphone 
+Sarzedo,R$ 1.700, MG,Iphone 
+São João de Meriti,R$ 1.700, RJ,Iphone 
+Florianópolis,R$ 1.700, SC,Iphone 
+Sorocaba,R$ 1.700, SP,Iphone 
+Rio Branco,R$ 1.700, AC,Iphone 
+Juiz de Fora,R$ 1.700, MG,Iphone 
+Guarapari,R$ 1.700, ES,Iphone 
+João Pessoa,R$ 1.700, PB,Iphone 
+Belo Horizonte,R$ 1.700, MG,Iphone 
+Nova Iguaçu,R$ 1.700, RJ,Iphone 
+Catende,R$ 1.700, PE,Iphone 
+Osasco,R$ 1.700, SP,Iphone 
+Uberlândia,R$ 1.700, MG,Iphone 
+São Paulo,R$ 1.700, SP,Iphone 
+Timóteo,R$ 1.700, MG,Iphone 
+Fortaleza,R$ 1.700, CE,Iphone 
+Maranguape,R$ 1.700, CE,Iphone 
+Timóteo,R$ 2.100, MG,iPhone 
+Fortaleza,R$ 2.100, CE,iPhone 
+Maranguape,R$ 2.100, CE,iPhone 
+Niterói,R$ 2.100, RJ,iPhone 
+São Paulo,R$ 2.100, SP,iPhone 
+Mesquita,R$ 2.100, RJ,iPhone 
+Belo Horizonte,R$ 2.100, MG,iPhone 
+Aracaju,R$ 2.100, SE,iPhone 
+Itabuna,R$ 2.100, BA,iPhone 
+São Paulo,R$ 2.100, SP,iPhone 
+Ribeirão Preto,R$ 2.100, SP,iPhone 
+São José,R$ 2.100, SC,iPhone 
+Eusébio,R$ 2.100, CE,iPhone 
+Aracaju,R$ 2.100, SE,iPhone 
+Simões Filho,R$ 2.100, BA,iPhone 
+Macaíba,R$ 2.100, RN,iPhone 
+Vitória,R$ 2.100, ES,iPhone 
+Belém,R$ 2.100, PA,iPhone 
+Niterói,R$ 2.100, RJ,iPhone 
+Lauro de Freitas,R$ 2.100, BA,iPhone 
+Salvador,R$ 2.100, BA,iPhone 
+Serra,R$ 2.100, ES,iPhone 
+Joinville,R$ 2.100, SC,iPhone 
+João Pessoa,R$ 2.100, PB,iPhone 
+Brasília,R$ 2.100, DF,iPhone 
+São Luís,R$ 2.100, MA,iPhone 
+São Paulo,R$ 2.100, SP,iPhone 
+Jacareí,R$ 2.100, SP,iPhone 
+Betim,R$ 2.100, MG,iPhone 
+Trindade,R$ 2.100, GO,iPhone 
+Ibirité,R$ 2.100, MG,iPhone 
+Joinville,R$ 2.100, SC,iPhone 
+Rio Branco,R$ 2.100, AC,iPhone 
+Birigüi,R$ 2.100, SP,iPhone 
+São Pedro da Aldeia,R$ 2.100, RJ,iPhone 
+Garanhuns,R$ 2.100, PE,iPhone 
+Salvador,R$ 2.100, BA,iPhone 
+São José de Ribamar,R$ 2.100, MA,iPhone 
+Mesquita,R$ 2.100, RJ,iPhone 
+Manacapuru,R$ 2.100, AM,iPhone 
+São Luís,R$ 2.100, MA,iPhone 
+Recife,R$ 2.100, PE,iPhone 
+Salvador,R$ 2.100, BA,iPhone 
+Salvador,R$ 2.100, BA,iPhone 
+Caucaia,R$ 2.100, CE,iPhone 
+Canoas,R$ 2.100, RS,iPhone 
+Goiânia,R$ 2.100, GO,iPhone 
+Rio de Janeiro,R$ 2.100, RJ,iPhone 
+Cuiabá,R$ 2.100, MT,iPhone 
+Inhumas,R$ 2.100, GO,iPhone 
+São Paulo,R$ 1.500, SP,Iphone 
+Ribeirão Preto,R$ 1.500, SP,Iphone 
+São José,R$ 1.500, SC,Iphone 
+Betim,R$ 1.500, MG,Iphone 
+Trindade,R$ 1.500, GO,Iphone 
+Ibirité,R$ 1.500, MG,Iphone 
+Joinville,R$ 1.500, SC,Iphone 
+Eusébio,R$ 1.500, CE,Iphone 
+Aracaju,R$ 1.500, SE,Iphone 
+Rio Branco,R$ 1.500, AC,Iphone 
+Simões Filho,R$ 1.500, BA,Iphone 
+Birigüi,R$ 1.500, SP,Iphone 
+São Pedro da Aldeia,R$ 1.500, RJ,Iphone 
+Macaíba,R$ 1.500, RN,Iphone 
+Joinville,R$ 1.500, SC,Iphone 
+João Pessoa,R$ 1.500, PB,Iphone 
+Brasília,R$ 1.500, DF,Iphone 
+Manaus,R$ 1.500, AM,Iphone 
+São Luís,R$ 1.500, MA,Iphone 
+São Paulo,R$ 1.500, SP,Iphone 
+Itajaí,R$ 1.500, SC,Iphone 
+Paulista,R$ 1.500, PE,Iphone 
+Garanhuns,R$ 1.500, PE,Iphone 
+Salvador,R$ 1.500, BA,Iphone 
+São José de Ribamar,R$ 1.500, MA,Iphone 
+Recife,R$ 1.500, PE,Iphone 
+Salvador,R$ 1.500, BA,Iphone 
+Salvador,R$ 1.500, BA,Iphone 
+Santo André,R$ 1.500, SP,Iphone 
+Campina Grande,R$ 1.500, PB,Iphone 
+São José dos Campos,R$ 1.500, SP,Iphone 
+Goiânia,R$ 1.500, GO,Iphone 
+Rio de Janeiro,R$ 1.500, RJ,Iphone 
+Cuiabá,R$ 1.500, MT,Iphone 
+Inhumas,R$ 1.500, GO,Iphone 
+Salvador,R$ 1.500, BA,Iphone 
+Novo Gama,R$ 1.500, DF,Iphone 
+Salvador,R$ 1.500, BA,Iphone 
+Ijuí,R$ 1.500, RS,Iphone 
+Sorocaba,R$ 1.500, SP,Iphone 
+Fortaleza,R$ 1.500, CE,Iphone 
+Petrolina,R$ 1.500, PE,Iphone 
+São José de Ribamar,R$ 1.500, MA,Iphone 
+Rio de Janeiro,R$ 1.500, RJ,Iphone 
+Brasília,R$ 1.500, DF,Iphone 
+Brasília,R$ 1.500, DF,Iphone 
+Rio de Janeiro,R$ 1.500, RJ,Iphone 
+Manaus,R$ 1.500, AM,Iphone 
+Feira de Santana,R$ 1.500, BA,Iphone 
+Rio de Janeiro,R$ 1.500, RJ,Iphone 
+Uberlândia,R$ 2.000, MG,iPhone 
+Vitória de Santo Antão,R$ 2.000, PE,iPhone 
+Teresina,R$ 2.000, PI,iPhone 
+Salvador,R$ 2.000, BA,iPhone 
+São Paulo,R$ 2.000, SP,iPhone 
+Rio de Janeiro,R$ 2.000, RJ,iPhone 
+Rio de Janeiro,R$ 2.000, RJ,iPhone 
+Brasília,R$ 2.000, DF,iPhone 
+Itapoá,R$ 2.000, SC,iPhone 
+Teófilo Otoni,R$ 2.000, MG,iPhone 
+Maringá,R$ 2.000, PR,iPhone 
+Piracicaba,R$ 2.000, SP,iPhone 
+Joinville,R$ 2.000, SC,iPhone 
+Fortaleza,R$ 2.000, CE,iPhone 
+Goiânia,R$ 2.000, GO,iPhone 
+Nova Iguaçu,R$ 2.000, RJ,iPhone 
+Goiânia,R$ 2.000, GO,iPhone 
+Curitiba,R$ 2.000, PR,iPhone 
+São José de Ribamar,R$ 2.000, MA,iPhone 
+Presidente Getúlio,R$ 2.000, SC,iPhone 
+Contagem,R$ 2.000, MG,iPhone 
+Cacimbinhas,R$ 2.000, AL,iPhone 
+Ouro Preto,R$ 2.000, MG,iPhone 
+Feira de Santana,R$ 2.000, BA,iPhone 
+João Pessoa,R$ 2.000, PB,iPhone 
+Fortaleza,R$ 2.000, CE,iPhone 
+Manaus,R$ 2.000, AM,iPhone 
+Cachoeirinha,R$ 2.000, RS,iPhone 
+Itajaí,R$ 2.000, SC,iPhone 
+Paulista,R$ 2.000, PE,iPhone 
+Rio de Janeiro,R$ 2.000, RJ,iPhone 
+Jaboatão dos Guararapes,R$ 2.000, PE,iPhone 
+Goiânia,R$ 2.000, GO,iPhone 
+Santo André,R$ 2.000, SP,iPhone 
+Campina Grande,R$ 2.000, PB,iPhone 
+São José dos Campos,R$ 2.000, SP,iPhone 
+Ferraz de Vasconcelos,R$ 2.000, SP,iPhone 
+Araraquara,R$ 2.000, SP,iPhone 
+Eusébio,R$ 2.000, CE,iPhone 
+Maracanaú,R$ 2.000, CE,iPhone 
+Recife,R$ 2.000, PE,iPhone 
+Salvador,R$ 2.000, BA,iPhone 
+Taubaté,R$ 2.000, SP,iPhone 
+Ijuí,R$ 2.000, RS,iPhone 
+Belo Horizonte,R$ 2.000, MG,iPhone 
+Salvador,R$ 2.000, BA,iPhone 
+Sorocaba,R$ 2.000, SP,iPhone 
+Fortaleza,R$ 2.000, CE,iPhone 
+Petrolina,R$ 2.000, PE,iPhone 
+Salvador,R$ 950, BA,IPhone
+Elias Fausto,R$ 950, SP,IPhone
+Brasília,R$ 950, DF,IPhone
+São Pedro da Aldeia,R$ 950, RJ,IPhone
+Rio de Janeiro,R$ 950, RJ,IPhone
+Manaus,R$ 950, AM,IPhone
+Brasília,R$ 950, DF,IPhone
+Camaragibe,R$ 950, PE,IPhone
+Duque de Caxias,R$ 950, RJ,IPhone
+Caruaru,R$ 950, PE,IPhone
+Feira de Santana,R$ 950, BA,IPhone
+Joinville,R$ 950, SC,IPhone
+Camaçari,R$ 950, BA,IPhone
+Curitiba,R$ 950, PR,IPhone
+São Paulo,R$ 950, SP,IPhone
+São José,R$ 950, SC,IPhone
+Diadema,R$ 950, SP,IPhone
+Blumenau,R$ 950, SC,IPhone
+Rio de Janeiro,R$ 950, RJ,IPhone
+Brasília,R$ 950, DF,IPhone
+Fortaleza,R$ 950, CE,IPhone
+Águas Lindas de Goiás,R$ 950, DF,IPhone
+Curitiba,R$ 950, PR,IPhone
+São Paulo,R$ 950, SP,IPhone
+Ananindeua,R$ 950, PA,IPhone
+Rio de Janeiro,R$ 950, RJ,IPhone
+São Luís,R$ 950, MA,IPhone
+João Pessoa,R$ 950, PB,IPhone
+Salvador,R$ 950, BA,IPhone
+São Paulo,R$ 950, SP,IPhone
+João Pessoa,R$ 950, PB,IPhone
+Santa Inês,R$ 950, MA,IPhone
+Brasília,R$ 950, DF,IPhone
+Fortaleza,R$ 950, CE,IPhone
+Poá,R$ 950, SP,IPhone
+Feira de Santana,R$ 950, BA,IPhone
+São João de Meriti,R$ 950, RJ,IPhone
+São Paulo,R$ 950, SP,IPhone
+Salvador,R$ 950, BA,IPhone
+Palmeira dos Índios,R$ 950, AL,IPhone
+Mateus Leme,R$ 950, MG,IPhone
+Araruama,R$ 950, RJ,IPhone
+Jaboatão dos Guararapes,R$ 950, PE,IPhone
+Sertãozinho,R$ 950, SP,IPhone
+Aracaju,R$ 950, SE,IPhone
+Araruama,R$ 950, RJ,IPhone
+Jaboatão dos Guararapes,R$ 950, PE,IPhone
+Rio de Janeiro,R$ 950, RJ,IPhone
+São José do Rio Preto,R$ 950, SP,IPhone
+Palmeira dos Índios,R$ 650, AL,iPhone SE 
+Mateus Leme,R$ 650, MG,iPhone SE 
+Rio de Janeiro,R$ 650, RJ,iPhone SE 
+Igarapé-Açu,R$ 650, PA,iPhone SE 
+Aracaju,R$ 650, SE,iPhone SE 
+São José do Rio Preto,R$ 650, SP,iPhone SE 
+Campinas,R$ 650, SP,iPhone SE 
+Nova Iguaçu,R$ 650, RJ,iPhone SE 
+Campo Largo,R$ 650, PR,iPhone SE 
+Aracaju,R$ 650, SE,iPhone SE 
+Itaúna,R$ 650, MG,iPhone SE 
+Volta Redonda,R$ 650, RJ,iPhone SE 
+Itapecerica da Serra,R$ 650, SP,iPhone SE 
+Barbacena,R$ 650, MG,iPhone SE 
+Itajaí,R$ 650, SC,iPhone SE 
+Manaus,R$ 650, AM,iPhone SE 
+Porto Velho,R$ 650, RO,iPhone SE 
+Salvador,R$ 650, BA,iPhone SE 
+Porto Velho,R$ 650, RO,iPhone SE 
+Jaboatão dos Guararapes,R$ 650, PE,iPhone SE 
+Jaboatão dos Guararapes,R$ 650, PE,iPhone SE 
+Itaituba,R$ 650, PA,iPhone SE 
+Santos,R$ 650, SP,iPhone SE 
+Aracaju,R$ 650, SE,iPhone SE 
+Recife,R$ 650, PE,iPhone SE 
+Bom Jardim,R$ 650, PE,iPhone SE 
+Cachoeirinha,R$ 650, RS,iPhone SE 
+Condado,R$ 650, PE,iPhone SE 
+Contagem,R$ 650, MG,iPhone SE 
+Marituba,R$ 650, PA,iPhone SE 
+São Paulo,R$ 650, SP,iPhone SE 
+Teresina,R$ 650, PI,iPhone SE 
+Presidente Prudente,R$ 650, SP,iPhone SE 
+São Paulo,R$ 650, SP,iPhone SE 
+São Luís,R$ 650, MA,iPhone SE 
+Recife,R$ 650, PE,iPhone SE 
+Resende,R$ 650, RJ,iPhone SE 
+Resende,R$ 650, RJ,iPhone SE 
+Picos,R$ 650, PI,iPhone SE 
+Manaus,R$ 650, AM,iPhone SE 
+Arapoti,R$ 650, PR,iPhone SE 
+Rio de Janeiro,R$ 650, RJ,iPhone SE 
+Volta Redonda,R$ 650, RJ,iPhone SE 
+São Paulo,R$ 650, SP,iPhone SE 
+Grandes Rios,R$ 650, PR,iPhone SE 
+São Bernardo do Campo,R$ 650, SP,iPhone SE 
+São Luís,R$ 650, MA,iPhone SE 
+São Luís,R$ 650, MA,iPhone SE 
+Bela Vista,R$ 650, MS,iPhone SE 
+Niterói,R$ 650, RJ,iPhone SE 
+Manaus,R$ 400, AM,iPhone 
+Pederneiras,R$ 400, SP,iPhone 
+Sirinhaém,R$ 400, PE,iPhone 
+Rio Branco,R$ 400, AC,iPhone 
+Limeira,R$ 400, SP,iPhone 
+Salvador,R$ 400, BA,iPhone 
+Natal,R$ 400, RN,iPhone 
+Curitiba,R$ 400, PR,iPhone 
+Cachoeiras de Macacu,R$ 400, RJ,iPhone 
+Manaus,R$ 400, AM,iPhone 
+Arapoti,R$ 400, PR,iPhone 
+Rio de Janeiro,R$ 400, RJ,iPhone 
+Belo Horizonte,R$ 400, MG,iPhone 
+São Luís,R$ 400, MA,iPhone 
+Feira de Santana,R$ 400, BA,iPhone 
+Belo Horizonte,R$ 400, MG,iPhone 
+São Gonçalo,R$ 400, RJ,iPhone 
+Maceió,R$ 400, AL,iPhone 
+Alvorada,R$ 400, RS,iPhone 
+Curitiba,R$ 400, PR,iPhone 
+Curitiba,R$ 400, PR,iPhone 
+Cambé,R$ 400, PR,iPhone 
+Mimoso do Sul,R$ 400, ES,iPhone 
+Manaus,R$ 400, AM,iPhone 
+Manaus,R$ 400, AM,iPhone 
+Vila Velha,R$ 400, ES,iPhone 
+Anápolis,R$ 400, GO,iPhone 
+São Gonçalo,R$ 400, RJ,iPhone 
+Brasília,R$ 400, DF,iPhone 
+Maceió,R$ 400, AL,iPhone 
+Fortaleza,R$ 400, CE,iPhone 
+Antônio Carlos,R$ 400, MG,iPhone 
+Contagem,R$ 400, MG,iPhone 
+Salvador,R$ 400, BA,iPhone 
+Recife,R$ 400, PE,iPhone 
+São João de Meriti,R$ 400, RJ,iPhone 
+Pouso Alegre,R$ 400, MG,iPhone 
+São Paulo,R$ 400, SP,iPhone 
+São Paulo,R$ 400, SP,iPhone 
+Manaus,R$ 400, AM,iPhone 
+Natal,R$ 400, RN,iPhone 
+Brasília,R$ 400, DF,iPhone 
+Aracaju,R$ 400, SE,iPhone 
+Manaus,R$ 400, AM,iPhone 
+Maranguape,R$ 400, CE,iPhone 
+Betim,R$ 400, MG,iPhone 
+Nova Iguaçu,R$ 400, RJ,iPhone 
+Itajaí,R$ 400, SC,iPhone 
+Goiânia,R$ 400, GO,iPhone 
+São José do Rio Preto,R$ 400, SP,iPhone 
+Fortaleza,R$ 1.400, CE,iPhone 
+Rio de Janeiro,R$ 1.400, RJ,iPhone 
+Luziânia,R$ 1.400, DF,iPhone 
+Manaus,R$ 1.400, AM,iPhone 
+Betim,R$ 1.400, MG,iPhone 
+Blumenau,R$ 1.400, SC,iPhone 
+Paço do Lumiar,R$ 1.400, MA,iPhone 
+Macapá,R$ 1.400, AP,iPhone 
+Aracaju,R$ 1.400, SE,iPhone 
+São Luís,R$ 1.400, MA,iPhone 
+Sarzedo,R$ 1.400, MG,iPhone 
+Manaus,R$ 1.400, AM,iPhone 
+Salvador,R$ 1.400, BA,iPhone 
+Brasília,R$ 1.400, DF,iPhone 
+Paço do Lumiar,R$ 1.400, MA,iPhone 
+Goiânia,R$ 1.400, GO,iPhone 
+Recife,R$ 1.400, PE,iPhone 
+Brasília,R$ 1.400, DF,iPhone 
+Rio de Janeiro,R$ 1.400, RJ,iPhone 
+Paulista,R$ 1.400, PE,iPhone 
+Santo André,R$ 1.400, SP,iPhone 
+Itapecerica da Serra,R$ 1.400, SP,iPhone 
+Aparecida de Goiânia,R$ 1.400, GO,iPhone 
+Feira de Santana,R$ 1.400, BA,iPhone 
+Belford Roxo,R$ 1.400, RJ,iPhone 
+Rio de Janeiro,R$ 1.400, RJ,iPhone 
+Santa Branca,R$ 1.400, SP,iPhone 
+Manaus,R$ 1.400, AM,iPhone 
+São Paulo,R$ 1.400, SP,iPhone 
+Recife,R$ 1.400, PE,iPhone 
+Estância,R$ 1.400, SE,iPhone 
+São Manuel,R$ 1.400, SP,iPhone 
+São José do Rio Preto,R$ 1.400, SP,iPhone 
+Aparecida de Goiânia,R$ 1.400, GO,iPhone 
+Cuiabá,R$ 1.400, MT,iPhone 
+Teresina,R$ 1.400, PI,iPhone 
+São Gonçalo,R$ 1.400, RJ,iPhone 
+Aracaju,R$ 1.400, SE,iPhone 
+Presidente Prudente,R$ 1.400, SP,iPhone 
+Macaíba,R$ 1.400, RN,iPhone 
+Taubaté,R$ 1.400, SP,iPhone 
+Contagem,R$ 1.400, MG,iPhone 
+Aparecida de Goiânia,R$ 1.400, GO,iPhone 
+São José,R$ 1.400, SC,iPhone 
+São Luís,R$ 1.400, MA,iPhone 
+Mesquita,R$ 1.400, RJ,iPhone 
+Nilópolis,R$ 1.400, RJ,iPhone 
+São Luís,R$ 1.400, MA,iPhone 
+São José dos Campos,R$ 550, SP,iPhone SE 32gb
+Caucaia,R$ 550, CE,iPhone SE 32gb
+Ribeirão Preto,R$ 550, SP,iPhone SE 32gb
+Fortaleza,R$ 550, CE,iPhone SE 32gb
+Rio de Janeiro,R$ 550, RJ,iPhone SE 32gb
+Praia Grande,R$ 550, SP,iPhone SE 32gb
+Rio de Janeiro,R$ 550, RJ,iPhone SE 32gb
+Goiânia,R$ 550, GO,iPhone SE 32gb
+Belém,R$ 550, PA,iPhone SE 32gb
+Botucatu,R$ 550, SP,iPhone SE 32gb
+Natal,R$ 550, RN,iPhone SE 32gb
+Salvador,R$ 550, BA,iPhone SE 32gb
+Natal,R$ 550, RN,iPhone SE 32gb
+Iguaba Grande,R$ 550, RJ,iPhone SE 32gb
+Sorocaba,R$ 550, SP,iPhone SE 32gb
+Rio de Janeiro,R$ 550, RJ,iPhone SE 32gb
+Ribeirão Preto,R$ 550, SP,iPhone SE 32gb
+Rio de Janeiro,R$ 550, RJ,iPhone SE 32gb
+Santos,R$ 550, SP,iPhone SE 32gb
+Diadema,R$ 550, SP,iPhone SE 32gb
+Rio de Janeiro,R$ 550, RJ,iPhone SE 32gb
+Fortaleza,R$ 550, CE,iPhone SE 32gb
+Rio de Janeiro,R$ 550, RJ,iPhone SE 32gb
+Fortaleza,R$ 550, CE,iPhone SE 32gb
+Feira de Santana,R$ 550, BA,iPhone SE 32gb
+Maceió,R$ 550, AL,iPhone SE 32gb
+Rio de Janeiro,R$ 550, RJ,iPhone SE 32gb
+Goiânia,R$ 550, GO,iPhone SE 32gb
+Aracaju,R$ 550, SE,iPhone SE 32gb
+Belo Horizonte,R$ 550, MG,iPhone SE 32gb
+São Luís,R$ 550, MA,iPhone SE 32gb
+Nova Iguaçu,R$ 550, RJ,iPhone SE 32gb
+Itajaí,R$ 550, SC,iPhone SE 32gb
+Goiânia,R$ 550, GO,iPhone SE 32gb
+Vila Velha,R$ 550, ES,iPhone SE 32gb
+Uberlândia,R$ 550, MG,iPhone SE 32gb
+Fortaleza,R$ 550, CE,iPhone SE 32gb
+Óbidos,R$ 550, PA,iPhone SE 32gb
+Manaus,R$ 550, AM,iPhone SE 32gb
+São Gonçalo do Amarante,R$ 550, RN,iPhone SE 32gb
+Aracaju,R$ 550, SE,iPhone SE 32gb
+Vinhedo,R$ 550, SP,iPhone SE 32gb
+Goiânia,R$ 550, GO,iPhone SE 32gb
+São Luís,R$ 550, MA,iPhone SE 32gb
+Jandira,R$ 550, SP,iPhone SE 32gb
+Olímpia,R$ 550, SP,iPhone SE 32gb
+Salvador,R$ 550, BA,iPhone SE 32gb
+Fortaleza,R$ 550, CE,iPhone SE 32gb
+Olímpia,R$ 2.500, SP,iPhone XS
+Salvador,R$ 2.500, BA,iPhone XS
+Fortaleza,R$ 2.500, CE,iPhone XS
+Belterra,R$ 2.500, PA,iPhone XS
+Belém,R$ 2.500, PA,iPhone XS
+Ribeirão Preto,R$ 2.500, SP,iPhone XS
+Juazeiro,R$ 2.500, BA,iPhone XS
+Recife,R$ 2.500, PE,iPhone XS
+Aparecida de Goiânia,R$ 2.500, GO,iPhone XS
+Curitiba,R$ 2.500, PR,iPhone XS
+Rio de Janeiro,R$ 2.500, RJ,iPhone XS
+São Gonçalo,R$ 2.500, RJ,iPhone XS
+Rolândia,R$ 2.500, PR,iPhone XS
+Sorocaba,R$ 2.500, SP,iPhone XS
+Salvador,R$ 2.500, BA,iPhone XS
+Rio de Janeiro,R$ 2.500, RJ,iPhone XS
+Caruaru,R$ 2.500, PE,iPhone XS
+São Luís,R$ 2.500, MA,iPhone XS
+São Luís,R$ 2.500, MA,iPhone XS
+Maceió,R$ 2.500, AL,iPhone XS
+Lauro de Freitas,R$ 2.500, BA,iPhone XS
+Cabedelo,R$ 2.500, PB,iPhone XS
+João Pessoa,R$ 2.500, PB,iPhone XS
+Campo Grande,R$ 2.500, MS,iPhone XS
+Aracaju,R$ 2.500, SE,iPhone XS
+Cuiabá,R$ 2.500, MT,iPhone XS
+São João de Meriti,R$ 2.500, RJ,iPhone XS
+Governador Valadares,R$ 2.500, MG,iPhone XS
+Rio de Janeiro,R$ 2.500, RJ,iPhone XS
+Teresina,R$ 2.500, PI,iPhone XS
+Lauro de Freitas,R$ 2.500, BA,iPhone XS
+Lauro de Freitas,R$ 2.500, BA,iPhone XS
+São Paulo,R$ 2.500, SP,iPhone XS
+Recife,R$ 2.500, PE,iPhone XS
+Fortaleza,R$ 2.500, CE,iPhone XS
+Ribeirão Preto,R$ 2.500, SP,iPhone XS
+Bragança,R$ 2.500, PA,iPhone XS
+Uruará,R$ 2.500, PA,iPhone XS
+Feira de Santana,R$ 2.500, BA,iPhone XS
+São Paulo,R$ 2.500, SP,iPhone XS
+Porto Alegre,R$ 2.500, RS,iPhone XS
+Palmas,R$ 2.500, TO,iPhone XS
+São José,R$ 2.500, SC,iPhone XS
+Maracanaú,R$ 2.500, CE,iPhone XS
+Rio de Janeiro,R$ 2.500, RJ,iPhone XS
+Macapá,R$ 2.500, AP,iPhone XS
+Brasília,R$ 2.500, DF,iPhone XS
+Goiânia,R$ 2.500, GO,iPhone XS
+Teresina,R$ 2.500, PI,iPhone XS
+Rio de Janeiro,R$ 2.500, RJ,iPhone XS
+Uberlândia,R$ 500, MG,iPhone 7
+Lauro de Freitas,R$ 500, BA,iPhone 7
+Paulista,R$ 500, PE,iPhone 7
+São Paulo,R$ 500, SP,iPhone 7
+Duque de Caxias,R$ 500, RJ,iPhone 7
+Rio de Janeiro,R$ 500, RJ,iPhone 7
+Biguaçu,R$ 500, SC,iPhone 7
+Marília,R$ 500, SP,iPhone 7
+Santos,R$ 500, SP,iPhone 7
+Recife,R$ 500, PE,iPhone 7
+Goiânia,R$ 500, GO,iPhone 7
+Rio de Janeiro,R$ 500, RJ,iPhone 7
+Registro,R$ 500, SP,iPhone 7
+Rio de Janeiro,R$ 500, RJ,iPhone 7
+Natal,R$ 500, RN,iPhone 7
+São Paulo,R$ 500, SP,iPhone 7
+Nova Santa Rita,R$ 500, RS,iPhone 7
+Fortaleza,R$ 500, CE,iPhone 7
+Sorocaba,R$ 500, SP,iPhone 7
+Valparaíso de Goiás,R$ 500, DF,iPhone 7
+Belford Roxo,R$ 500, RJ,iPhone 7
+Santo Antônio de Jesus,R$ 500, BA,iPhone 7
+Joinville,R$ 500, SC,iPhone 7
+Fortaleza,R$ 500, CE,iPhone 7
+São Paulo,R$ 500, SP,iPhone 7
+Bauru,R$ 500, SP,iPhone 7
+Guarulhos,R$ 500, SP,iPhone 7
+João Pessoa,R$ 500, PB,iPhone 7
+Cambé,R$ 500, PR,iPhone 7
+Belo Horizonte,R$ 500, MG,iPhone 7
+Fortaleza,R$ 500, CE,iPhone 7
+Parauapebas,R$ 500, PA,iPhone 7
+Sorocaba,R$ 500, SP,iPhone 7
+São Bernardo do Campo,R$ 500, SP,iPhone 7
+Nossa Senhora do Socorro,R$ 500, SE,iPhone 7
+Lagoa da Confusão,R$ 500, TO,iPhone 7
+Fortaleza,R$ 500, CE,iPhone 7
+Rio de Janeiro,R$ 500, RJ,iPhone 7
+Luziânia,R$ 500, DF,iPhone 7
+Porto Velho,R$ 500, RO,iPhone 7
+Rio de Janeiro,R$ 500, RJ,iPhone 7
+Camaçari,R$ 500, BA,iPhone 7
+Salvador,R$ 500, BA,iPhone 7
+Salvador,R$ 500, BA,iPhone 7
+Cachoeiro de Itapemirim,R$ 500, ES,iPhone 7
+Brasília,R$ 500, DF,iPhone 7
+Salvador,R$ 500, BA,iPhone 7
+Natal,R$ 500, RN,iPhone 7
+Belo Horizonte,R$ 500, MG,iPhone 7
+Goianira,R$ 500, GO,iPhone 7
+Ribeirão Preto,R$ 1.800, SP,iPhone 8 
+Salvador,R$ 1.800, BA,iPhone 8 
+Teresina,R$ 1.800, PI,iPhone 8 
+Aracaju,R$ 1.800, SE,iPhone 8 
+Boa Vista,R$ 1.800, RR,iPhone 8 
+Belo Horizonte,R$ 1.800, MG,iPhone 8 
+Santarém,R$ 1.800, PA,iPhone 8 
+Sumaré,R$ 1.800, SP,iPhone 8 
+Propriá,R$ 1.800, SE,iPhone 8 
+Manaus,R$ 1.800, AM,iPhone 8 
+Mesquita,R$ 1.800, RJ,iPhone 8 
+Araruama,R$ 1.800, RJ,iPhone 8 
+Vitória,R$ 1.800, ES,iPhone 8 
+Rio de Janeiro,R$ 1.800, RJ,iPhone 8 
+Aracaju,R$ 1.800, SE,iPhone 8 
+Brasília,R$ 1.800, DF,iPhone 8 
+João Pessoa,R$ 1.800, PB,iPhone 8 
+Goiânia,R$ 1.800, GO,iPhone 8 
+Recife,R$ 1.800, PE,iPhone 8 
+Goiânia,R$ 1.800, GO,iPhone 8 
+São José do Rio Preto,R$ 1.800, SP,iPhone 8 
+Sorocaba,R$ 1.800, SP,iPhone 8 
+Belo Horizonte,R$ 1.800, MG,iPhone 8 
+Manaus,R$ 1.800, AM,iPhone 8 
+Florianópolis,R$ 1.800, SC,iPhone 8 
+Piracicaba,R$ 1.800, SP,iPhone 8 
+Anápolis,R$ 1.800, GO,iPhone 8 
+Fortaleza,R$ 1.800, CE,iPhone 8 
+Curitiba,R$ 1.800, PR,iPhone 8 
+Fortaleza,R$ 1.800, CE,iPhone 8 
+Manaus,R$ 1.800, AM,iPhone 8 
+Guarujá,R$ 1.800, SP,iPhone 8 
+Feira de Santana,R$ 1.800, BA,iPhone 8 
+Maringá,R$ 1.800, PR,iPhone 8 
+Campo Grande,R$ 1.800, MS,iPhone 8 
+Suzano,R$ 1.800, SP,iPhone 8 
+Recife,R$ 1.800, PE,iPhone 8 
+Fortaleza,R$ 1.800, CE,iPhone 8 
+São Gonçalo do Amarante,R$ 1.800, RN,iPhone 8 
+Belo Horizonte,R$ 1.800, MG,iPhone 8 
+Uberlândia,R$ 1.800, MG,iPhone 8 
+Belém,R$ 1.800, PA,iPhone 8 
+Bragança Paulista,R$ 1.800, SP,iPhone 8 
+Brasília,R$ 1.800, DF,iPhone 8 
+Poços de Caldas,R$ 1.800, MG,iPhone 8 
+São Paulo,R$ 1.800, SP,iPhone 8 
+Fortaleza,R$ 1.800, CE,iPhone 8 
+Anápolis,R$ 1.800, GO,iPhone 8 
+Bauru,R$ 1.800, SP,iPhone 8 
+Olinda,R$ 550, PE,Dois iPhone SE 
+Maceió,R$ 550, AL,Dois iPhone SE 
+Porto Alegre,R$ 550, RS,Dois iPhone SE 
+Rio de Janeiro,R$ 550, RJ,Dois iPhone SE 
+João Pessoa,R$ 550, PB,Dois iPhone SE 
+Belém,R$ 550, PA,Dois iPhone SE 
+Rio Formoso,R$ 550, PE,Dois iPhone SE 
+Salvador,R$ 550, BA,Dois iPhone SE 
+Aracaju,R$ 550, SE,Dois iPhone SE 
+São José dos Campos,R$ 550, SP,Dois iPhone SE 
+Recife,R$ 550, PE,Dois iPhone SE 
+São Gonçalo,R$ 550, RJ,Dois iPhone SE 
+Maceió,R$ 550, AL,Dois iPhone SE 
+Fortaleza,R$ 550, CE,Dois iPhone SE 
+Brasília,R$ 550, DF,Dois iPhone SE 
+Diadema,R$ 550, SP,Dois iPhone SE 
+Boa Vista,R$ 550, RR,Dois iPhone SE 
+Maracanaú,R$ 550, CE,Dois iPhone SE 
+Rio Branco,R$ 550, AC,Dois iPhone SE 
+União dos Palmares,R$ 550, AL,Dois iPhone SE 
+Montes Claros,R$ 550, MG,Dois iPhone SE 
+Brasília,R$ 550, DF,Dois iPhone SE 
+Cabedelo,R$ 550, PB,Dois iPhone SE 
+Uberlândia,R$ 550, MG,Dois iPhone SE 
+Goianinha,R$ 550, RN,Dois iPhone SE 
+Boa Vista,R$ 550, RR,Dois iPhone SE 
+Fortaleza,R$ 550, CE,Dois iPhone SE 
+Caucaia,R$ 550, CE,Dois iPhone SE 
+Recife,R$ 550, PE,Dois iPhone SE 
+São Paulo,R$ 550, SP,Dois iPhone SE 
+Rio Branco,R$ 550, AC,Dois iPhone SE 
+Vitória de Santo Antão,R$ 550, PE,Dois iPhone SE 
+Cuiabá,R$ 550, MT,Dois iPhone SE 
+Barra Velha,R$ 550, SC,Dois iPhone SE 
+Manaus,R$ 550, AM,Dois iPhone SE 
+Manaus,R$ 550, AM,Dois iPhone SE 
+Parnamirim,R$ 550, RN,Dois iPhone SE 
+Manaus,R$ 550, AM,Dois iPhone SE 
+São João de Meriti,R$ 550, RJ,Dois iPhone SE 
+Brasília,R$ 550, DF,Dois iPhone SE 
+Paço do Lumiar,R$ 550, MA,Dois iPhone SE 
+Brasília,R$ 550, DF,Dois iPhone SE 
+Fortaleza,R$ 550, CE,Dois iPhone SE 
+São Paulo,R$ 550, SP,Dois iPhone SE 
+Teresina,R$ 550, PI,Dois iPhone SE 
+Jaboatão dos Guararapes,R$ 550, PE,Dois iPhone SE 
+Fortaleza,R$ 550, CE,Dois iPhone SE 
+São Caetano do Sul,R$ 550, SP,Dois iPhone SE 
+Teresina,R$ 550, PI,Dois iPhone SE 
+Juiz de Fora,R$ 3.200, MG,iPhone xr 
+Fortaleza,R$ 3.200, CE,iPhone xr 
+Nova Campina,R$ 3.200, SP,iPhone xr 
+Fortaleza,R$ 3.200, CE,iPhone xr 
+Salvador,R$ 3.200, BA,iPhone xr 
+Palminópolis,R$ 3.200, GO,iPhone xr 
+São José do Rio Preto,R$ 3.200, SP,iPhone xr 
+Sorocaba,R$ 3.200, SP,iPhone xr 
+Pinhais,R$ 3.200, PR,iPhone xr 
+"Abrantes, Camaçari",R$ 3.200, BA,iPhone xr 
+Brasília,R$ 3.200, DF,iPhone xr 
+Nossa Senhora do Socorro,R$ 3.200, SE,iPhone xr 
+Fortaleza,R$ 3.200, CE,iPhone xr 
+Brasília,R$ 3.200, DF,iPhone xr 
+Resende,R$ 3.200, RJ,iPhone xr 
+Aracaju,R$ 3.200, SE,iPhone xr 
+Teresina,R$ 3.200, PI,iPhone xr 
+Brasília,R$ 3.200, DF,iPhone xr 
+Rio de Janeiro,R$ 3.200, RJ,iPhone xr 
+Curitiba,R$ 3.200, PR,iPhone xr 
+Brasília,R$ 3.200, DF,iPhone xr 
+Belém,R$ 3.200, PA,iPhone xr 
+Salvador,R$ 3.200, BA,iPhone xr 
+Cabedelo,R$ 3.200, PB,iPhone xr 
+Campo Grande,R$ 3.200, MS,iPhone xr 
+Jaboatão dos Guararapes,R$ 3.200, PE,iPhone xr 
+Maringá,R$ 3.200, PR,iPhone xr 
+Betim,R$ 3.200, MG,iPhone xr 
+Olinda,R$ 3.200, PE,iPhone xr 
+Maceió,R$ 3.200, AL,iPhone xr 
+Porto Alegre,R$ 3.200, RS,iPhone xr 
+Rio de Janeiro,R$ 3.200, RJ,iPhone xr 
+João Pessoa,R$ 3.200, PB,iPhone xr 
+Belém,R$ 3.200, PA,iPhone xr 
+Rio Formoso,R$ 3.200, PE,iPhone xr 
+Salvador,R$ 3.200, BA,iPhone xr 
+Aracaju,R$ 3.200, SE,iPhone xr 
+Maracanaú,R$ 3.200, CE,iPhone xr 
+Belém,R$ 3.200, PA,iPhone xr 
+Guarapari,R$ 3.200, ES,iPhone xr 
+São José,R$ 3.200, SC,iPhone xr 
+Niterói,R$ 3.200, RJ,iPhone xr 
+Uberlândia,R$ 3.200, MG,iPhone xr 
+Natal,R$ 3.200, RN,iPhone xr 
+Além Paraíba,R$ 3.200, MG,iPhone xr 
+Betim,R$ 3.200, MG,iPhone xr 
+Sorocaba,R$ 3.200, SP,iPhone xr 
+Macapá,R$ 3.200, AP,iPhone xr 
+São Vicente,R$ 1.200, SP,iPhone 8
+Teresina,R$ 1.200, PI,iPhone 8
+Curitiba,R$ 1.200, PR,iPhone 8
+Vila Velha,R$ 1.200, ES,iPhone 8
+São Luís,R$ 1.200, MA,iPhone 8
+Belo Horizonte,R$ 1.200, MG,iPhone 8
+Porto Velho,R$ 1.200, RO,iPhone 8
+Águas Lindas de Goiás,R$ 1.200, DF,iPhone 8
+Balneário Camboriú,R$ 1.200, SC,iPhone 8
+Salvador,R$ 1.200, BA,iPhone 8
+Praia Grande,R$ 1.200, SP,iPhone 8
+Aracaju,R$ 1.200, SE,iPhone 8
+Manaus,R$ 1.200, AM,iPhone 8
+Seropédica,R$ 1.200, RJ,iPhone 8
+Fortaleza,R$ 1.200, CE,iPhone 8
+Brasília,R$ 1.200, DF,iPhone 8
+São Paulo,R$ 1.200, SP,iPhone 8
+Diadema,R$ 1.200, SP,iPhone 8
+Itaquaquecetuba,R$ 1.200, SP,iPhone 8
+Aracaju,R$ 1.200, SE,iPhone 8
+Rio de Janeiro,R$ 1.200, RJ,iPhone 8
+Bauru,R$ 1.200, SP,iPhone 8
+Poloni,R$ 1.200, SP,iPhone 8
+Teresina,R$ 1.200, PI,iPhone 8
+Porto Velho,R$ 1.200, RO,iPhone 8
+Florianópolis,R$ 1.200, SC,iPhone 8
+Campinas,R$ 1.200, SP,iPhone 8
+Venâncio Aires,R$ 1.200, RS,iPhone 8
+Belo Horizonte,R$ 1.200, MG,iPhone 8
+Guarulhos,R$ 1.200, SP,iPhone 8
+Goiânia,R$ 1.200, GO,iPhone 8
+Manaus,R$ 1.200, AM,iPhone 8
+Salvador,R$ 1.200, BA,iPhone 8
+Uberlândia,R$ 1.200, MG,iPhone 8
+São Paulo,R$ 1.200, SP,iPhone 8
+Goiânia,R$ 1.200, GO,iPhone 8
+Betim,R$ 1.200, MG,iPhone 8
+Japeri,R$ 1.200, RJ,iPhone 8
+Porto Velho,R$ 1.200, RO,iPhone 8
+Betim,R$ 1.200, MG,iPhone 8
+Belo Horizonte,R$ 1.200, MG,iPhone 8
+Teresina,R$ 1.200, PI,iPhone 8
+Feira de Santana,R$ 1.200, BA,iPhone 8
+Montes Claros,R$ 1.200, MG,iPhone 8
+São José dos Campos,R$ 1.200, SP,iPhone 8
+Linhares,R$ 1.200, ES,iPhone 8
+Manaus,R$ 1.200, AM,iPhone 8
+Cuiabá,R$ 1.200, MT,iPhone 8
+Belo Horizonte,R$ 1.200, MG,iPhone 8
+Petrolina,R$ 1.200, PE,iPhone 8
+Maceió,R$ 700, AL,IPHONE 6S 
+Sombrio,R$ 700, SC,IPHONE 6S 
+São Paulo,R$ 700, SP,IPHONE 6S 
+Belo Horizonte,R$ 700, MG,IPHONE 6S 
+Santarém,R$ 700, PA,IPHONE 6S 
+Sumaré,R$ 700, SP,IPHONE 6S 
+Propriá,R$ 700, SE,IPHONE 6S 
+Manaus,R$ 700, AM,IPHONE 6S 
+Mesquita,R$ 700, RJ,IPHONE 6S 
+Araruama,R$ 700, RJ,IPHONE 6S 
+Vitória,R$ 700, ES,IPHONE 6S 
+Rio de Janeiro,R$ 700, RJ,IPHONE 6S 
+Aracaju,R$ 700, SE,IPHONE 6S 
+Brasília,R$ 700, DF,IPHONE 6S 
+João Pessoa,R$ 700, PB,IPHONE 6S 
+Goiânia,R$ 700, GO,IPHONE 6S 
+Recife,R$ 700, PE,IPHONE 6S 
+Goiânia,R$ 700, GO,IPHONE 6S 
+São José do Rio Preto,R$ 700, SP,IPHONE 6S 
+Sorocaba,R$ 700, SP,IPHONE 6S 
+Belo Horizonte,R$ 700, MG,IPHONE 6S 
+Manaus,R$ 700, AM,IPHONE 6S 
+Florianópolis,R$ 700, SC,IPHONE 6S 
+Piracicaba,R$ 700, SP,IPHONE 6S 
+Anápolis,R$ 700, GO,IPHONE 6S 
+Fortaleza,R$ 700, CE,IPHONE 6S 
+Curitiba,R$ 700, PR,IPHONE 6S 
+Fortaleza,R$ 700, CE,IPHONE 6S 
+Manaus,R$ 700, AM,IPHONE 6S 
+Guarujá,R$ 700, SP,IPHONE 6S 
+Feira de Santana,R$ 700, BA,IPHONE 6S 
+Maringá,R$ 700, PR,IPHONE 6S 
+Campo Grande,R$ 700, MS,IPHONE 6S 
+Suzano,R$ 700, SP,IPHONE 6S 
+Recife,R$ 700, PE,IPHONE 6S 
+Fortaleza,R$ 700, CE,IPHONE 6S 
+São Gonçalo do Amarante,R$ 700, RN,IPHONE 6S 
+Belo Horizonte,R$ 700, MG,IPHONE 6S 
+Uberlândia,R$ 700, MG,IPHONE 6S 
+Belém,R$ 700, PA,IPHONE 6S 
+Bragança Paulista,R$ 700, SP,IPHONE 6S 
+Londrina,R$ 700, PR,IPHONE 6S 
+Jundiaí,R$ 700, SP,IPHONE 6S 
+Brasília,R$ 700, DF,IPHONE 6S 
+Poços de Caldas,R$ 700, MG,IPHONE 6S 
+São Paulo,R$ 700, SP,IPHONE 6S 
+Fortaleza,R$ 700, CE,IPHONE 6S 
+Anápolis,R$ 700, GO,IPHONE 6S 
+São Paulo,R$ 1.100, SP,iPhone 6s
+São Paulo,R$ 1.100, SP,iPhone 6s
+Uberlândia,R$ 1.100, MG,iPhone 6s
+São Paulo,R$ 1.100, SP,iPhone 6s
+Jacareí,R$ 1.100, SP,iPhone 6s
+São Paulo,R$ 1.100, SP,iPhone 6s
+Goiânia,R$ 1.100, GO,iPhone 6s
+Guarulhos,R$ 1.100, SP,iPhone 6s
+Diadema,R$ 1.100, SP,iPhone 6s
+Belo Horizonte,R$ 1.100, MG,iPhone 6s
+Mesquita,R$ 1.100, RJ,iPhone 6s
+Goiânia,R$ 1.100, GO,iPhone 6s
+Brasília,R$ 1.100, DF,iPhone 6s
+Brasília,R$ 1.100, DF,iPhone 6s
+Sabará,R$ 1.100, MG,iPhone 6s
+Rio de Janeiro,R$ 1.100, RJ,iPhone 6s
+Queimados,R$ 1.100, RJ,iPhone 6s
+Brasília,R$ 1.100, DF,iPhone 6s
+Canoas,R$ 1.100, RS,iPhone 6s
+Rio de Janeiro,R$ 1.100, RJ,iPhone 6s
+Presidente Prudente,R$ 1.100, SP,iPhone 6s
+Salvador,R$ 1.100, BA,iPhone 6s
+Rio de Janeiro,R$ 1.100, RJ,iPhone 6s
+Campinas,R$ 1.100, SP,iPhone 6s
+Olinda,R$ 1.100, PE,iPhone 6s
+Brasília,R$ 1.100, DF,iPhone 6s
+Recife,R$ 1.100, PE,iPhone 6s
+Salvador,R$ 1.100, BA,iPhone 6s
+João Pessoa,R$ 1.100, PB,iPhone 6s
+Manaus,R$ 1.100, AM,iPhone 6s
+Tremembé,R$ 1.100, SP,iPhone 6s
+Goiânia,R$ 1.100, GO,iPhone 6s
+Campinas,R$ 1.100, SP,iPhone 6s
+Jundiaí,R$ 1.100, SP,iPhone 6s
+Alvorada,R$ 1.100, RS,iPhone 6s
+Goiânia,R$ 1.100, GO,iPhone 6s
+Castanhal,R$ 1.100, PA,iPhone 6s
+Dourado,R$ 1.100, SP,iPhone 6s
+São Luís,R$ 1.100, MA,iPhone 6s
+Rio Branco,R$ 1.100, AC,iPhone 6s
+Natal,R$ 1.100, RN,iPhone 6s
+Palhoça,R$ 1.100, SC,iPhone 6s
+Rio de Janeiro,R$ 1.100, RJ,iPhone 6s
+Juiz de Fora,R$ 1.100, MG,iPhone 6s
+São Paulo,R$ 1.100, SP,iPhone 6s
+Contagem,R$ 1.100, MG,iPhone 6s
+Boituva,R$ 1.100, SP,iPhone 6s
+Campo Grande,R$ 1.100, MS,iPhone 6s
+São Paulo,R$ 1.100, SP,iPhone 6s
+Campo Grande,R$ 650, MS,iPhone 6
+Jaboatão dos Guararapes,R$ 650, PE,iPhone 6
+Maringá,R$ 650, PR,iPhone 6
+Betim,R$ 650, MG,iPhone 6
+Olinda,R$ 650, PE,iPhone 6
+Maceió,R$ 650, AL,iPhone 6
+Porto Alegre,R$ 650, RS,iPhone 6
+Rio de Janeiro,R$ 650, RJ,iPhone 6
+João Pessoa,R$ 650, PB,iPhone 6
+Belém,R$ 650, PA,iPhone 6
+Rio Formoso,R$ 650, PE,iPhone 6
+Salvador,R$ 650, BA,iPhone 6
+Aracaju,R$ 650, SE,iPhone 6
+Rio de Janeiro,R$ 650, RJ,iPhone 6
+São Paulo,R$ 650, SP,iPhone 6
+São Paulo,R$ 650, SP,iPhone 6
+Brasília,R$ 650, DF,iPhone 6
+Porteirinha,R$ 650, MG,iPhone 6
+Brasília,R$ 650, DF,iPhone 6
+Aracaju,R$ 650, SE,iPhone 6
+Cidade Ocidental,R$ 650, DF,iPhone 6
+Brasília,R$ 650, DF,iPhone 6
+Curitiba,R$ 650, PR,iPhone 6
+São Paulo,R$ 650, SP,iPhone 6
+Jales,R$ 650, SP,iPhone 6
+Florianópolis,R$ 650, SC,iPhone 6
+Sapucaia do Sul,R$ 650, RS,iPhone 6
+Belém,R$ 650, PA,iPhone 6
+Recife,R$ 650, PE,iPhone 6
+Belo Horizonte,R$ 650, MG,iPhone 6
+São Paulo,R$ 650, SP,iPhone 6
+Salvador,R$ 650, BA,iPhone 6
+Anápolis,R$ 650, GO,iPhone 6
+Contagem,R$ 650, MG,iPhone 6
+Sorocaba,R$ 650, SP,iPhone 6
+Nilópolis,R$ 650, RJ,iPhone 6
+Boa Vista,R$ 650, RR,iPhone 6
+Rio de Janeiro,R$ 650, RJ,iPhone 6
+Maceió,R$ 650, AL,iPhone 6
+Rio de Janeiro,R$ 650, RJ,iPhone 6
+Salvador,R$ 650, BA,iPhone 6
+Salvador,R$ 650, BA,iPhone 6
+São Paulo,R$ 650, SP,iPhone 6
+Santa Inês,R$ 650, MA,iPhone 6
+Recife,R$ 650, PE,iPhone 6
+Curitiba,R$ 650, PR,iPhone 6
+São Paulo,R$ 650, SP,iPhone 6
+Valparaíso de Goiás,R$ 650, DF,iPhone 6
+Aracaju,R$ 650, SE,iPhone 6
+Brasília,R$ 650, DF,iPhone 6
+São Paulo,R$ 1.800, SP,Iphone 8
+Balneário Camboriú,R$ 1.800, SC,Iphone 8
+Jaboatão dos Guararapes,R$ 1.800, PE,Iphone 8
+Salvador,R$ 1.800, BA,Iphone 8
+Gurupi,R$ 1.800, TO,Iphone 8
+Jaboatão dos Guararapes,R$ 1.800, PE,Iphone 8
+Joinville,R$ 1.800, SC,Iphone 8
+Salvador,R$ 1.800, BA,Iphone 8
+Lagoa de Pedras,R$ 1.800, RN,Iphone 8
+Montes Claros,R$ 1.800, MG,Iphone 8
+Goiânia,R$ 1.800, GO,Iphone 8
+Duque de Caxias,R$ 1.800, RJ,Iphone 8
+Uberlândia,R$ 1.800, MG,Iphone 8
+Balneário Camboriú,R$ 1.800, SC,Iphone 8
+Fortaleza,R$ 1.800, CE,Iphone 8
+Sorocaba,R$ 1.800, SP,Iphone 8
+Manaus,R$ 1.800, AM,Iphone 8
+Maceió,R$ 1.800, AL,Iphone 8
+Nova Iguaçu,R$ 1.800, RJ,Iphone 8
+Salvador,R$ 1.800, BA,Iphone 8
+Salvador,R$ 1.800, BA,Iphone 8
+Porto Alegre,R$ 1.800, RS,Iphone 8
+João Pessoa,R$ 1.800, PB,Iphone 8
+São José de Ribamar,R$ 1.800, MA,Iphone 8
+São Paulo,R$ 1.800, SP,Iphone 8
+Santa Luzia,R$ 1.800, MG,Iphone 8
+Manaus,R$ 1.800, AM,Iphone 8
+Delta,R$ 1.800, MG,Iphone 8
+São José do Rio Preto,R$ 1.800, SP,Iphone 8
+Governador Valadares,R$ 1.800, MG,Iphone 8
+Bauru,R$ 1.800, SP,Iphone 8
+São Paulo,R$ 1.800, SP,Iphone 8
+São Paulo,R$ 1.800, SP,Iphone 8
+"Braço, Eldorado",R$ 1.800, SP,Iphone 8
+Rio Branco,R$ 1.800, AC,Iphone 8
+Caieiras,R$ 1.800, SP,Iphone 8
+Foz do Iguaçu,R$ 1.800, PR,Iphone 8
+Fortaleza,R$ 1.800, CE,Iphone 8
+Maringá,R$ 1.800, PR,Iphone 8
+Jaboatão dos Guararapes,R$ 1.800, PE,Iphone 8
+Florianópolis,R$ 1.800, SC,Iphone 8
+Manaus,R$ 1.800, AM,Iphone 8
+Rio de Janeiro,R$ 1.800, RJ,Iphone 8
+Feira de Santana,R$ 1.800, BA,Iphone 8
+Fortaleza,R$ 1.800, CE,Iphone 8
+Curitiba,R$ 1.800, PR,Iphone 8
+Porto Alegre,R$ 1.800, RS,Iphone 8
+Salvador,R$ 1.800, BA,Iphone 8
+São Luís,R$ 1.800, MA,Iphone 8
+Belford Roxo,R$ 2.400, RJ,iPhone 8Plus
+Belford Roxo,R$ 2.400, RJ,iPhone 8Plus
+Manaus,R$ 2.400, AM,iPhone 8Plus
+Recife,R$ 2.400, PE,iPhone 8Plus
+Manaus,R$ 2.400, AM,iPhone 8Plus
+Manaus,R$ 2.400, AM,iPhone 8Plus
+Salvador,R$ 2.400, BA,iPhone 8Plus
+Maceió,R$ 2.400, AL,iPhone 8Plus
+Campinas,R$ 2.400, SP,iPhone 8Plus
+Feira de Santana,R$ 2.400, BA,iPhone 8Plus
+Aparecida de Goiânia,R$ 2.400, GO,iPhone 8Plus
+Maceió,R$ 2.400, AL,iPhone 8Plus
+Betim,R$ 2.400, MG,iPhone 8Plus
+Fortaleza,R$ 2.400, CE,iPhone 8Plus
+Fortaleza,R$ 2.400, CE,iPhone 8Plus
+Manaus,R$ 2.400, AM,iPhone 8Plus
+Boa Vista,R$ 2.400, RR,iPhone 8Plus
+Porto Velho,R$ 2.400, RO,iPhone 8Plus
+Brasília,R$ 2.400, DF,iPhone 8Plus
+Cidade Ocidental,R$ 2.400, DF,iPhone 8Plus
+Maceió,R$ 2.400, AL,iPhone 8Plus
+Campos dos Goytacazes,R$ 2.400, RJ,iPhone 8Plus
+Belo Horizonte,R$ 2.400, MG,iPhone 8Plus
+Sorocaba,R$ 2.400, SP,iPhone 8Plus
+Brasília,R$ 2.400, DF,iPhone 8Plus
+Brasília,R$ 2.400, DF,iPhone 8Plus
+Tubarão,R$ 2.400, SC,iPhone 8Plus
+São Luís,R$ 2.400, MA,iPhone 8Plus
+Contagem,R$ 2.400, MG,iPhone 8Plus
+Rio de Janeiro,R$ 2.400, RJ,iPhone 8Plus
+Aracaju,R$ 2.400, SE,iPhone 8Plus
+Belo Horizonte,R$ 2.400, MG,iPhone 8Plus
+Cidade Ocidental,R$ 2.400, DF,iPhone 8Plus
+Mauá,R$ 2.400, SP,iPhone 8Plus
+Araraquara,R$ 2.400, SP,iPhone 8Plus
+Rio de Janeiro,R$ 2.400, RJ,iPhone 8Plus
+Rio de Janeiro,R$ 2.400, RJ,iPhone 8Plus
+Maceió,R$ 2.400, AL,iPhone 8Plus
+Taboão da Serra,R$ 2.400, SP,iPhone 8Plus
+Ibirité,R$ 2.400, MG,iPhone 8Plus
+Belford Roxo,R$ 2.400, RJ,iPhone 8Plus
+Cuiabá,R$ 2.400, MT,iPhone 8Plus
+Senador Canedo,R$ 2.400, GO,iPhone 8Plus
+Manaus,R$ 2.400, AM,iPhone 8Plus
+Belford Roxo,R$ 2.400, RJ,iPhone 8Plus
+Belém,R$ 2.400, PA,iPhone 8Plus
+Guarapari,R$ 2.400, ES,iPhone 8Plus
+Paulista,R$ 2.400, PE,iPhone 8Plus
+Vitória,R$ 2.400, ES,iPhone 8Plus
+São Paulo,R$ 990, SP,iPhone 6s
+Vera Cruz,R$ 990, BA,iPhone 6s
+Magé,R$ 990, RJ,iPhone 6s
+Contagem,R$ 990, MG,iPhone 6s
+Salvador,R$ 990, BA,iPhone 6s
+Salvador,R$ 990, BA,iPhone 6s
+Ribeirão Preto,R$ 990, SP,iPhone 6s
+São Bernardo do Campo,R$ 990, SP,iPhone 6s
+Maceió,R$ 990, AL,iPhone 6s
+Teresina,R$ 990, PI,iPhone 6s
+Padre Bernardo,R$ 990, DF,iPhone 6s
+Eusébio,R$ 990, CE,iPhone 6s
+Cuiabá,R$ 990, MT,iPhone 6s
+Rio de Janeiro,R$ 990, RJ,iPhone 6s
+Campinas,R$ 990, SP,iPhone 6s
+Areal,R$ 990, RJ,iPhone 6s
+Eusébio,R$ 990, CE,iPhone 6s
+São Luís,R$ 990, MA,iPhone 6s
+Boa Vista,R$ 990, RR,iPhone 6s
+Botucatu,R$ 990, SP,iPhone 6s
+Goiânia,R$ 990, GO,iPhone 6s
+Magé,R$ 990, RJ,iPhone 6s
+Caçapava,R$ 990, SP,iPhone 6s
+Manaus,R$ 990, AM,iPhone 6s
+Manaus,R$ 990, AM,iPhone 6s
+Palhoça,R$ 990, SC,iPhone 6s
+Bastos,R$ 990, SP,iPhone 6s
+São Mateus,R$ 990, ES,iPhone 6s
+Rio de Janeiro,R$ 990, RJ,iPhone 6s
+Recife,R$ 990, PE,iPhone 6s
+Rio de Janeiro,R$ 990, RJ,iPhone 6s
+São Gonçalo,R$ 990, RJ,iPhone 6s
+Salvador,R$ 990, BA,iPhone 6s
+Aracaju,R$ 990, SE,iPhone 6s
+Camaçari,R$ 990, BA,iPhone 6s
+Ribeirão Preto,R$ 990, SP,iPhone 6s
+Espírito Santo do Dourado,R$ 990, MG,iPhone 6s
+João Pessoa,R$ 990, PB,iPhone 6s
+Rio de Janeiro,R$ 990, RJ,iPhone 6s
+Santa Maria da Vitória,R$ 990, BA,iPhone 6s
+Contagem,R$ 990, MG,iPhone 6s
+Guarujá,R$ 990, SP,iPhone 6s
+São José dos Campos,R$ 990, SP,iPhone 6s
+Itu,R$ 990, SP,iPhone 6s
+São Paulo,R$ 990, SP,iPhone 6s
+São Luís,R$ 990, MA,iPhone 6s
+Santa Luzia,R$ 990, MG,iPhone 6s
+São José dos Campos,R$ 990, SP,iPhone 6s
+Belo Horizonte,R$ 990, MG,iPhone 6s
+Porto Alegre,R$ 800, RS,iPhone 7
+Vitória,R$ 800, ES,iPhone 7
+Campinas,R$ 800, SP,iPhone 7
+Manaus,R$ 800, AM,iPhone 7
+João Pessoa,R$ 800, PB,iPhone 7
+Colombo,R$ 800, PR,iPhone 7
+Camaçari,R$ 800, BA,iPhone 7
+Manaus,R$ 800, AM,iPhone 7
+Tenente Ananias,R$ 800, RN,iPhone 7
+Cascavel,R$ 800, PR,iPhone 7
+Biguaçu,R$ 800, SC,iPhone 7
+Salvador,R$ 800, BA,iPhone 7
+São Luís,R$ 800, MA,iPhone 7
+Manaus,R$ 800, AM,iPhone 7
+São Paulo,R$ 800, SP,iPhone 7
+São Paulo,R$ 800, SP,iPhone 7
+Rio de Janeiro,R$ 800, RJ,iPhone 7
+São Paulo,R$ 800, SP,iPhone 7
+Rio Branco,R$ 800, AC,iPhone 7
+São Luís,R$ 800, MA,iPhone 7
+Rio de Janeiro,R$ 800, RJ,iPhone 7
+Fortaleza,R$ 800, CE,iPhone 7
+Maceió,R$ 800, AL,iPhone 7
+Recife,R$ 800, PE,iPhone 7
+Vila Velha,R$ 800, ES,iPhone 7
+Recife,R$ 800, PE,iPhone 7
+Fortaleza,R$ 800, CE,iPhone 7
+Joinville,R$ 800, SC,iPhone 7
+Maceió,R$ 800, AL,iPhone 7
+Salvador,R$ 800, BA,iPhone 7
+Lagoa Seca,R$ 800, PB,iPhone 7
+Campo Maior,R$ 800, PI,iPhone 7
+Cuiabá,R$ 800, MT,iPhone 7
+Belém,R$ 800, PA,iPhone 7
+Teresina,R$ 800, PI,iPhone 7
+Porto Velho,R$ 800, RO,iPhone 7
+Fortaleza,R$ 800, CE,iPhone 7
+Paiçandu,R$ 800, PR,iPhone 7
+Rio de Janeiro,R$ 800, RJ,iPhone 7
+Rio de Janeiro,R$ 800, RJ,iPhone 7
+Castanhal,R$ 800, PA,iPhone 7
+Brasília,R$ 800, DF,iPhone 7
+Porto Velho,R$ 800, MT,iPhone 7
+São Paulo,R$ 800, SP,iPhone 7
+Campo Grande,R$ 800, MS,iPhone 7
+São Miguel Dos Campos,R$ 800, AL,iPhone 7
+Boa Vista,R$ 800, RR,iPhone 7
+Campo Grande,R$ 800, MS,iPhone 7
+Fortaleza,R$ 800, CE,iPhone 7
+São Paulo,R$ 800, SP,iPhone 7
+Suzano,R$ 1.050, SP,Iphone 7
+Recife,R$ 1.050, PE,Iphone 7
+Fortaleza,R$ 1.050, CE,Iphone 7
+São Gonçalo do Amarante,R$ 1.050, RN,Iphone 7
+Belo Horizonte,R$ 1.050, MG,Iphone 7
+Uberlândia,R$ 1.050, MG,Iphone 7
+Rio de Janeiro,R$ 1.050, RJ,Iphone 7
+Belém,R$ 1.050, PA,Iphone 7
+Bragança Paulista,R$ 1.050, SP,Iphone 7
+Brasília,R$ 1.050, DF,Iphone 7
+Brasília,R$ 1.050, DF,Iphone 7
+Poços de Caldas,R$ 1.050, MG,Iphone 7
+São Paulo,R$ 1.050, SP,Iphone 7
+Montes Claros,R$ 1.050, MG,Iphone 7
+Fortaleza,R$ 1.050, CE,Iphone 7
+Santa Luzia,R$ 1.050, MG,Iphone 7
+Juiz de Fora,R$ 1.050, MG,Iphone 7
+Anápolis,R$ 1.050, GO,Iphone 7
+Bauru,R$ 1.050, SP,Iphone 7
+Contagem,R$ 1.050, MG,Iphone 7
+Contagem,R$ 1.050, MG,Iphone 7
+Boituva,R$ 1.050, SP,Iphone 7
+Campo Grande,R$ 1.050, MS,Iphone 7
+São Paulo,R$ 1.050, SP,Iphone 7
+Boa Vista,R$ 1.050, RR,Iphone 7
+Fortaleza,R$ 1.050, CE,Iphone 7
+Itaquaquecetuba,R$ 1.050, SP,Iphone 7
+Rio de Janeiro,R$ 1.050, RJ,Iphone 7
+Rio das Ostras,R$ 1.050, RJ,Iphone 7
+Duque de Caxias,R$ 1.050, RJ,Iphone 7
+Goiânia,R$ 1.050, GO,Iphone 7
+São Luís,R$ 1.050, MA,Iphone 7
+Porto Alegre,R$ 1.050, RS,Iphone 7
+Sabará,R$ 1.050, MG,Iphone 7
+Bragança Paulista,R$ 1.050, SP,Iphone 7
+Marília,R$ 1.050, SP,Iphone 7
+Lauro de Freitas,R$ 1.050, BA,Iphone 7
+Caxias do Sul,R$ 1.050, RS,Iphone 7
+Goiânia,R$ 1.050, GO,Iphone 7
+Goiânia,R$ 1.050, GO,Iphone 7
+Salvador,R$ 1.050, BA,Iphone 7
+Limeira,R$ 1.050, SP,Iphone 7
+Araçatuba,R$ 1.050, SP,Iphone 7
+Volta Redonda,R$ 1.050, RJ,Iphone 7
+São Paulo,R$ 1.050, SP,Iphone 7
+Fortaleza,R$ 1.050, CE,Iphone 7
+Natal,R$ 1.050, RN,Iphone 7
+Macaé,R$ 1.050, RJ,Iphone 7
+Joinville,R$ 1.050, SC,Iphone 7
+Niterói,R$ 2.200, RJ,IPHONE X 
+Maringá,R$ 2.200, PR,IPHONE X 
+Curitiba,R$ 2.200, PR,IPHONE X 
+Brasília,R$ 2.200, DF,IPHONE X 
+Salvador,R$ 2.200, BA,IPHONE X 
+Conceição do Jacuípe,R$ 2.200, BA,IPHONE X 
+Itabaiana,R$ 2.200, PB,IPHONE X 
+São José de Ribamar,R$ 2.200, MA,IPHONE X 
+São José de Ribamar,R$ 2.200, MA,IPHONE X 
+Belém,R$ 2.200, PA,IPHONE X 
+Brasília,R$ 2.200, DF,IPHONE X 
+São João de Meriti,R$ 2.200, RJ,IPHONE X 
+Itaguaí,R$ 2.200, RJ,IPHONE X 
+Rio de Janeiro,R$ 2.200, RJ,IPHONE X 
+Salvador,R$ 2.200, BA,IPHONE X 
+Jaboatão dos Guararapes,R$ 2.200, PE,IPHONE X 
+Belo Horizonte,R$ 2.200, MG,IPHONE X 
+Salvador,R$ 2.200, BA,IPHONE X 
+São José dos Campos,R$ 2.200, SP,IPHONE X 
+Recife,R$ 2.200, PE,IPHONE X 
+Fortaleza,R$ 2.200, CE,IPHONE X 
+Salvador,R$ 2.200, BA,IPHONE X 
+São Luís,R$ 2.200, MA,IPHONE X 
+Manaus,R$ 2.200, AM,IPHONE X 
+São Paulo,R$ 2.200, SP,IPHONE X 
+Brasília,R$ 2.200, DF,IPHONE X 
+Florianópolis,R$ 2.200, SC,IPHONE X 
+Uberlândia,R$ 2.200, MG,IPHONE X 
+Sorocaba,R$ 2.200, SP,IPHONE X 
+Maceió,R$ 2.200, AL,IPHONE X 
+Joinville,R$ 2.200, SC,IPHONE X 
+Aparecida de Goiânia,R$ 2.200, GO,IPHONE X 
+Rio de Janeiro,R$ 2.200, RJ,IPHONE X 
+Boa Vista,R$ 2.200, RR,IPHONE X 
+Belém,R$ 2.200, PA,IPHONE X 
+Salvador,R$ 2.200, BA,IPHONE X 
+São Paulo,R$ 2.200, SP,IPHONE X 
+Belo Horizonte,R$ 2.200, MG,IPHONE X 
+Belo Horizonte,R$ 2.200, MG,IPHONE X 
+Aracaju,R$ 2.200, SE,IPHONE X 
+Belém,R$ 2.200, PA,IPHONE X 
+Natal,R$ 2.200, RN,IPHONE X 
+São Paulo,R$ 2.200, SP,IPHONE X 
+Salvador,R$ 2.200, BA,IPHONE X 
+São Paulo,R$ 2.200, SP,IPHONE X 
+São Luís,R$ 2.200, MA,IPHONE X 
+Brasília,R$ 2.200, DF,IPHONE X 
+Montes Claros,R$ 2.200, MG,IPHONE X 
+Santa Luzia,R$ 2.200, MG,IPHONE X 
+Contagem,R$ 2.200, MG,IPHONE X 
+Itabuna,R$ 730, BA,IPhone  6
+Curitiba,R$ 730, PR,IPhone  6
+Rio de Janeiro,R$ 730, RJ,IPhone  6
+Teresina,R$ 730, PI,IPhone  6
+Salvador,R$ 730, BA,IPhone  6
+Gramado,R$ 730, RS,IPhone  6
+São Gonçalo,R$ 730, RJ,IPhone  6
+Aracaju,R$ 730, SE,IPhone  6
+Ribeirão Preto,R$ 730, SP,IPhone  6
+Salvador,R$ 730, BA,IPhone  6
+Teresina,R$ 730, PI,IPhone  6
+Fortaleza,R$ 730, CE,IPhone  6
+Araucária,R$ 730, PR,IPhone  6
+São Luís,R$ 730, MA,IPhone  6
+Aracaju,R$ 730, SE,IPhone  6
+São Paulo,R$ 730, SP,IPhone  6
+Natal,R$ 730, RN,IPhone  6
+Boa Vista,R$ 730, RR,IPhone  6
+Aracaju,R$ 730, SE,IPhone  6
+Brasília,R$ 730, DF,IPhone  6
+Nova Iguaçu,R$ 730, RJ,IPhone  6
+São Luís,R$ 730, MA,IPhone  6
+Porto Feliz,R$ 730, SP,IPhone  6
+São Gonçalo,R$ 730, RJ,IPhone  6
+Ribeirão Preto,R$ 730, SP,IPhone  6
+Salvador,R$ 730, BA,IPhone  6
+Maceió,R$ 730, AL,IPhone  6
+São Vicente,R$ 730, SP,IPhone  6
+Fortaleza,R$ 730, CE,IPhone  6
+Manaus,R$ 730, AM,IPhone  6
+Rio de Janeiro,R$ 730, RJ,IPhone  6
+Santo Anastácio,R$ 730, SP,IPhone  6
+Belém,R$ 730, PA,IPhone  6
+Montes Claros,R$ 730, MG,IPhone  6
+Goiânia,R$ 730, GO,IPhone  6
+Simões Filho,R$ 730, BA,IPhone  6
+Caruaru,R$ 730, PE,IPhone  6
+Belém,R$ 730, PA,IPhone  6
+Teresina,R$ 730, PI,IPhone  6
+Janaúba,R$ 730, MG,IPhone  6
+Recife,R$ 730, PE,IPhone  6
+São Luís,R$ 730, MA,IPhone  6
+Brasília,R$ 730, DF,IPhone  6
+Belém,R$ 730, PA,IPhone  6
+Porto Alegre,R$ 730, RS,IPhone  6
+Vitória,R$ 730, ES,IPhone  6
+Belo Horizonte,R$ 730, MG,IPhone  6
+Santarém,R$ 730, PA,IPhone  6
+Sumaré,R$ 730, SP,IPhone  6
+Jandira,R$ 550, SP,iPhone 6
+Rio Branco,R$ 550, AC,iPhone 6
+Goiânia,R$ 550, GO,iPhone 6
+Mogi das Cruzes,R$ 550, SP,iPhone 6
+Rio Branco,R$ 550, AC,iPhone 6
+Aparecida de Goiânia,R$ 550, GO,iPhone 6
+Resende,R$ 550, RJ,iPhone 6
+Rio de Janeiro,R$ 550, RJ,iPhone 6
+Salvador,R$ 550, BA,iPhone 6
+Olinda,R$ 550, PE,iPhone 6
+Brasília,R$ 550, DF,iPhone 6
+Goiânia,R$ 550, GO,iPhone 6
+São Paulo,R$ 550, SP,iPhone 6
+Lençóis Paulista,R$ 550, SP,iPhone 6
+Ananindeua,R$ 550, PA,iPhone 6
+Manaus,R$ 550, AM,iPhone 6
+São Luís,R$ 550, MA,iPhone 6
+São Gonçalo,R$ 550, RJ,iPhone 6
+João Pessoa,R$ 550, PB,iPhone 6
+Governador Valadares,R$ 550, MG,iPhone 6
+Natal,R$ 550, RN,iPhone 6
+São Paulo,R$ 550, SP,iPhone 6
+Curitiba,R$ 550, PR,iPhone 6
+Ribeirão Preto,R$ 550, SP,iPhone 6
+Araraquara,R$ 550, SP,iPhone 6
+Santana,R$ 550, AP,iPhone 6
+Porto Alegre,R$ 550, RS,iPhone 6
+Salvador,R$ 550, BA,iPhone 6
+Embu das Artes,R$ 550, SP,iPhone 6
+Parauapebas,R$ 550, PA,iPhone 6
+Brasília,R$ 550, DF,iPhone 6
+Santo André,R$ 550, SP,iPhone 6
+Fortaleza,R$ 550, CE,iPhone 6
+Manaus,R$ 550, AM,iPhone 6
+Santo André,R$ 550, SP,iPhone 6
+São Paulo,R$ 550, SP,iPhone 6
+Brasília,R$ 550, DF,iPhone 6
+Recife,R$ 550, PE,iPhone 6
+Campo Grande,R$ 550, MS,iPhone 6
+Sorocaba,R$ 550, SP,iPhone 6
+Boca da Mata,R$ 550, AL,iPhone 6
+Vargem Grande Paulista,R$ 550, SP,iPhone 6
+São Bernardo do Campo,R$ 550, SP,iPhone 6
+Recife,R$ 550, PE,iPhone 6
+Salvador,R$ 550, BA,iPhone 6
+Serra Azul,R$ 550, SP,iPhone 6
+Itapema,R$ 550, SC,iPhone 6
+Manaus,R$ 550, AM,iPhone 6
+Maceió,R$ 600, AL,Iphone 6
+Santarém,R$ 600, PA,Iphone 6
+Santarém,R$ 600, PA,Iphone 6
+Natal,R$ 600, RN,Iphone 6
+Uberlândia,R$ 600, MG,Iphone 6
+Bauru,R$ 600, SP,Iphone 6
+Pelotas,R$ 600, RS,Iphone 6
+Aracaju,R$ 600, SE,Iphone 6
+Campo Grande,R$ 600, MS,Iphone 6
+Olímpia,R$ 600, SP,Iphone 6
+Arapiraca,R$ 600, AL,Iphone 6
+Lauro de Freitas,R$ 600, BA,Iphone 6
+Guarulhos,R$ 600, SP,Iphone 6
+Goiânia,R$ 600, GO,Iphone 6
+Itajaí,R$ 600, SC,Iphone 6
+Belém,R$ 600, PA,Iphone 6
+Belo Horizonte,R$ 600, MG,Iphone 6
+Manaus,R$ 600, AM,Iphone 6
+Linhares,R$ 600, ES,Iphone 6
+Salvador,R$ 600, BA,Iphone 6
+Lauro de Freitas,R$ 600, BA,Iphone 6
+Curitiba,R$ 600, PR,Iphone 6
+Aracaju,R$ 600, SE,Iphone 6
+Rio de Janeiro,R$ 600, RJ,Iphone 6
+Campinas,R$ 600, SP,Iphone 6
+Balneário Camboriú,R$ 600, SC,Iphone 6
+Ribeirão Preto,R$ 600, SP,Iphone 6
+Palhoça,R$ 600, SC,Iphone 6
+Manaus,R$ 600, AM,Iphone 6
+Rio de Janeiro,R$ 600, RJ,Iphone 6
+Rio de Janeiro,R$ 600, RJ,Iphone 6
+Santo André,R$ 600, SP,Iphone 6
+Curitiba,R$ 600, PR,Iphone 6
+Belo Horizonte,R$ 600, MG,Iphone 6
+São Luís,R$ 600, MA,Iphone 6
+Salvador,R$ 600, BA,Iphone 6
+Salvador,R$ 600, BA,Iphone 6
+Campo Grande,R$ 600, MS,Iphone 6
+São João de Meriti,R$ 600, RJ,Iphone 6
+Salvador,R$ 600, BA,Iphone 6
+Simões Filho,R$ 600, BA,Iphone 6
+Montes Claros,R$ 600, MG,Iphone 6
+Boa Vista,R$ 600, RR,Iphone 6
+Brasília,R$ 600, DF,Iphone 6
+Porto Alegre,R$ 600, RS,Iphone 6
+Brasília,R$ 600, DF,Iphone 6
+Salvador,R$ 600, BA,Iphone 6
+Brasília,R$ 600, DF,Iphone 6
+Novo Hamburgo,R$ 600, RS,Iphone 6
+Salvador,R$ 600, BA,Iphone 6
+Salvador,R$ 3.850, BA,iPhone 11
+São Caetano do Sul,R$ 3.850, SP,iPhone 11
+Maricá,R$ 3.850, RJ,iPhone 11
+Natal,R$ 3.850, RN,iPhone 11
+Manaus,R$ 3.850, AM,iPhone 11
+Salvador,R$ 3.850, BA,iPhone 11
+Sumaré,R$ 3.850, SP,iPhone 11
+Fortaleza,R$ 3.850, CE,iPhone 11
+São Bernardo do Campo,R$ 3.850, SP,iPhone 11
+Macapá,R$ 3.850, AP,iPhone 11
+João Pessoa,R$ 3.850, PB,iPhone 11
+Cambé,R$ 3.850, PR,iPhone 11
+Cabedelo,R$ 3.850, PB,iPhone 11
+Campo Grande,R$ 3.850, MS,iPhone 11
+Jaboatão dos Guararapes,R$ 3.850, PE,iPhone 11
+Maringá,R$ 3.850, PR,iPhone 11
+Betim,R$ 3.850, MG,iPhone 11
+Olinda,R$ 3.850, PE,iPhone 11
+Maceió,R$ 3.850, AL,iPhone 11
+Porto Alegre,R$ 3.850, RS,iPhone 11
+Rio de Janeiro,R$ 3.850, RJ,iPhone 11
+João Pessoa,R$ 3.850, PB,iPhone 11
+Belém,R$ 3.850, PA,iPhone 11
+Rio Formoso,R$ 3.850, PE,iPhone 11
+Salvador,R$ 3.850, BA,iPhone 11
+Aracaju,R$ 3.850, SE,iPhone 11
+Belo Horizonte,R$ 3.850, MG,iPhone 11
+Fortaleza,R$ 3.850, CE,iPhone 11
+Brasília,R$ 3.850, DF,iPhone 11
+Diadema,R$ 3.850, SP,iPhone 11
+Boa Vista,R$ 3.850, RR,iPhone 11
+Maracanaú,R$ 3.850, CE,iPhone 11
+Rio Branco,R$ 3.850, AC,iPhone 11
+União dos Palmares,R$ 3.850, AL,iPhone 11
+Montes Claros,R$ 3.850, MG,iPhone 11
+Brasília,R$ 3.850, DF,iPhone 11
+Cabedelo,R$ 3.850, PB,iPhone 11
+Uberlândia,R$ 3.850, MG,iPhone 11
+Goianinha,R$ 3.850, RN,iPhone 11
+Boa Vista,R$ 3.850, RR,iPhone 11
+Fortaleza,R$ 3.850, CE,iPhone 11
+Caucaia,R$ 3.850, CE,iPhone 11
+Recife,R$ 3.850, PE,iPhone 11
+São Paulo,R$ 3.850, SP,iPhone 11
+Rio Branco,R$ 3.850, AC,iPhone 11
+Vitória de Santo Antão,R$ 3.850, PE,iPhone 11
+Cuiabá,R$ 3.850, MT,iPhone 11
+Barra Velha,R$ 3.850, SC,iPhone 11
+Manaus,R$ 3.850, AM,iPhone 11
+Manaus,R$ 400, AM,iPhone 6
+Parnamirim,R$ 400, RN,iPhone 6
+Manaus,R$ 400, AM,iPhone 6
+São João de Meriti,R$ 400, RJ,iPhone 6
+Brasília,R$ 400, DF,iPhone 6
+Paço do Lumiar,R$ 400, MA,iPhone 6
+Brasília,R$ 400, DF,iPhone 6
+Fortaleza,R$ 400, CE,iPhone 6
+São Paulo,R$ 400, SP,iPhone 6
+Teresina,R$ 400, PI,iPhone 6
+Jaboatão dos Guararapes,R$ 400, PE,iPhone 6
+Fortaleza,R$ 400, CE,iPhone 6
+São Caetano do Sul,R$ 400, SP,iPhone 6
+Teresina,R$ 400, PI,iPhone 6
+Muriaé,R$ 400, MG,iPhone 6
+Rio de Janeiro,R$ 400, RJ,iPhone 6
+Salvador,R$ 400, BA,iPhone 6
+São Gonçalo,R$ 400, RJ,iPhone 6
+Recife,R$ 400, PE,iPhone 6
+Praia Grande,R$ 400, SP,iPhone 6
+Contagem,R$ 400, MG,iPhone 6
+Sorocaba,R$ 400, SP,iPhone 6
+Campo Grande,R$ 400, MS,iPhone 6
+Araraquara,R$ 400, SP,iPhone 6
+Eusébio,R$ 400, CE,iPhone 6
+Goiânia,R$ 400, GO,iPhone 6
+Salvador,R$ 400, BA,iPhone 6
+São João de Meriti,R$ 400, RJ,iPhone 6
+Niterói,R$ 400, RJ,iPhone 6
+João Pessoa,R$ 400, PB,iPhone 6
+Maceió,R$ 400, AL,iPhone 6
+Brasília,R$ 400, DF,iPhone 6
+Recife,R$ 400, PE,iPhone 6
+Belo Horizonte,R$ 400, MG,iPhone 6
+João Pessoa,R$ 400, PB,iPhone 6
+Fortaleza,R$ 400, CE,iPhone 6
+São Paulo,R$ 400, SP,iPhone 6
+Fortaleza,R$ 400, CE,iPhone 6
+Simões Filho,R$ 400, BA,iPhone 6
+Hortolândia,R$ 400, SP,iPhone 6
+Luziânia,R$ 400, DF,iPhone 6
+Salvador,R$ 400, BA,iPhone 6
+Manaus,R$ 400, AM,iPhone 6
+Camaçari,R$ 400, BA,iPhone 6
+Fortaleza,R$ 400, CE,iPhone 6
+Piracicaba,R$ 400, SP,iPhone 6
+Manaus,R$ 400, AM,iPhone 6
+Salvador,R$ 400, BA,iPhone 6
+Rio de Janeiro,R$ 400, RJ,iPhone 6
+Saquarema,R$ 400, RJ,iPhone 6
+Itapemirim,R$ 5.100, ES,iPhone 11pro
+Rio de Janeiro,R$ 5.100, RJ,iPhone 11pro
+Rio de Janeiro,R$ 5.100, RJ,iPhone 11pro
+Salvador,R$ 5.100, BA,iPhone 11pro
+Belém,R$ 5.100, PA,iPhone 11pro
+Rio de Janeiro,R$ 5.100, RJ,iPhone 11pro
+Belo Horizonte,R$ 5.100, MG,iPhone 11pro
+Rio de Janeiro,R$ 5.100, RJ,iPhone 11pro
+Niterói,R$ 5.100, RJ,iPhone 11pro
+Praia Grande,R$ 5.100, SP,iPhone 11pro
+Montes Claros,R$ 5.100, MG,iPhone 11pro
+Caruaru,R$ 5.100, PE,iPhone 11pro
+São Vicente,R$ 5.100, SP,iPhone 11pro
+Teresina,R$ 5.100, PI,iPhone 11pro
+Curitiba,R$ 5.100, PR,iPhone 11pro
+Vila Velha,R$ 5.100, ES,iPhone 11pro
+São Luís,R$ 5.100, MA,iPhone 11pro
+Belo Horizonte,R$ 5.100, MG,iPhone 11pro
+Porto Velho,R$ 5.100, RO,iPhone 11pro
+Águas Lindas de Goiás,R$ 5.100, DF,iPhone 11pro
+Balneário Camboriú,R$ 5.100, SC,iPhone 11pro
+Salvador,R$ 5.100, BA,iPhone 11pro
+Praia Grande,R$ 5.100, SP,iPhone 11pro
+Aracaju,R$ 5.100, SE,iPhone 11pro
+Manaus,R$ 5.100, AM,iPhone 11pro
+Seropédica,R$ 5.100, RJ,iPhone 11pro
+Fortaleza,R$ 5.100, CE,iPhone 11pro
+Belém,R$ 5.100, PA,iPhone 11pro
+São João de Meriti,R$ 5.100, RJ,iPhone 11pro
+Porto Velho,R$ 5.100, RO,iPhone 11pro
+Rio de Janeiro,R$ 5.100, RJ,iPhone 11pro
+Goiânia,R$ 5.100, GO,iPhone 11pro
+Novo Horizonte,R$ 5.100, SP,iPhone 11pro
+Fortaleza,R$ 5.100, CE,iPhone 11pro
+Belo Horizonte,R$ 5.100, MG,iPhone 11pro
+Macapá,R$ 5.100, AP,iPhone 11pro
+Salvador,R$ 5.100, BA,iPhone 11pro
+Jaboatão dos Guararapes,R$ 5.100, PE,iPhone 11pro
+Salvador,R$ 5.100, BA,iPhone 11pro
+Brasília,R$ 5.100, DF,iPhone 11pro
+Goiânia,R$ 5.100, GO,iPhone 11pro
+Florianópolis,R$ 5.100, SC,iPhone 11pro
+Salvador,R$ 5.100, BA,iPhone 11pro
+Brasília,R$ 5.100, DF,iPhone 11pro
+São Paulo,R$ 5.100, SP,iPhone 11pro
+Diadema,R$ 5.100, SP,iPhone 11pro
+Itaquaquecetuba,R$ 5.100, SP,iPhone 11pro
+Aracaju,R$ 5.100, SE,iPhone 11pro
+Rio de Janeiro,R$ 5.100, RJ,iPhone 11pro
+Bauru,R$ 5.100, SP,iPhone 11pro
+Mauá,R$ 360, SP,iPhone 5c
+Fortaleza,R$ 360, CE,iPhone 5c
+Salvador,R$ 360, BA,iPhone 5c
+Olinda,R$ 360, PE,iPhone 5c
+Sorocaba,R$ 360, SP,iPhone 5c
+Sete Lagoas,R$ 360, MG,iPhone 5c
+Rio de Janeiro,R$ 360, RJ,iPhone 5c
+Maceió,R$ 360, AL,iPhone 5c
+Duque de Caxias,R$ 360, RJ,iPhone 5c
+Belo Horizonte,R$ 360, MG,iPhone 5c
+Cabo Frio,R$ 360, RJ,iPhone 5c
+Rio de Janeiro,R$ 360, RJ,iPhone 5c
+Maringá,R$ 360, PR,iPhone 5c
+João Pessoa,R$ 360, PB,iPhone 5c
+Salvador,R$ 360, BA,iPhone 5c
+Fortaleza,R$ 360, CE,iPhone 5c
+Curitiba,R$ 360, PR,iPhone 5c
+Santo Antônio de Pádua,R$ 360, RJ,iPhone 5c
+Jaraguá do Sul,R$ 360, SC,iPhone 5c
+Maceió,R$ 360, AL,iPhone 5c
+Goiânia,R$ 360, GO,iPhone 5c
+Montes Claros,R$ 360, MG,iPhone 5c
+Cuiabá,R$ 360, MT,iPhone 5c
+Feira de Santana,R$ 360, BA,iPhone 5c
+Aracaju,R$ 360, SE,iPhone 5c
+Santana,R$ 360, AP,iPhone 5c
+Pelotas,R$ 360, RS,iPhone 5c
+Rio de Janeiro,R$ 360, RJ,iPhone 5c
+Aparecida de Goiânia,R$ 360, GO,iPhone 5c
+Dois Irmãos,R$ 360, RS,iPhone 5c
+Olinda,R$ 360, PE,iPhone 5c
+Delta,R$ 360, MG,iPhone 5c
+Boa Vista,R$ 360, RR,iPhone 5c
+São Paulo,R$ 360, SP,iPhone 5c
+Governador Valadares,R$ 360, MG,iPhone 5c
+Bauru,R$ 360, SP,iPhone 5c
+Belo Horizonte,R$ 360, MG,iPhone 5c
+Taubaté,R$ 360, SP,iPhone 5c
+Maceió,R$ 360, AL,iPhone 5c
+São Paulo,R$ 360, SP,iPhone 5c
+São Paulo,R$ 360, SP,iPhone 5c
+"Braço, Eldorado",R$ 360, SP,iPhone 5c
+Rio Branco,R$ 360, AC,iPhone 5c
+Caieiras,R$ 360, SP,iPhone 5c
+Foz do Iguaçu,R$ 360, PR,iPhone 5c
+Fortaleza,R$ 360, CE,iPhone 5c
+Maringá,R$ 360, PR,iPhone 5c
+Jaboatão dos Guararapes,R$ 360, PE,iPhone 5c
+São Paulo,R$ 30, SP,iPhone 4S
+Niterói,R$ 30, RJ,iPhone 4S
+Maringá,R$ 30, PR,iPhone 4S
+Curitiba,R$ 30, PR,iPhone 4S
+Brasília,R$ 30, DF,iPhone 4S
+Salvador,R$ 30, BA,iPhone 4S
+Conceição do Jacuípe,R$ 30, BA,iPhone 4S
+Itabaiana,R$ 30, PB,iPhone 4S
+São José de Ribamar,R$ 30, MA,iPhone 4S
+São José de Ribamar,R$ 30, MA,iPhone 4S
+Belém,R$ 30, PA,iPhone 4S
+Brasília,R$ 30, DF,iPhone 4S
+São João de Meriti,R$ 30, RJ,iPhone 4S
+Itaguaí,R$ 30, RJ,iPhone 4S
+Rio de Janeiro,R$ 30, RJ,iPhone 4S
+Salvador,R$ 30, BA,iPhone 4S
+Jaboatão dos Guararapes,R$ 30, PE,iPhone 4S
+Belo Horizonte,R$ 30, MG,iPhone 4S
+Salvador,R$ 30, BA,iPhone 4S
+São José dos Campos,R$ 30, SP,iPhone 4S
+Recife,R$ 30, PE,iPhone 4S
+Fortaleza,R$ 30, CE,iPhone 4S
+Salvador,R$ 30, BA,iPhone 4S
+São Luís,R$ 30, MA,iPhone 4S
+Manaus,R$ 30, AM,iPhone 4S
+São Paulo,R$ 30, SP,iPhone 4S
+Brasília,R$ 30, DF,iPhone 4S
+Florianópolis,R$ 30, SC,iPhone 4S
+Uberlândia,R$ 30, MG,iPhone 4S
+Sorocaba,R$ 30, SP,iPhone 4S
+Maceió,R$ 30, AL,iPhone 4S
+Joinville,R$ 30, SC,iPhone 4S
+Aparecida de Goiânia,R$ 30, GO,iPhone 4S
+Rio de Janeiro,R$ 30, RJ,iPhone 4S
+Boa Vista,R$ 30, RR,iPhone 4S
+Belém,R$ 30, PA,iPhone 4S
+Salvador,R$ 30, BA,iPhone 4S
+São Paulo,R$ 30, SP,iPhone 4S
+Belo Horizonte,R$ 30, MG,iPhone 4S
+Belo Horizonte,R$ 30, MG,iPhone 4S
+Aracaju,R$ 30, SE,iPhone 4S
+Belém,R$ 30, PA,iPhone 4S
+Natal,R$ 30, RN,iPhone 4S
+São Paulo,R$ 30, SP,iPhone 4S
+Salvador,R$ 30, BA,iPhone 4S
+São Paulo,R$ 30, SP,iPhone 4S
+São Luís,R$ 30, MA,iPhone 4S
+Manaus,R$ 30, AM,iPhone 4S
+Brasília,R$ 30, DF,iPhone 4S
+São Luís,R$ 30, MA,iPhone 4S
+Montes Claros,R$ 1.600, MG,iPhone 7
+Santa Luzia,R$ 1.600, MG,iPhone 7
+Rio de Janeiro,R$ 1.600, RJ,iPhone 7
+São João da Barra,R$ 1.600, RJ,iPhone 7
+Curitiba,R$ 1.600, PR,iPhone 7
+Divinópolis,R$ 1.600, MG,iPhone 7
+Rio Branco,R$ 1.600, AC,iPhone 7
+Jaboatão dos Guararapes,R$ 1.600, PE,iPhone 7
+Manaus,R$ 1.600, AM,iPhone 7
+Aracaju,R$ 1.600, SE,iPhone 7
+Florianópolis,R$ 1.600, SC,iPhone 7
+Niterói,R$ 1.600, RJ,iPhone 7
+Vitória,R$ 1.600, ES,iPhone 7
+Orizona,R$ 1.600, GO,iPhone 7
+Curitiba,R$ 1.600, PR,iPhone 7
+Betim,R$ 1.600, MG,iPhone 7
+Curitiba,R$ 1.600, PR,iPhone 7
+Belo Horizonte,R$ 1.600, MG,iPhone 7
+Bauru,R$ 1.600, SP,iPhone 7
+Urussanga,R$ 1.600, SC,iPhone 7
+Rio de Janeiro,R$ 1.600, RJ,iPhone 7
+Maracanaú,R$ 1.600, CE,iPhone 7
+Salvador,R$ 1.600, BA,iPhone 7
+Palhoça,R$ 1.600, SC,iPhone 7
+Salvador,R$ 1.600, BA,iPhone 7
+Porto Alegre,R$ 1.600, RS,iPhone 7
+São Paulo,R$ 1.600, SP,iPhone 7
+Brasília,R$ 1.600, DF,iPhone 7
+Urussanga,R$ 1.600, SC,iPhone 7
+Cuiabá,R$ 1.600, MT,iPhone 7
+Florianópolis,R$ 1.600, SC,iPhone 7
+São Paulo,R$ 1.600, SP,iPhone 7
+Petrolina,R$ 1.600, PE,iPhone 7
+Duque de Caxias,R$ 1.600, RJ,iPhone 7
+Feira de Santana,R$ 1.600, BA,iPhone 7
+Cachoeiro de Itapemirim,R$ 1.600, ES,iPhone 7
+Camaçari,R$ 1.600, BA,iPhone 7
+Goiânia,R$ 1.600, GO,iPhone 7
+Recife,R$ 1.600, PE,iPhone 7
+Natal,R$ 1.600, RN,iPhone 7
+Brasília,R$ 1.600, DF,iPhone 7
+São Paulo,R$ 1.600, SP,iPhone 7
+Sorocaba,R$ 1.600, SP,iPhone 7
+Belém,R$ 1.600, PA,iPhone 7
+Recife,R$ 1.600, PE,iPhone 7
+Macapá,R$ 1.600, AP,iPhone 7
+Campo Grande,R$ 1.600, MS,iPhone 7
+Araçatuba,R$ 1.600, SP,iPhone 7
+Fortaleza,R$ 1.600, CE,iPhone 7
+Manaus,R$ 1.600, AM,iPhone 7
+João Pessoa,R$ 1.200, PB,iphone 7 
+Curitiba,R$ 1.200, PR,iphone 7 
+Americana,R$ 1.200, SP,iphone 7 
+Brasília,R$ 1.200, DF,iphone 7 
+Manaus,R$ 1.200, AM,iphone 7 
+Cotia,R$ 1.200, SP,iphone 7 
+Campo Largo,R$ 1.200, PR,iphone 7 
+Juiz de Fora,R$ 1.200, MG,iphone 7 
+Rio de Janeiro,R$ 1.200, RJ,iphone 7 
+Guaíba,R$ 1.200, RS,iphone 7 
+Cabo Frio,R$ 1.200, RJ,iphone 7 
+Sapucaia do Sul,R$ 1.200, RS,iphone 7 
+Rio de Janeiro,R$ 1.200, RJ,iphone 7 
+Rio de Janeiro,R$ 1.200, RJ,iphone 7 
+Juiz de Fora,R$ 1.200, MG,iphone 7 
+Natal,R$ 1.200, RN,iphone 7 
+Sumaré,R$ 1.200, SP,iphone 7 
+Brasília,R$ 1.200, DF,iphone 7 
+Belém,R$ 1.200, PA,iphone 7 
+Campinas,R$ 1.200, SP,iphone 7 
+Juiz de Fora,R$ 1.200, MG,iphone 7 
+Belém,R$ 1.200, PA,iphone 7 
+Maceió,R$ 1.200, AL,iphone 7 
+Rio Branco,R$ 1.200, AC,iphone 7 
+Teresina,R$ 1.200, PI,iphone 7 
+São Caetano do Sul,R$ 1.200, SP,iphone 7 
+Cariacica,R$ 1.200, ES,iphone 7 
+Uberlândia,R$ 1.200, MG,iphone 7 
+São Luís,R$ 1.200, MA,iphone 7 
+Curitiba,R$ 1.200, PR,iphone 7 
+Petrolina,R$ 1.200, PE,iphone 7 
+Brasília,R$ 1.200, DF,iphone 7 
+Fortaleza,R$ 1.200, CE,iphone 7 
+Fortaleza,R$ 1.200, CE,iphone 7 
+Porto Velho,R$ 1.200, RO,iphone 7 
+Joinville,R$ 1.200, SC,iphone 7 
+Jaboatão dos Guararapes,R$ 1.200, PE,iphone 7 
+Brasília,R$ 1.200, DF,iphone 7 
+Balneário Camboriú,R$ 1.200, SC,iphone 7 
+Boa Vista,R$ 1.200, RR,iphone 7 
+Salvador,R$ 1.200, BA,iphone 7 
+São Luís,R$ 1.200, MA,iphone 7 
+São Paulo,R$ 1.200, SP,iphone 7 
+Porto Velho,R$ 1.200, RO,iphone 7 
+Manaus,R$ 1.200, AM,iphone 7 
+Itaúna,R$ 1.200, MG,iphone 7 
+Londrina,R$ 1.200, PR,iphone 7 
+Piracuruca,R$ 1.200, PI,iphone 7 
+Feira de Santana,R$ 2.550, BA,iPhone XR
+Balneário Camboriú,R$ 2.550, SC,iPhone XR
+São Luís,R$ 2.550, MA,iPhone XR
+Nossa Senhora das Dores,R$ 2.550, SE,iPhone XR
+Rio Branco,R$ 2.550, AC,iPhone XR
+Castanhal,R$ 2.550, PA,iPhone XR
+Anápolis,R$ 2.550, GO,iPhone XR
+Goiânia,R$ 2.550, GO,iPhone XR
+Aracaju,R$ 2.550, SE,iPhone XR
+Itapema,R$ 2.550, SC,iPhone XR
+Manaus,R$ 2.550, AM,iPhone XR
+Manaus,R$ 2.550, AM,iPhone XR
+Campo Grande,R$ 2.550, MS,iPhone XR
+Manaus,R$ 2.550, AM,iPhone XR
+Manaus,R$ 2.550, AM,iPhone XR
+Brasília,R$ 2.550, DF,iPhone XR
+Brasília,R$ 2.550, DF,iPhone XR
+Alvinópolis,R$ 2.550, MG,iPhone XR
+Rio Largo,R$ 2.550, AL,iPhone XR
+Santarém,R$ 2.550, PA,iPhone XR
+Manaus,R$ 2.550, AM,iPhone XR
+Aracaju,R$ 2.550, SE,iPhone XR
+Teresina,R$ 2.550, PI,iPhone XR
+Curitiba,R$ 2.550, PR,iPhone XR
+Brasília,R$ 2.550, DF,iPhone XR
+Santa Bárbara D'Oeste,R$ 2.550, SP,iPhone XR
+Ribeirão Preto,R$ 2.550, SP,iPhone XR
+Fortaleza,R$ 2.550, CE,iPhone XR
+Ibirité,R$ 2.550, MG,iPhone XR
+Curitiba,R$ 2.550, PR,iPhone XR
+Rio de Janeiro,R$ 2.550, RJ,iPhone XR
+Rio de Janeiro,R$ 2.550, RJ,iPhone XR
+Rio Branco,R$ 2.550, AC,iPhone XR
+Brusque,R$ 2.550, SC,iPhone XR
+Brasília,R$ 2.550, DF,iPhone XR
+Porto Velho,R$ 2.550, RO,iPhone XR
+Luziânia,R$ 2.550, DF,iPhone XR
+Camaragibe,R$ 2.550, PE,iPhone XR
+Contagem,R$ 2.550, MG,iPhone XR
+Rio de Janeiro,R$ 2.550, RJ,iPhone XR
+Sertãozinho,R$ 2.550, SP,iPhone XR
+Fortaleza,R$ 2.550, CE,iPhone XR
+Jundiaí,R$ 2.550, SP,iPhone XR
+Belo Horizonte,R$ 2.550, MG,iPhone XR
+Irará,R$ 2.550, BA,iPhone XR
+Teresina,R$ 2.550, PI,iPhone XR
+São Vicente,R$ 2.200, SP,Iphone 8
+São Paulo,R$ 2.200, SP,Iphone 8
+Salvador,R$ 2.200, BA,Iphone 8
+Fortaleza,R$ 2.200, CE,Iphone 8
+São José dos Campos,R$ 2.200, SP,Iphone 8
+Maracanaú,R$ 2.200, CE,Iphone 8
+Gaspar,R$ 2.200, SC,Iphone 8
+Joinville,R$ 2.200, SC,Iphone 8
+Juiz de Fora,R$ 2.200, MG,Iphone 8
+Recife,R$ 2.200, PE,Iphone 8
+Maricá,R$ 2.200, RJ,Iphone 8
+Montes Claros,R$ 2.200, MG,Iphone 8
+Salvador,R$ 2.200, BA,Iphone 8
+Campo Largo,R$ 2.200, PR,Iphone 8
+Nossa Senhora do Socorro,R$ 2.200, SE,Iphone 8
+Barra Bonita,R$ 2.200, SP,Iphone 8
+Curitiba,R$ 2.200, PR,Iphone 8
+Vitória,R$ 2.200, ES,Iphone 8
+Maceió,R$ 2.200, AL,Iphone 8
+Brasília,R$ 2.200, DF,Iphone 8
+São José do Rio Preto,R$ 2.200, SP,Iphone 8
+Aracaju,R$ 2.200, SE,Iphone 8
+Ribeirão Preto,R$ 2.200, SP,Iphone 8
+Guarulhos,R$ 2.200, SP,Iphone 8
+Rio de Janeiro,R$ 2.200, RJ,Iphone 8
+Vila Velha,R$ 2.200, ES,Iphone 8
+Manaus,R$ 2.200, AM,Iphone 8
+Feira de Santana,R$ 2.200, BA,Iphone 8
+Itajaí,R$ 2.200, SC,Iphone 8
+Gravataí,R$ 2.200, RS,Iphone 8
+Recife,R$ 2.200, PE,Iphone 8
+Boa Vista,R$ 2.200, RR,Iphone 8
+Goiânia,R$ 2.200, GO,Iphone 8
+Ribeirão Preto,R$ 2.200, SP,Iphone 8
+Rio Branco,R$ 2.200, AC,Iphone 8
+São Paulo,R$ 2.200, SP,Iphone 8
+Teresina,R$ 2.200, PI,Iphone 8
+Cabo de Santo Agostinho,R$ 2.200, PE,Iphone 8
+Santa Luzia,R$ 2.200, MG,Iphone 8
+Goiânia,R$ 2.200, GO,Iphone 8
+Salvador,R$ 2.200, BA,Iphone 8
+São José,R$ 2.200, SC,Iphone 8
+Iguaba Grande,R$ 2.200, RJ,Iphone 8
+Raposa,R$ 2.200, MA,Iphone 8
+Salvador,R$ 2.200, BA,Iphone 8
+Barra dos Coqueiros,R$ 2.200, SE,Iphone 8
+Franca,R$ 2.200, SP,Iphone 8
+Goiânia,R$ 2.200, GO,Iphone 8
+Joinville,R$ 2.200, SC,Iphone 8
+Fortaleza,R$ 2.200, CE,Iphone 8
+Contagem,R$ 1.790, MG,iPhone 8
+Niterói,R$ 1.790, RJ,iPhone 8
+Juiz de Fora,R$ 1.790, MG,iPhone 8
+Santa Rita,R$ 1.790, PB,iPhone 8
+Itapipoca,R$ 1.790, CE,iPhone 8
+Sete Lagoas,R$ 1.790, MG,iPhone 8
+Curitiba,R$ 1.790, PR,iPhone 8
+Satuba,R$ 1.790, AL,iPhone 8
+Uruaçu,R$ 1.790, GO,iPhone 8
+Brasília,R$ 1.790, DF,iPhone 8
+São Luís,R$ 1.790, MA,iPhone 8
+Campinas,R$ 1.790, SP,iPhone 8
+Maceió,R$ 1.790, AL,iPhone 8
+São Paulo,R$ 1.790, SP,iPhone 8
+Caxias do Sul,R$ 1.790, RS,iPhone 8
+Goiânia,R$ 1.790, GO,iPhone 8
+Brasília,R$ 1.790, DF,iPhone 8
+Belo Horizonte,R$ 1.790, MG,iPhone 8
+Brasília,R$ 1.790, DF,iPhone 8
+Brasília,R$ 1.790, DF,iPhone 8
+Jaboatão dos Guararapes,R$ 1.790, PE,iPhone 8
+São Paulo,R$ 1.790, SP,iPhone 8
+Cuiabá,R$ 1.790, MT,iPhone 8
+São Paulo,R$ 1.790, SP,iPhone 8
+Campo Formoso,R$ 1.790, BA,iPhone 8
+Rio Branco,R$ 1.790, AC,iPhone 8
+Rio de Janeiro,R$ 1.790, RJ,iPhone 8
+Sorocaba,R$ 1.790, SP,iPhone 8
+Caracaraí,R$ 1.790, RR,iPhone 8
+Londrina,R$ 1.790, PR,iPhone 8
+Teresina,R$ 1.790, PI,iPhone 8
+Rio de Janeiro,R$ 1.790, RJ,iPhone 8
+São Paulo,R$ 1.790, SP,iPhone 8
+Belém,R$ 1.790, PA,iPhone 8
+Curitiba,R$ 1.790, PR,iPhone 8
+São Gonçalo,R$ 1.790, RJ,iPhone 8
+Buritizal,R$ 1.790, SP,iPhone 8
+Marília,R$ 1.790, SP,iPhone 8
+Contagem,R$ 1.790, MG,iPhone 8
+Olinda,R$ 1.790, PE,iPhone 8
+Jaboatão dos Guararapes,R$ 1.790, PE,iPhone 8
+Prata,R$ 1.790, MG,iPhone 8
+Duque de Caxias,R$ 1.790, RJ,iPhone 8
+Nossa Senhora das Dores,R$ 1.790, SE,iPhone 8
+Guarulhos,R$ 1.790, SP,iPhone 8
+Brasília,R$ 1.790, DF,iPhone 8
+Campinas,R$ 1.790, SP,iPhone 8
+Joinville,R$ 1.790, SC,iPhone 8
+João Pessoa,R$ 1.790, PB,iPhone 8
+Valparaíso de Goiás,R$ 1.790, DF,iPhone 8
+Nossa Senhora do Socorro,R$ 1.000, SE,Vendo Iphone 
+Barrinha,R$ 1.000, SP,Vendo Iphone 
+São Luís,R$ 1.000, MA,Vendo Iphone 
+Itabaiana,R$ 1.000, SE,Vendo Iphone 
+Rio de Janeiro,R$ 1.000, RJ,Vendo Iphone 
+Rio de Janeiro,R$ 1.000, RJ,Vendo Iphone 
+Lauro de Freitas,R$ 1.000, BA,Vendo Iphone 
+Fortaleza,R$ 1.000, CE,Vendo Iphone 
+Manaus,R$ 1.000, AM,Vendo Iphone 
+Cariacica,R$ 1.000, ES,Vendo Iphone 
+Curitiba,R$ 1.000, PR,Vendo Iphone 
+São Paulo,R$ 1.000, SP,Vendo Iphone 
+São Paulo,R$ 1.000, SP,Vendo Iphone 
+São Luís,R$ 1.000, MA,Vendo Iphone 
+Belo Horizonte,R$ 1.000, MG,Vendo Iphone 
+São Paulo,R$ 1.000, SP,Vendo Iphone 
+Aracruz,R$ 1.000, ES,Vendo Iphone 
+Brasília,R$ 1.000, DF,Vendo Iphone 
+Simões Filho,R$ 1.000, BA,Vendo Iphone 
+São Paulo,R$ 1.000, SP,Vendo Iphone 
+Brasília,R$ 1.000, DF,Vendo Iphone 
+Brasília,R$ 1.000, DF,Vendo Iphone 
+Fortaleza,R$ 1.000, CE,Vendo Iphone 
+Manaus,R$ 1.000, AM,Vendo Iphone 
+Fortaleza,R$ 1.000, CE,Vendo Iphone 
+Cuiabá,R$ 1.000, MT,Vendo Iphone 
+João Pessoa,R$ 1.000, PB,Vendo Iphone 
+Várzea Grande,R$ 1.000, MT,Vendo Iphone 
+Itaguajé,R$ 1.000, PR,Vendo Iphone 
+Araçatuba,R$ 1.000, SP,Vendo Iphone 
+Belo Horizonte,R$ 1.000, MG,Vendo Iphone 
+Mossoró,R$ 1.000, RN,Vendo Iphone 
+Juiz de Fora,R$ 1.000, MG,Vendo Iphone 
+Natal,R$ 1.000, RN,Vendo Iphone 
+Sumaré,R$ 1.000, SP,Vendo Iphone 
+Brasília,R$ 1.000, DF,Vendo Iphone 
+Belém,R$ 1.000, PA,Vendo Iphone 
+Campinas,R$ 1.000, SP,Vendo Iphone 
+Juiz de Fora,R$ 1.000, MG,Vendo Iphone 
+Belém,R$ 1.000, PA,Vendo Iphone 
+Maceió,R$ 1.000, AL,Vendo Iphone 
+Rio Branco,R$ 1.000, AC,Vendo Iphone 
+Teresina,R$ 1.000, PI,Vendo Iphone 
+São Caetano do Sul,R$ 1.000, SP,Vendo Iphone 
+Cariacica,R$ 1.000, ES,Vendo Iphone 
+Uberlândia,R$ 1.000, MG,Vendo Iphone 
+São Luís,R$ 1.000, MA,Vendo Iphone 
+Curitiba,R$ 1.000, PR,Vendo Iphone 
+Petrolina,R$ 1.000, PE,Vendo Iphone 
+Santarém,R$ 2.100, PA,iPhone 7plus
+Cabo Frio,R$ 2.100, RJ,iPhone 7plus
+Resende,R$ 2.100, RJ,iPhone 7plus
+Mesquita,R$ 2.100, RJ,iPhone 7plus
+Carapicuíba,R$ 2.100, SP,iPhone 7plus
+"Abrantes, Camaçari",R$ 2.100, BA,iPhone 7plus
+Ponta Grossa,R$ 2.100, PR,iPhone 7plus
+São Paulo,R$ 2.100, SP,iPhone 7plus
+Recife,R$ 2.100, PE,iPhone 7plus
+Sorocaba,R$ 2.100, SP,iPhone 7plus
+Osasco,R$ 2.100, SP,iPhone 7plus
+São Paulo,R$ 2.100, SP,iPhone 7plus
+Campo Grande,R$ 2.100, MS,iPhone 7plus
+Sorocaba,R$ 2.100, SP,iPhone 7plus
+Rio de Janeiro,R$ 2.100, RJ,iPhone 7plus
+Piraquara,R$ 2.100, PR,iPhone 7plus
+Araçatuba,R$ 2.100, SP,iPhone 7plus
+Aracaju,R$ 2.100, SE,iPhone 7plus
+Fortaleza,R$ 2.100, CE,iPhone 7plus
+Jacareí,R$ 2.100, SP,iPhone 7plus
+Rio de Janeiro,R$ 2.100, RJ,iPhone 7plus
+Ribeirão Preto,R$ 2.100, SP,iPhone 7plus
+Rio Branco,R$ 2.100, AC,iPhone 7plus
+Brasília,R$ 2.100, DF,iPhone 7plus
+Santos,R$ 2.100, SP,iPhone 7plus
+Sorocaba,R$ 2.100, SP,iPhone 7plus
+Natal,R$ 2.100, RN,iPhone 7plus
+Igarapé,R$ 2.100, MG,iPhone 7plus
+Ilha Solteira,R$ 2.100, SP,iPhone 7plus
+Rio de Janeiro,R$ 2.100, RJ,iPhone 7plus
+Timóteo,R$ 2.100, MG,iPhone 7plus
+Ivoti,R$ 2.100, RS,iPhone 7plus
+Brasília,R$ 2.100, DF,iPhone 7plus
+Rio de Janeiro,R$ 2.100, RJ,iPhone 7plus
+São Paulo,R$ 2.100, SP,iPhone 7plus
+Várzea Grande,R$ 2.100, MT,iPhone 7plus
+Itaguajé,R$ 2.100, PR,iPhone 7plus
+Araçatuba,R$ 2.100, SP,iPhone 7plus
+Belo Horizonte,R$ 2.100, MG,iPhone 7plus
+Mossoró,R$ 2.100, RN,iPhone 7plus
+Canaã dos Carajás,R$ 2.100, PA,iPhone 7plus
+Aracaju,R$ 2.100, SE,iPhone 7plus
+Viana,R$ 2.100, ES,iPhone 7plus
+São Paulo,R$ 2.100, SP,iPhone 7plus
+Belo Horizonte,R$ 2.100, MG,iPhone 7plus
+Maricá,R$ 2.100, RJ,iPhone 7plus
+Tremembé,R$ 2.100, SP,iPhone 7plus
+Juiz de Fora,R$ 2.100, MG,iPhone 7plus
+Natal,R$ 2.100, RN,iPhone 7plus
+São Paulo,R$ 800, SP,Iphone 6s
+Manaus,R$ 800, AM,Iphone 6s
+Brasília,R$ 800, DF,Iphone 6s
+Colatina,R$ 800, ES,Iphone 6s
+Goiânia,R$ 800, GO,Iphone 6s
+Belo Horizonte,R$ 800, MG,Iphone 6s
+Joinville,R$ 800, SC,Iphone 6s
+São José de Ribamar,R$ 800, MA,Iphone 6s
+Cascavel,R$ 800, PR,Iphone 6s
+Ipatinga,R$ 800, MG,Iphone 6s
+Goioerê,R$ 800, PR,Iphone 6s
+Aracaju,R$ 800, SE,Iphone 6s
+Maceió,R$ 800, AL,Iphone 6s
+Paulista,R$ 800, PE,Iphone 6s
+Vitória,R$ 800, ES,Iphone 6s
+Fortaleza,R$ 800, CE,Iphone 6s
+Criciúma,R$ 800, SC,Iphone 6s
+Cuiabá,R$ 800, MT,Iphone 6s
+Barra dos Coqueiros,R$ 800, SE,Iphone 6s
+Rio Branco,R$ 800, AC,Iphone 6s
+Santarém,R$ 800, PA,Iphone 6s
+Cabo Frio,R$ 800, RJ,Iphone 6s
+Resende,R$ 800, RJ,Iphone 6s
+Salvador,R$ 800, BA,Iphone 6s
+Goiânia,R$ 800, GO,Iphone 6s
+São Luís,R$ 800, MA,Iphone 6s
+Brasília,R$ 800, DF,Iphone 6s
+Várzea Grande,R$ 800, MT,Iphone 6s
+Salvador,R$ 800, BA,Iphone 6s
+São Paulo,R$ 800, SP,Iphone 6s
+São Paulo,R$ 800, SP,Iphone 6s
+São Paulo,R$ 800, SP,Iphone 6s
+Salvador,R$ 800, BA,Iphone 6s
+Canaã dos Carajás,R$ 800, PA,Iphone 6s
+Guarulhos,R$ 800, SP,Iphone 6s
+Aracaju,R$ 800, SE,Iphone 6s
+Viana,R$ 800, ES,Iphone 6s
+Fortaleza,R$ 800, CE,Iphone 6s
+Dois Vizinhos,R$ 800, PR,Iphone 6s
+Goiânia,R$ 800, GO,Iphone 6s
+Macapá,R$ 800, AP,Iphone 6s
+Olinda,R$ 800, PE,Iphone 6s
+Corinto,R$ 800, MG,Iphone 6s
+Uberlândia,R$ 800, MG,Iphone 6s
+Betim,R$ 800, MG,Iphone 6s
+Goiânia,R$ 800, GO,Iphone 6s
+Brasília,R$ 800, DF,Iphone 6s
+João Pessoa,R$ 800, PB,Iphone 6s
+Piracicaba,R$ 800, SP,Iphone 6s
+Salvador,R$ 800, BA,Iphone 6s
+Manaus,R$ 1.350, AM,iPhone 7 
+Brasília,R$ 1.350, DF,iPhone 7 
+São Luís,R$ 1.350, MA,iPhone 7 
+Porto Alegre,R$ 1.350, RS,iPhone 7 
+Senador Canedo,R$ 1.350, GO,iPhone 7 
+Salvador,R$ 1.350, BA,iPhone 7 
+Passo Fundo,R$ 1.350, RS,iPhone 7 
+Linhares,R$ 1.350, ES,iPhone 7 
+Jaraguá do Sul,R$ 1.350, SC,iPhone 7 
+Recife,R$ 1.350, PE,iPhone 7 
+Ribeirão das Neves,R$ 1.350, MG,iPhone 7 
+Brasília,R$ 1.350, DF,iPhone 7 
+Manaus,R$ 1.350, AM,iPhone 7 
+Brasília,R$ 1.350, DF,iPhone 7 
+Colatina,R$ 1.350, ES,iPhone 7 
+Goiânia,R$ 1.350, GO,iPhone 7 
+Belo Horizonte,R$ 1.350, MG,iPhone 7 
+São José de Ribamar,R$ 1.350, MA,iPhone 7 
+Cascavel,R$ 1.350, PR,iPhone 7 
+Ipatinga,R$ 1.350, MG,iPhone 7 
+Goioerê,R$ 1.350, PR,iPhone 7 
+Aracaju,R$ 1.350, SE,iPhone 7 
+Vitória,R$ 1.350, ES,iPhone 7 
+Fortaleza,R$ 1.350, CE,iPhone 7 
+Criciúma,R$ 1.350, SC,iPhone 7 
+Cuiabá,R$ 1.350, MT,iPhone 7 
+Barra dos Coqueiros,R$ 1.350, SE,iPhone 7 
+Rio Branco,R$ 1.350, AC,iPhone 7 
+Santarém,R$ 1.350, PA,iPhone 7 
+Cabo Frio,R$ 1.350, RJ,iPhone 7 
+Resende,R$ 1.350, RJ,iPhone 7 
+Guarapari,R$ 1.350, ES,iPhone 7 
+Florianópolis,R$ 1.350, SC,iPhone 7 
+Fortaleza,R$ 1.350, CE,iPhone 7 
+Parauapebas,R$ 1.350, PA,iPhone 7 
+Salvador,R$ 1.350, BA,iPhone 7 
+São Paulo,R$ 1.350, SP,iPhone 7 
+Brasília,R$ 1.350, DF,iPhone 7 
+Balneário Camboriú,R$ 1.350, SC,iPhone 7 
+Petrolina,R$ 1.350, PE,iPhone 7 
+Sorocaba,R$ 1.350, SP,iPhone 7 
+São Paulo,R$ 1.350, SP,iPhone 7 
+São Bernardo do Campo,R$ 1.350, SP,iPhone 7 
+Cabo de Santo Agostinho,R$ 1.350, PE,iPhone 7 
+João Pessoa,R$ 1.350, PB,iPhone 7 
+Irati,R$ 1.350, PR,iPhone 7 
+Coronel Pacheco,R$ 1.350, MG,iPhone 7 
+Salvador,R$ 1.350, BA,iPhone 7 
+Campinas,R$ 1.350, SP,iPhone 7 
+Várzea,R$ 1.350, RN,iPhone 7 
+Recife,R$ 1.800, PE,iPhone 8
+Curitiba,R$ 1.800, PR,iPhone 8
+São Paulo,R$ 1.800, SP,iPhone 8
+Valparaíso de Goiás,R$ 1.800, DF,iPhone 8
+Aracaju,R$ 1.800, SE,iPhone 8
+Brasília,R$ 1.800, DF,iPhone 8
+São José,R$ 1.800, SC,iPhone 8
+Salvador,R$ 1.800, BA,iPhone 8
+São Paulo,R$ 1.800, SP,iPhone 8
+Duque de Caxias,R$ 1.800, RJ,iPhone 8
+Belo Horizonte,R$ 1.800, MG,iPhone 8
+Macapá,R$ 1.800, AP,iPhone 8
+Praia Grande,R$ 1.800, SP,iPhone 8
+Recife,R$ 1.800, PE,iPhone 8
+Campinas,R$ 1.800, SP,iPhone 8
+São Paulo,R$ 1.800, SP,iPhone 8
+Belo Horizonte,R$ 1.800, MG,iPhone 8
+Duque de Caxias,R$ 1.800, RJ,iPhone 8
+São Carlos,R$ 1.800, SP,iPhone 8
+Brasília,R$ 1.800, DF,iPhone 8
+Feira de Santana,R$ 1.800, BA,iPhone 8
+Rio de Janeiro,R$ 1.800, RJ,iPhone 8
+Itu,R$ 1.800, SP,iPhone 8
+São Paulo,R$ 1.800, SP,iPhone 8
+Campina Grande,R$ 1.800, PB,iPhone 8
+Pomerode,R$ 1.800, SC,iPhone 8
+Brasília,R$ 1.800, DF,iPhone 8
+Fortaleza,R$ 1.800, CE,iPhone 8
+Goiânia,R$ 1.800, GO,iPhone 8
+São Luís,R$ 1.800, MA,iPhone 8
+Juiz de Fora,R$ 1.800, MG,iPhone 8
+Cuiabá,R$ 1.800, MT,iPhone 8
+Itu,R$ 1.800, SP,iPhone 8
+Paranaguá,R$ 1.800, PR,iPhone 8
+Manaus,R$ 1.800, AM,iPhone 8
+Goiânia,R$ 1.800, GO,iPhone 8
+Rio Branco,R$ 1.800, AC,iPhone 8
+Brasília,R$ 1.800, DF,iPhone 8
+Goiânia,R$ 1.800, GO,iPhone 8
+Aracaju,R$ 1.800, SE,iPhone 8
+Belo Horizonte,R$ 1.800, MG,iPhone 8
+Belo Horizonte,R$ 1.800, MG,iPhone 8
+Guarujá,R$ 1.800, SP,iPhone 8
+Natal,R$ 1.800, RN,iPhone 8
+Belo Horizonte,R$ 1.800, MG,iPhone 8
+São Paulo,R$ 1.800, SP,iPhone 8
+Porto Alegre,R$ 1.800, RS,iPhone 8
+Ribeirão Pires,R$ 1.800, SP,iPhone 8
+Natal,R$ 1.800, RN,iPhone 8
+Fortaleza,R$ 1.800, CE,iPhone 8
+Aparecida de Goiânia,R$ 400, GO,Iphone 6
+Santa Luzia,R$ 400, MG,Iphone 6
+São Paulo,R$ 400, SP,Iphone 6
+Brasília,R$ 400, DF,Iphone 6
+Olinda,R$ 400, PE,Iphone 6
+Hortolândia,R$ 400, SP,Iphone 6
+Recife,R$ 400, PE,Iphone 6
+Campinas,R$ 400, SP,Iphone 6
+Imbituba,R$ 400, SC,Iphone 6
+Nossa Senhora do Socorro,R$ 400, SE,Iphone 6
+Goiânia,R$ 400, GO,Iphone 6
+Aracaju,R$ 400, SE,Iphone 6
+Salvador,R$ 400, BA,Iphone 6
+Betim,R$ 400, MG,Iphone 6
+Betim,R$ 400, MG,Iphone 6
+Manaus,R$ 400, AM,Iphone 6
+Peixoto de Azevedo,R$ 400, MT,Iphone 6
+Brasília,R$ 400, DF,Iphone 6
+Brasília,R$ 400, DF,Iphone 6
+Salvador,R$ 400, BA,Iphone 6
+Olinda,R$ 400, PE,Iphone 6
+Conceição do Mato Dentro,R$ 400, MG,Iphone 6
+Parauapebas,R$ 400, PA,Iphone 6
+Sorocaba,R$ 400, SP,Iphone 6
+Rio de Janeiro,R$ 400, RJ,Iphone 6
+Guaíra,R$ 400, PR,Iphone 6
+Cacimbinhas,R$ 400, AL,Iphone 6
+Niterói,R$ 400, RJ,Iphone 6
+Recife,R$ 400, PE,Iphone 6
+Ferraz de Vasconcelos,R$ 400, SP,Iphone 6
+Campo Grande,R$ 400, MS,Iphone 6
+Paranavaí,R$ 400, PR,Iphone 6
+Águas Lindas de Goiás,R$ 400, DF,Iphone 6
+Belém,R$ 400, PA,Iphone 6
+Belo Horizonte,R$ 400, MG,Iphone 6
+Taboão da Serra,R$ 400, SP,Iphone 6
+São Bernardo do Campo,R$ 400, SP,Iphone 6
+Barra do Piraí,R$ 400, RJ,Iphone 6
+Salvador,R$ 400, BA,Iphone 6
+Pouso Alegre,R$ 400, MG,Iphone 6
+Aracaju,R$ 400, SE,Iphone 6
+Brasília,R$ 400, DF,Iphone 6
+Aparecida de Goiânia,R$ 400, GO,Iphone 6
+Aparecida de Goiânia,R$ 400, GO,Iphone 6
+João Pessoa,R$ 400, PB,Iphone 6
+Contagem,R$ 400, MG,Iphone 6
+São Luís,R$ 400, MA,Iphone 6
+Belém,R$ 400, PA,Iphone 6
+Ribeirão Preto,R$ 400, SP,Iphone 6
+Cariacica,R$ 600, ES,iPhone 6
+Nova Iguaçu,R$ 600, RJ,iPhone 6
+São Luís,R$ 600, MA,iPhone 6
+Vila Velha,R$ 600, ES,iPhone 6
+Joinville,R$ 600, SC,iPhone 6
+Belém,R$ 600, PA,iPhone 6
+Brasília,R$ 600, DF,iPhone 6
+Manaus,R$ 600, AM,iPhone 6
+Feira de Santana,R$ 600, BA,iPhone 6
+Recife,R$ 600, PE,iPhone 6
+João Pessoa,R$ 600, PB,iPhone 6
+Curitiba,R$ 600, PR,iPhone 6
+Americana,R$ 600, SP,iPhone 6
+Brasília,R$ 600, DF,iPhone 6
+Manaus,R$ 600, AM,iPhone 6
+Cotia,R$ 600, SP,iPhone 6
+Campo Largo,R$ 600, PR,iPhone 6
+Juiz de Fora,R$ 600, MG,iPhone 6
+Rio de Janeiro,R$ 600, RJ,iPhone 6
+Guaíba,R$ 600, RS,iPhone 6
+Cabo Frio,R$ 600, RJ,iPhone 6
+Sapucaia do Sul,R$ 600, RS,iPhone 6
+Rio de Janeiro,R$ 600, RJ,iPhone 6
+Rio de Janeiro,R$ 600, RJ,iPhone 6
+Serra,R$ 600, ES,iPhone 6
+Macapá,R$ 600, AP,iPhone 6
+Piracuruca,R$ 600, PI,iPhone 6
+Guarapari,R$ 600, ES,iPhone 6
+Capivari de Baixo,R$ 600, SC,iPhone 6
+Juiz de Fora,R$ 600, MG,iPhone 6
+Brasília,R$ 600, DF,iPhone 6
+Senador Canedo,R$ 600, GO,iPhone 6
+São Bernardo do Campo,R$ 600, SP,iPhone 6
+Lauro de Freitas,R$ 600, BA,iPhone 6
+Curitiba,R$ 600, PR,iPhone 6
+Aracaju,R$ 600, SE,iPhone 6
+Rio de Janeiro,R$ 600, RJ,iPhone 6
+Campinas,R$ 600, SP,iPhone 6
+Balneário Camboriú,R$ 600, SC,iPhone 6
+Ribeirão Preto,R$ 600, SP,iPhone 6
+Palhoça,R$ 600, SC,iPhone 6
+Manaus,R$ 600, AM,iPhone 6
+Rio de Janeiro,R$ 600, RJ,iPhone 6
+Rio de Janeiro,R$ 600, RJ,iPhone 6
+Santo André,R$ 600, SP,iPhone 6
+Curitiba,R$ 600, PR,iPhone 6
+Belo Horizonte,R$ 600, MG,iPhone 6
+São Luís,R$ 600, MA,iPhone 6
+Salvador,R$ 600, BA,iPhone 6
+Londrina,R$ 30, PR,Capa iPhone
+Rio de Janeiro,R$ 30, RJ,Capa iPhone
+Brasília,R$ 30, DF,Capa iPhone
+Pinhão,R$ 30, SE,Capa iPhone
+Betim,R$ 30, MG,Capa iPhone
+Rio de Janeiro,R$ 30, RJ,Capa iPhone
+São Gonçalo,R$ 30, RJ,Capa iPhone
+Fortaleza,R$ 30, CE,Capa iPhone
+Simões Filho,R$ 30, BA,Capa iPhone
+Divinópolis,R$ 30, MG,Capa iPhone
+Vila Velha,R$ 30, ES,Capa iPhone
+Manaus,R$ 30, AM,Capa iPhone
+São Paulo,R$ 30, SP,Capa iPhone
+Curitiba,R$ 30, PR,Capa iPhone
+Mata,R$ 30, RS,Capa iPhone
+Rio de Janeiro,R$ 30, RJ,Capa iPhone
+Pará de Minas,R$ 30, MG,Capa iPhone
+Nova Iguaçu,R$ 30, RJ,Capa iPhone
+Manaus,R$ 30, AM,Capa iPhone
+São Paulo,R$ 30, SP,Capa iPhone
+Salvador,R$ 30, BA,Capa iPhone
+Santa Inês,R$ 30, MA,Capa iPhone
+Salvador,R$ 30, BA,Capa iPhone
+Luziânia,R$ 30, DF,Capa iPhone
+Igarassu,R$ 30, PE,Capa iPhone
+Goiânia,R$ 30, GO,Capa iPhone
+Salvador,R$ 30, BA,Capa iPhone
+Goiânia,R$ 30, GO,Capa iPhone
+Valparaíso de Goiás,R$ 30, DF,Capa iPhone
+Palhoça,R$ 30, SC,Capa iPhone
+Salvador,R$ 30, BA,Capa iPhone
+Aracaju,R$ 30, SE,Capa iPhone
+Manaus,R$ 30, AM,Capa iPhone
+Goiânia,R$ 30, GO,Capa iPhone
+Petrolina,R$ 30, PE,Capa iPhone
+Goiânia,R$ 30, GO,Capa iPhone
+Goiânia,R$ 30, GO,Capa iPhone
+São José dos Campos,R$ 30, SP,Capa iPhone
+Goiânia,R$ 30, GO,Capa iPhone
+Salvador,R$ 30, BA,Capa iPhone
+Salvador,R$ 30, BA,Capa iPhone
+Rio de Janeiro,R$ 30, RJ,Capa iPhone
+Goiânia,R$ 30, GO,Capa iPhone
+Brasília,R$ 30, DF,Capa iPhone
+Salvador,R$ 30, BA,Capa iPhone
+São Gonçalo,R$ 30, RJ,Capa iPhone
+Feliz Deserto,R$ 30, AL,Capa iPhone
+Itabuna,R$ 30, BA,Capa iPhone
+Capão da Canoa,R$ 30, RS,Capa iPhone
+Rio de Janeiro,R$ 1.000, RJ,iPhone 7 
+Rio de Janeiro,R$ 1.000, RJ,iPhone 7 
+Rio de Janeiro,R$ 1.000, RJ,iPhone 7 
+Vila Velha,R$ 1.000, ES,iPhone 7 
+Balneário Camboriú,R$ 1.000, SC,iPhone 7 
+Mariana,R$ 1.000, MG,iPhone 7 
+Nilópolis,R$ 1.000, RJ,iPhone 7 
+Jequié,R$ 1.000, BA,iPhone 7 
+São Luís,R$ 1.000, MA,iPhone 7 
+Contagem,R$ 1.000, MG,iPhone 7 
+Niterói,R$ 1.000, RJ,iPhone 7 
+Juiz de Fora,R$ 1.000, MG,iPhone 7 
+Santa Rita,R$ 1.000, PB,iPhone 7 
+Itapipoca,R$ 1.000, CE,iPhone 7 
+Sete Lagoas,R$ 1.000, MG,iPhone 7 
+Curitiba,R$ 1.000, PR,iPhone 7 
+Satuba,R$ 1.000, AL,iPhone 7 
+Uruaçu,R$ 1.000, GO,iPhone 7 
+Brasília,R$ 1.000, DF,iPhone 7 
+São Luís,R$ 1.000, MA,iPhone 7 
+Campinas,R$ 1.000, SP,iPhone 7 
+Maceió,R$ 1.000, AL,iPhone 7 
+São Paulo,R$ 1.000, SP,iPhone 7 
+Caxias do Sul,R$ 1.000, RS,iPhone 7 
+Goiânia,R$ 1.000, GO,iPhone 7 
+Brasília,R$ 1.000, DF,iPhone 7 
+Belo Horizonte,R$ 1.000, MG,iPhone 7 
+Brasília,R$ 1.000, DF,iPhone 7 
+Brasília,R$ 1.000, DF,iPhone 7 
+São Paulo,R$ 1.000, SP,iPhone 7 
+Manaus,R$ 1.000, AM,iPhone 7 
+Presidente Prudente,R$ 1.000, SP,iPhone 7 
+Contagem,R$ 1.000, MG,iPhone 7 
+Guarujá,R$ 1.000, SP,iPhone 7 
+Olinda,R$ 1.000, PE,iPhone 7 
+Lins,R$ 1.000, SP,iPhone 7 
+Viamão,R$ 1.000, RS,iPhone 7 
+Rio de Janeiro,R$ 1.000, RJ,iPhone 7 
+Brasília,R$ 1.000, DF,iPhone 7 
+Maracanaú,R$ 1.000, CE,iPhone 7 
+Guarulhos,R$ 1.000, SP,iPhone 7 
+Formosa,R$ 1.000, DF,iPhone 7 
+Fortaleza,R$ 1.000, CE,iPhone 7 
+Rio de Janeiro,R$ 1.000, RJ,iPhone 7 
+São Paulo,R$ 1.000, SP,iPhone 7 
+Goiânia,R$ 1.000, GO,iPhone 7 
+Rio de Janeiro,R$ 1.000, RJ,iPhone 7 
+Paulínia,R$ 1.000, SP,iPhone 7 
+Parauapebas,R$ 1.000, PA,iPhone 7 
+Santarém,R$ 0, PA,IPhone 6
+Santarém,R$ 0, PA,IPhone 6
+Natal,R$ 0, RN,IPhone 6
+Uberlândia,R$ 0, MG,IPhone 6
+Bauru,R$ 0, SP,IPhone 6
+Pelotas,R$ 0, RS,IPhone 6
+Aracaju,R$ 0, SE,IPhone 6
+Campo Grande,R$ 0, MS,IPhone 6
+Olímpia,R$ 0, SP,IPhone 6
+Arapiraca,R$ 0, AL,IPhone 6
+Lauro de Freitas,R$ 0, BA,IPhone 6
+Guarulhos,R$ 0, SP,IPhone 6
+Goiânia,R$ 0, GO,IPhone 6
+Itajaí,R$ 0, SC,IPhone 6
+Belém,R$ 0, PA,IPhone 6
+Belo Horizonte,R$ 0, MG,IPhone 6
+Manaus,R$ 0, AM,IPhone 6
+Linhares,R$ 0, ES,IPhone 6
+Salvador,R$ 0, BA,IPhone 6
+Rio de Janeiro,R$ 0, RJ,IPhone 6
+Macuco,R$ 0, RJ,IPhone 6
+Salvador,R$ 0, BA,IPhone 6
+Várzea Grande,R$ 0, MT,IPhone 6
+Salvador,R$ 0, BA,IPhone 6
+São Paulo,R$ 0, SP,IPhone 6
+São Paulo,R$ 0, SP,IPhone 6
+Fortaleza,R$ 0, CE,IPhone 6
+Dois Vizinhos,R$ 0, PR,IPhone 6
+Goiânia,R$ 0, GO,IPhone 6
+Macapá,R$ 0, AP,IPhone 6
+Olinda,R$ 0, PE,IPhone 6
+Corinto,R$ 0, MG,IPhone 6
+Uberlândia,R$ 0, MG,IPhone 6
+Betim,R$ 0, MG,IPhone 6
+Goiânia,R$ 0, GO,IPhone 6
+Brasília,R$ 0, DF,IPhone 6
+João Pessoa,R$ 0, PB,IPhone 6
+Piracicaba,R$ 0, SP,IPhone 6
+Salvador,R$ 0, BA,IPhone 6
+Teresina,R$ 0, PI,IPhone 6
+Anápolis,R$ 0, GO,IPhone 6
+Brasília,R$ 0, DF,IPhone 6
+Salvador,R$ 0, BA,IPhone 6
+Maracanaú,R$ 0, CE,IPhone 6
+São Paulo,R$ 0, SP,IPhone 6
+São Cristóvão,R$ 0, SE,IPhone 6
+Caucaia,R$ 0, CE,IPhone 6
+Manacapuru,R$ 0, AM,IPhone 6
+Brasília,R$ 0, DF,IPhone 6
+Presidente Prudente,R$ 0, SP,IPhone 6
+Natal,R$ 1.300, RN, iphone 7 
+Maceió,R$ 1.300, AL, iphone 7 
+São Paulo,R$ 1.300, SP, iphone 7 
+Rio de Janeiro,R$ 1.300, RJ, iphone 7 
+Fortaleza,R$ 1.300, CE, iphone 7 
+Teófilo Otoni,R$ 1.300, MG, iphone 7 
+Surubim,R$ 1.300, PE, iphone 7 
+Maringá,R$ 1.300, PR, iphone 7 
+Porto Alegre,R$ 1.300, RS, iphone 7 
+Maceió,R$ 1.300, AL, iphone 7 
+Brasília,R$ 1.300, DF, iphone 7 
+Feira de Santana,R$ 1.300, BA, iphone 7 
+Rio de Janeiro,R$ 1.300, RJ, iphone 7 
+João Pessoa,R$ 1.300, PB, iphone 7 
+São Vicente,R$ 1.300, SP, iphone 7 
+Salvador,R$ 1.300, BA, iphone 7 
+Pinhais,R$ 1.300, PR, iphone 7 
+Florianópolis,R$ 1.300, SC, iphone 7 
+Salvador,R$ 1.300, BA, iphone 7 
+Brasília,R$ 1.300, DF, iphone 7 
+Balneário Camboriú,R$ 1.300, SC, iphone 7 
+Petrolina,R$ 1.300, PE, iphone 7 
+São Paulo,R$ 1.300, SP, iphone 7 
+São Bernardo do Campo,R$ 1.300, SP, iphone 7 
+Cabo de Santo Agostinho,R$ 1.300, PE, iphone 7 
+João Pessoa,R$ 1.300, PB, iphone 7 
+Irati,R$ 1.300, PR, iphone 7 
+Coronel Pacheco,R$ 1.300, MG, iphone 7 
+Salvador,R$ 1.300, BA, iphone 7 
+Campinas,R$ 1.300, SP, iphone 7 
+Várzea,R$ 1.300, RN, iphone 7 
+São Lourenço da Mata,R$ 1.300, PE, iphone 7 
+Almirante Tamandaré,R$ 1.300, PR, iphone 7 
+Rio de Janeiro,R$ 1.300, RJ, iphone 7 
+Curitiba,R$ 1.300, PR, iphone 7 
+Salvador,R$ 1.300, BA, iphone 7 
+Parnamirim,R$ 1.300, RN, iphone 7 
+Conceição do Jacuípe,R$ 1.300, BA, iphone 7 
+Sorocaba,R$ 1.300, SP, iphone 7 
+Cariacica,R$ 1.300, ES, iphone 7 
+Curitiba,R$ 1.300, PR, iphone 7 
+Rio de Janeiro,R$ 1.300, RJ, iphone 7 
+São Cristóvão,R$ 1.300, SE, iphone 7 
+Nova Iguaçu,R$ 1.300, RJ, iphone 7 
+Brasília,R$ 1.300, DF, iphone 7 
+Itatiba,R$ 1.300, SP, iphone 7 
+Guarulhos,R$ 1.300, SP, iphone 7 
+Fortaleza,R$ 1.300, CE, iphone 7 
+Fortaleza,R$ 2.000, CE,iPhone 7 
+Indaial,R$ 2.000, SC,iPhone 7 
+Belo Horizonte,R$ 2.000, MG,iPhone 7 
+Curitiba,R$ 2.000, PR,iPhone 7 
+Contagem,R$ 2.000, MG,iPhone 7 
+Maceió,R$ 2.000, AL,iPhone 7 
+Fortaleza,R$ 2.000, CE,iPhone 7 
+João Pessoa,R$ 2.000, PB,iPhone 7 
+Foz do Iguaçu,R$ 2.000, PR,iPhone 7 
+São José dos Campos,R$ 2.000, SP,iPhone 7 
+Salvador,R$ 2.000, BA,iPhone 7 
+Fortaleza,R$ 2.000, CE,iPhone 7 
+Caieiras,R$ 2.000, SP,iPhone 7 
+Rio de Janeiro,R$ 2.000, RJ,iPhone 7 
+Diadema,R$ 2.000, SP,iPhone 7 
+Campinas,R$ 2.000, SP,iPhone 7 
+Manaus,R$ 2.000, AM,iPhone 7 
+Osasco,R$ 2.000, SP,iPhone 7 
+João Pessoa,R$ 2.000, PB,iPhone 7 
+Rio Branco,R$ 2.000, AC,iPhone 7 
+Barra dos Coqueiros,R$ 2.000, SE,iPhone 7 
+Recife,R$ 2.000, PE,iPhone 7 
+Salvador,R$ 2.000, BA,iPhone 7 
+João Pessoa,R$ 2.000, PB,iPhone 7 
+Itapetininga,R$ 2.000, SP,iPhone 7 
+Bacabal,R$ 2.000, MA,iPhone 7 
+Aracaju,R$ 2.000, SE,iPhone 7 
+Salvador,R$ 2.000, BA,iPhone 7 
+Rio de Janeiro,R$ 2.000, RJ,iPhone 7 
+Teresina,R$ 2.000, PI,iPhone 7 
+Guarulhos,R$ 2.000, SP,iPhone 7 
+Belo Horizonte,R$ 2.000, MG,iPhone 7 
+Salvador,R$ 2.000, BA,iPhone 7 
+São Paulo,R$ 2.000, SP,iPhone 7 
+Campinas,R$ 2.000, SP,iPhone 7 
+Curitiba,R$ 2.000, PR,iPhone 7 
+São José,R$ 2.000, SC,iPhone 7 
+Boa Vista,R$ 2.000, RR,iPhone 7 
+Aracaju,R$ 2.000, SE,iPhone 7 
+Porto Velho,R$ 2.000, RO,iPhone 7 
+Rio Largo,R$ 2.000, AL,iPhone 7 
+Caucaia,R$ 2.000, CE,iPhone 7 
+Goiânia,R$ 2.000, GO,iPhone 7 
+Castanhal,R$ 2.000, PA,iPhone 7 
+Belo Horizonte,R$ 2.000, MG,iPhone 7 
+Mesquita,R$ 2.000, RJ,iPhone 7 
+Itabuna,R$ 2.000, BA,iPhone 7 
+Curitiba,R$ 2.000, PR,iPhone 7 
+Rio de Janeiro,R$ 2.000, RJ,iPhone 7 
+Teresina,R$ 2.000, PI,iPhone 7 
+Belo Horizonte,R$ 680, MG,Iphone 6
+Canoas,R$ 680, RS,Iphone 6
+Aracaju,R$ 680, SE,Iphone 6
+Bastos,R$ 680, SP,Iphone 6
+Salvador,R$ 680, BA,Iphone 6
+São Paulo,R$ 680, SP,Iphone 6
+Queimadas,R$ 680, BA,Iphone 6
+Curitiba,R$ 680, PR,Iphone 6
+Paulista,R$ 680, PE,Iphone 6
+Maceió,R$ 680, AL,Iphone 6
+Goiânia,R$ 680, GO,Iphone 6
+Rio de Janeiro,R$ 680, RJ,Iphone 6
+Santa Luzia,R$ 680, MG,Iphone 6
+São Paulo,R$ 680, SP,Iphone 6
+Pato Branco,R$ 680, PR,Iphone 6
+Santos,R$ 680, SP,Iphone 6
+Caucaia,R$ 680, CE,Iphone 6
+Belo Horizonte,R$ 680, MG,Iphone 6
+Salvador,R$ 680, BA,Iphone 6
+São José dos Campos,R$ 680, SP,Iphone 6
+Brasília,R$ 680, DF,Iphone 6
+Recife,R$ 680, PE,Iphone 6
+São Gonçalo,R$ 680, RJ,Iphone 6
+Belo Horizonte,R$ 680, MG,Iphone 6
+Maceió,R$ 680, AL,Iphone 6
+Governador Valadares,R$ 680, MG,Iphone 6
+Sombrio,R$ 680, SC,Iphone 6
+Florianópolis,R$ 680, SC,Iphone 6
+Viana,R$ 680, ES,Iphone 6
+Goiânia,R$ 680, GO,Iphone 6
+São José dos Campos,R$ 680, SP,Iphone 6
+Aracaju,R$ 680, SE,Iphone 6
+Palmas,R$ 680, TO,Iphone 6
+Canaã dos Carajás,R$ 680, PA,Iphone 6
+Maruim,R$ 680, SE,Iphone 6
+Belo Horizonte,R$ 680, MG,Iphone 6
+Rio Largo,R$ 680, AL,Iphone 6
+Cotia,R$ 680, SP,Iphone 6
+Salvador,R$ 680, BA,Iphone 6
+Brasília,R$ 680, DF,Iphone 6
+Rio de Janeiro,R$ 680, RJ,Iphone 6
+Brasília,R$ 680, DF,Iphone 6
+Brasília,R$ 680, DF,Iphone 6
+Recife,R$ 680, PE,Iphone 6
+Feira de Santana,R$ 680, BA,Iphone 6
+São Paulo,R$ 680, SP,Iphone 6
+Manaus,R$ 680, AM,Iphone 6
+Curitiba,R$ 680, PR,Iphone 6
+Feira de Santana,R$ 680, BA,Iphone 6
+Brasília,R$ 680, DF,Iphone 6
+Salvador,R$ 2.350, BA,Caixa de iPhone 
+Passo Fundo,R$ 2.350, RS,Caixa de iPhone 
+Linhares,R$ 2.350, ES,Caixa de iPhone 
+Jaraguá do Sul,R$ 2.350, SC,Caixa de iPhone 
+Recife,R$ 2.350, PE,Caixa de iPhone 
+Ribeirão das Neves,R$ 2.350, MG,Caixa de iPhone 
+Brasília,R$ 2.350, DF,Caixa de iPhone 
+Manaus,R$ 2.350, AM,Caixa de iPhone 
+Brasília,R$ 2.350, DF,Caixa de iPhone 
+Colatina,R$ 2.350, ES,Caixa de iPhone 
+Goiânia,R$ 2.350, GO,Caixa de iPhone 
+Belo Horizonte,R$ 2.350, MG,Caixa de iPhone 
+São José de Ribamar,R$ 2.350, MA,Caixa de iPhone 
+Cascavel,R$ 2.350, PR,Caixa de iPhone 
+Ipatinga,R$ 2.350, MG,Caixa de iPhone 
+Goioerê,R$ 2.350, PR,Caixa de iPhone 
+Aracaju,R$ 2.350, SE,Caixa de iPhone 
+Vitória,R$ 2.350, ES,Caixa de iPhone 
+Blumenau,R$ 2.350, SC,Caixa de iPhone 
+Fortaleza,R$ 2.350, CE,Caixa de iPhone 
+Criciúma,R$ 2.350, SC,Caixa de iPhone 
+Cuiabá,R$ 2.350, MT,Caixa de iPhone 
+Barra dos Coqueiros,R$ 2.350, SE,Caixa de iPhone 
+Rio Branco,R$ 2.350, AC,Caixa de iPhone 
+Santarém,R$ 2.350, PA,Caixa de iPhone 
+Cabo Frio,R$ 2.350, RJ,Caixa de iPhone 
+Resende,R$ 2.350, RJ,Caixa de iPhone 
+Rio de Janeiro,R$ 2.350, RJ,Caixa de iPhone 
+São Paulo,R$ 2.350, SP,Caixa de iPhone 
+Brasília,R$ 2.350, DF,Caixa de iPhone 
+Canaã dos Carajás,R$ 2.350, PA,Caixa de iPhone 
+Aracaju,R$ 2.350, SE,Caixa de iPhone 
+Viana,R$ 2.350, ES,Caixa de iPhone 
+Barra Mansa,R$ 2.350, RJ,Caixa de iPhone 
+Ponta Grossa,R$ 2.350, PR,Caixa de iPhone 
+Uberaba,R$ 2.350, MG,Caixa de iPhone 
+Poá,R$ 2.350, SP,Caixa de iPhone 
+Joinville,R$ 2.350, SC,Caixa de iPhone 
+Barra dos Coqueiros,R$ 2.350, SE,Caixa de iPhone 
+Montes Claros,R$ 2.350, MG,Caixa de iPhone 
+Manaus,R$ 2.350, AM,Caixa de iPhone 
+Teresina,R$ 2.350, PI,Caixa de iPhone 
+Brasília,R$ 2.350, DF,Caixa de iPhone 
+Natal,R$ 2.350, RN,Caixa de iPhone 
+Matão,R$ 2.350, SP,Caixa de iPhone 
+Fortaleza,R$ 2.350, CE,Caixa de iPhone 
+Recife,R$ 2.350, PE,Caixa de iPhone 
+Palmas,R$ 2.350, TO,Caixa de iPhone 
+São Paulo,R$ 2.350, SP,Caixa de iPhone 
+Natal,R$ 2.350, RN,Caixa de iPhone 
+Vitória,R$ 750, ES,Iphone 6s
+Manaus,R$ 750, AM,Iphone 6s
+Fortaleza,R$ 750, CE,Iphone 6s
+Maringá,R$ 750, PR,Iphone 6s
+Luziânia,R$ 750, DF,Iphone 6s
+Salvador,R$ 750, BA,Iphone 6s
+Jacareí,R$ 750, SP,Iphone 6s
+João Pessoa,R$ 750, PB,Iphone 6s
+Manaus,R$ 750, AM,Iphone 6s
+Arapongas,R$ 750, PR,Iphone 6s
+Fortaleza,R$ 750, CE,Iphone 6s
+Jaboatão dos Guararapes,R$ 750, PE,Iphone 6s
+Belo Horizonte,R$ 750, MG,Iphone 6s
+Lauro de Freitas,R$ 750, BA,Iphone 6s
+Aracaju,R$ 750, SE,Iphone 6s
+Contagem,R$ 750, MG,Iphone 6s
+Aracaju,R$ 750, SE,Iphone 6s
+Curitiba,R$ 750, PR,Iphone 6s
+Mauá,R$ 750, SP,Iphone 6s
+Fortaleza,R$ 750, CE,Iphone 6s
+Salvador,R$ 750, BA,Iphone 6s
+Olinda,R$ 750, PE,Iphone 6s
+Sorocaba,R$ 750, SP,Iphone 6s
+Sete Lagoas,R$ 750, MG,Iphone 6s
+Rio de Janeiro,R$ 750, RJ,Iphone 6s
+Maceió,R$ 750, AL,Iphone 6s
+Duque de Caxias,R$ 750, RJ,Iphone 6s
+Belo Horizonte,R$ 750, MG,Iphone 6s
+Cabo Frio,R$ 750, RJ,Iphone 6s
+Rio de Janeiro,R$ 750, RJ,Iphone 6s
+Maringá,R$ 750, PR,Iphone 6s
+João Pessoa,R$ 750, PB,Iphone 6s
+Salvador,R$ 750, BA,Iphone 6s
+Fortaleza,R$ 750, CE,Iphone 6s
+Curitiba,R$ 750, PR,Iphone 6s
+Santo Antônio de Pádua,R$ 750, RJ,Iphone 6s
+Jaraguá do Sul,R$ 750, SC,Iphone 6s
+Maceió,R$ 750, AL,Iphone 6s
+Goiânia,R$ 750, GO,Iphone 6s
+Montes Claros,R$ 750, MG,Iphone 6s
+Cuiabá,R$ 750, MT,Iphone 6s
+Feira de Santana,R$ 750, BA,Iphone 6s
+Aracaju,R$ 750, SE,Iphone 6s
+Santana,R$ 750, AP,Iphone 6s
+Pelotas,R$ 750, RS,Iphone 6s
+Rio de Janeiro,R$ 750, RJ,Iphone 6s
+Aparecida de Goiânia,R$ 750, GO,Iphone 6s
+São Paulo,R$ 750, SP,Iphone 6s
+Dois Irmãos,R$ 750, RS,Iphone 6s
+Olinda,R$ 750, PE,Iphone 6s
+São João de Meriti,R$ 400, RJ,iPhone 6s
+Itaguaí,R$ 400, RJ,iPhone 6s
+Rio de Janeiro,R$ 400, RJ,iPhone 6s
+Salvador,R$ 400, BA,iPhone 6s
+Jaboatão dos Guararapes,R$ 400, PE,iPhone 6s
+Belo Horizonte,R$ 400, MG,iPhone 6s
+São Luís,R$ 400, MA,iPhone 6s
+Brasília,R$ 400, DF,iPhone 6s
+São Gabriel da Palha,R$ 400, ES,iPhone 6s
+Rio de Janeiro,R$ 400, RJ,iPhone 6s
+Santos Dumont,R$ 400, MG,iPhone 6s
+Osasco,R$ 400, SP,iPhone 6s
+Goiânia,R$ 400, GO,iPhone 6s
+Salvador,R$ 400, BA,iPhone 6s
+Jacareí,R$ 400, SP,iPhone 6s
+Teresina,R$ 400, PI,iPhone 6s
+Praia Grande,R$ 400, SP,iPhone 6s
+Goiânia,R$ 400, GO,iPhone 6s
+Camaçari,R$ 400, BA,iPhone 6s
+Cuiabá,R$ 400, MT,iPhone 6s
+São Paulo,R$ 400, SP,iPhone 6s
+Campo Formoso,R$ 400, BA,iPhone 6s
+Rio Branco,R$ 400, AC,iPhone 6s
+Rio de Janeiro,R$ 400, RJ,iPhone 6s
+Sorocaba,R$ 400, SP,iPhone 6s
+Caracaraí,R$ 400, RR,iPhone 6s
+Londrina,R$ 400, PR,iPhone 6s
+Teresina,R$ 400, PI,iPhone 6s
+Rio de Janeiro,R$ 400, RJ,iPhone 6s
+São Paulo,R$ 400, SP,iPhone 6s
+Belém,R$ 400, PA,iPhone 6s
+Curitiba,R$ 400, PR,iPhone 6s
+São Gonçalo,R$ 400, RJ,iPhone 6s
+Buritizal,R$ 400, SP,iPhone 6s
+Marília,R$ 400, SP,iPhone 6s
+Contagem,R$ 400, MG,iPhone 6s
+Olinda,R$ 400, PE,iPhone 6s
+Jaboatão dos Guararapes,R$ 400, PE,iPhone 6s
+Prata,R$ 400, MG,iPhone 6s
+Duque de Caxias,R$ 400, RJ,iPhone 6s
+Nossa Senhora das Dores,R$ 400, SE,iPhone 6s
+Guarulhos,R$ 400, SP,iPhone 6s
+Brasília,R$ 400, DF,iPhone 6s
+Campinas,R$ 400, SP,iPhone 6s
+Joinville,R$ 400, SC,iPhone 6s
+João Pessoa,R$ 400, PB,iPhone 6s
+Valparaíso de Goiás,R$ 400, DF,iPhone 6s
+Natal,R$ 1.000, RN,iPhone 6 
+Canaã dos Carajás,R$ 1.000, PA,iPhone 6 
+Belo Horizonte,R$ 1.000, MG,iPhone 6 
+Belo Horizonte,R$ 1.000, MG,iPhone 6 
+Mogi das Cruzes,R$ 1.000, SP,iPhone 6 
+Belo Horizonte,R$ 1.000, MG,iPhone 6 
+Salvador,R$ 1.000, BA,iPhone 6 
+Paranaiguara,R$ 1.000, GO,iPhone 6 
+Salvador,R$ 1.000, BA,iPhone 6 
+Cuiabá,R$ 1.000, MT,iPhone 6 
+Sertãozinho,R$ 1.000, SP,iPhone 6 
+Campo Grande,R$ 1.000, MS,iPhone 6 
+Santos,R$ 1.000, SP,iPhone 6 
+Garanhuns,R$ 1.000, PE,iPhone 6 
+Brasília,R$ 1.000, DF,iPhone 6 
+Fortaleza,R$ 1.000, CE,iPhone 6 
+Campina Grande,R$ 1.000, PB,iPhone 6 
+Tijucas,R$ 1.000, SC,iPhone 6 
+Manaus,R$ 1.000, AM,iPhone 6 
+Fortaleza,R$ 1.000, CE,iPhone 6 
+Rio Branco,R$ 1.000, AC,iPhone 6 
+Belford Roxo,R$ 1.000, RJ,iPhone 6 
+Aparecida de Goiânia,R$ 1.000, GO,iPhone 6 
+São Luís,R$ 1.000, MA,iPhone 6 
+São João de Meriti,R$ 1.000, RJ,iPhone 6 
+Cascavel,R$ 1.000, PR,iPhone 6 
+Pomerode,R$ 1.000, SC,iPhone 6 
+São José dos Campos,R$ 1.000, SP,iPhone 6 
+Rio de Janeiro,R$ 1.000, RJ,iPhone 6 
+Macapá,R$ 1.000, AP,iPhone 6 
+Brasília,R$ 1.000, DF,iPhone 6 
+Trindade,R$ 1.000, GO,iPhone 6 
+São Paulo,R$ 1.000, SP,iPhone 6 
+Manaus,R$ 1.000, AM,iPhone 6 
+Rio de Janeiro,R$ 1.000, RJ,iPhone 6 
+Goiânia,R$ 1.000, GO,iPhone 6 
+Santo André,R$ 1.000, SP,iPhone 6 
+Santarém,R$ 1.000, PA,iPhone 6 
+Recife,R$ 1.000, PE,iPhone 6 
+Belo Horizonte,R$ 1.000, MG,iPhone 6 
+São João de Meriti,R$ 1.000, RJ,iPhone 6 
+Curitiba,R$ 1.000, PR,iPhone 6 
+Salvador,R$ 1.000, BA,iPhone 6 
+Nossa Senhora do Socorro,R$ 1.000, SE,iPhone 6 
+São José,R$ 1.000, SC,iPhone 6 
+Teresina,R$ 1.000, PI,iPhone 6 
+Curitiba,R$ 1.000, PR,iPhone 6 
+Teresina,R$ 1.000, PI,iPhone 6 
+Ribeirão Preto,R$ 1.000, SP,iPhone 6 
+Rio de Janeiro,R$ 1.000, RJ,iPhone 6 
+São Bernardo do Campo,R$ 3.600, SP,iPhone 11
+Goiânia,R$ 3.600, GO,iPhone 11
+Jacareí,R$ 3.600, SP,iPhone 11
+Teresina,R$ 3.600, PI,iPhone 11
+Praia Grande,R$ 3.600, SP,iPhone 11
+Goiânia,R$ 3.600, GO,iPhone 11
+Camaçari,R$ 3.600, BA,iPhone 11
+Cuiabá,R$ 3.600, MT,iPhone 11
+São Paulo,R$ 3.600, SP,iPhone 11
+Campo Formoso,R$ 3.600, BA,iPhone 11
+Rio Branco,R$ 3.600, AC,iPhone 11
+Rio de Janeiro,R$ 3.600, RJ,iPhone 11
+Sorocaba,R$ 3.600, SP,iPhone 11
+Caracaraí,R$ 3.600, RR,iPhone 11
+Londrina,R$ 3.600, PR,iPhone 11
+Teresina,R$ 3.600, PI,iPhone 11
+Rio de Janeiro,R$ 3.600, RJ,iPhone 11
+São Paulo,R$ 3.600, SP,iPhone 11
+Belém,R$ 3.600, PA,iPhone 11
+Curitiba,R$ 3.600, PR,iPhone 11
+São Gonçalo,R$ 3.600, RJ,iPhone 11
+Buritizal,R$ 3.600, SP,iPhone 11
+Marília,R$ 3.600, SP,iPhone 11
+Contagem,R$ 3.600, MG,iPhone 11
+Olinda,R$ 3.600, PE,iPhone 11
+Jaboatão dos Guararapes,R$ 3.600, PE,iPhone 11
+Prata,R$ 3.600, MG,iPhone 11
+Duque de Caxias,R$ 3.600, RJ,iPhone 11
+Nossa Senhora das Dores,R$ 3.600, SE,iPhone 11
+Guarulhos,R$ 3.600, SP,iPhone 11
+Brasília,R$ 3.600, DF,iPhone 11
+Campinas,R$ 3.600, SP,iPhone 11
+Joinville,R$ 3.600, SC,iPhone 11
+João Pessoa,R$ 3.600, PB,iPhone 11
+Valparaíso de Goiás,R$ 3.600, DF,iPhone 11
+Aracaju,R$ 3.600, SE,iPhone 11
+Jandira,R$ 3.600, SP,iPhone 11
+Paço do Lumiar,R$ 3.600, MA,iPhone 11
+Brasília,R$ 3.600, DF,iPhone 11
+São Luís,R$ 3.600, MA,iPhone 11
+Salvador,R$ 3.600, BA,iPhone 11
+Rio de Janeiro,R$ 3.600, RJ,iPhone 11
+Belo Horizonte,R$ 3.600, MG,iPhone 11
+Serra Azul,R$ 3.600, SP,iPhone 11
+São Paulo,R$ 3.600, SP,iPhone 11
+São José do Rio Preto,R$ 3.600, SP,iPhone 11
+Cotia,R$ 3.600, SP,iPhone 11
+Marília,R$ 3.600, SP,iPhone 11
+Rio de Janeiro,R$ 1.500, RJ,iPhone 7
+Presidente Prudente,R$ 1.500, SP,iPhone 7
+Guarulhos,R$ 1.500, SP,iPhone 7
+Salvador,R$ 1.500, BA,iPhone 7
+Armação dos Búzios,R$ 1.500, RJ,iPhone 7
+Ananindeua,R$ 1.500, PA,iPhone 7
+Campinas,R$ 1.500, SP,iPhone 7
+Santana de Pirapama,R$ 1.500, MG,iPhone 7
+Guaratinguetá,R$ 1.500, SP,iPhone 7
+Maceió,R$ 1.500, AL,iPhone 7
+Simões Filho,R$ 1.500, BA,iPhone 7
+Serra,R$ 1.500, ES,iPhone 7
+Brasília,R$ 1.500, DF,iPhone 7
+Belo Horizonte,R$ 1.500, MG,iPhone 7
+São Paulo,R$ 1.500, SP,iPhone 7
+Brasília,R$ 1.500, DF,iPhone 7
+Maceió,R$ 1.500, AL,iPhone 7
+Manaus,R$ 1.500, AM,iPhone 7
+Brasília,R$ 1.500, DF,iPhone 7
+Porto Alegre,R$ 1.500, RS,iPhone 7
+Juiz de Fora,R$ 1.500, MG,iPhone 7
+Rio de Janeiro,R$ 1.500, RJ,iPhone 7
+Aparecida de Goiânia,R$ 1.500, GO,iPhone 7
+Brasília,R$ 1.500, DF,iPhone 7
+Rio de Janeiro,R$ 1.500, RJ,iPhone 7
+São Gonçalo,R$ 1.500, RJ,iPhone 7
+Jaboatão dos Guararapes,R$ 1.500, PE,iPhone 7
+Montes Claros,R$ 1.500, MG,iPhone 7
+Serra,R$ 1.500, ES,iPhone 7
+Belo Horizonte,R$ 1.500, MG,iPhone 7
+Belo Horizonte,R$ 1.500, MG,iPhone 7
+Betim,R$ 1.500, MG,iPhone 7
+Volta Redonda,R$ 1.500, RJ,iPhone 7
+São Paulo,R$ 1.500, SP,iPhone 7
+São Paulo,R$ 1.500, SP,iPhone 7
+Aracaju,R$ 1.500, SE,iPhone 7
+Parauapebas,R$ 1.500, PA,iPhone 7
+Diadema,R$ 1.500, SP,iPhone 7
+Salvador,R$ 1.500, BA,iPhone 7
+São Cristóvão,R$ 1.500, SE,iPhone 7
+Rio de Janeiro,R$ 1.500, RJ,iPhone 7
+Camaragibe,R$ 1.500, PE,iPhone 7
+Brasília,R$ 1.500, DF,iPhone 7
+Macapá,R$ 1.500, AP,iPhone 7
+Pedro Leopoldo,R$ 1.500, MG,iPhone 7
+Caxias do Sul,R$ 1.500, RS,iPhone 7
+Aparecida de Goiânia,R$ 1.500, GO,iPhone 7
+São Paulo,R$ 1.500, SP,iPhone 7
+Palhoça,R$ 1.500, SC,iPhone 7
+Luziânia,R$ 1.500, DF,iPhone 7
+Belo Horizonte,R$ 1.650, MG,iPhone 7
+Pouso Alegre,R$ 1.650, MG,iPhone 7
+Visconde do Rio Branco,R$ 1.650, MG,iPhone 7
+Contagem,R$ 1.650, MG,iPhone 7
+Porto Alegre,R$ 1.650, RS,iPhone 7
+Seropédica,R$ 1.650, RJ,iPhone 7
+São Paulo,R$ 1.650, SP,iPhone 7
+Águas Lindas de Goiás,R$ 1.650, DF,iPhone 7
+Fortaleza,R$ 1.650, CE,iPhone 7
+Mari,R$ 1.650, PB,iPhone 7
+Cuiabá,R$ 1.650, MT,iPhone 7
+Belo Horizonte,R$ 1.650, MG,iPhone 7
+São Francisco,R$ 1.650, MG,iPhone 7
+Itabaiana,R$ 1.650, SE,iPhone 7
+Bauru,R$ 1.650, SP,iPhone 7
+Uberlândia,R$ 1.650, MG,iPhone 7
+Londrina,R$ 1.650, PR,iPhone 7
+Jequié,R$ 1.650, BA,iPhone 7
+Simão Dias,R$ 1.650, SE,iPhone 7
+Caxias do Sul,R$ 1.650, RS,iPhone 7
+Belo Horizonte,R$ 1.650, MG,iPhone 7
+Brasília,R$ 1.650, DF,iPhone 7
+Divinópolis,R$ 1.650, MG,iPhone 7
+Belo Horizonte,R$ 1.650, MG,iPhone 7
+Salvador,R$ 1.650, BA,iPhone 7
+Brasília,R$ 1.650, DF,iPhone 7
+Rondonópolis,R$ 1.650, MT,iPhone 7
+Goiânia,R$ 1.650, GO,iPhone 7
+Guarulhos,R$ 1.650, SP,iPhone 7
+Aracaju,R$ 1.650, SE,iPhone 7
+Palmas,R$ 1.650, TO,iPhone 7
+Campo Grande,R$ 1.650, MS,iPhone 7
+Vitória da Conquista,R$ 1.650, BA,iPhone 7
+Belo Horizonte,R$ 1.650, MG,iPhone 7
+Itapetininga,R$ 1.650, SP,iPhone 7
+Olinda,R$ 1.650, PE,iPhone 7
+Aracaju,R$ 1.650, SE,iPhone 7
+Manaus,R$ 1.650, AM,iPhone 7
+Carmópolis,R$ 1.650, SE,iPhone 7
+São Cristóvão,R$ 1.650, SE,iPhone 7
+São Gonçalo,R$ 1.650, RJ,iPhone 7
+Rio Branco,R$ 1.650, AC,iPhone 7
+Campo Grande,R$ 1.650, MS,iPhone 7
+Maricá,R$ 1.650, RJ,iPhone 7
+São Cristóvão,R$ 1.650, SE,iPhone 7
+São Paulo,R$ 1.650, SP,iPhone 7
+Blumenau,R$ 1.650, SC,iPhone 7
+João Pessoa,R$ 1.650, PB,iPhone 7
+Teresina,R$ 1.650, PI,iPhone 7
+São Paulo,R$ 1.650, SP,iPhone 7
+Maceió,R$ 2.550, AL,iPhone XR 
+São Paulo,R$ 2.550, SP,iPhone XR 
+Goiânia,R$ 2.550, GO,iPhone XR 
+São Paulo,R$ 2.550, SP,iPhone XR 
+"Braço, Eldorado",R$ 2.550, SP,iPhone XR 
+Rio de Janeiro,R$ 2.550, RJ,iPhone XR 
+Rio Branco,R$ 2.550, AC,iPhone XR 
+Caieiras,R$ 2.550, SP,iPhone XR 
+Foz do Iguaçu,R$ 2.550, PR,iPhone XR 
+Fortaleza,R$ 2.550, CE,iPhone XR 
+Maringá,R$ 2.550, PR,iPhone XR 
+Jaboatão dos Guararapes,R$ 2.550, PE,iPhone XR 
+Florianópolis,R$ 2.550, SC,iPhone XR 
+Manaus,R$ 2.550, AM,iPhone XR 
+Rio de Janeiro,R$ 2.550, RJ,iPhone XR 
+Feira de Santana,R$ 2.550, BA,iPhone XR 
+Fortaleza,R$ 2.550, CE,iPhone XR 
+Curitiba,R$ 2.550, PR,iPhone XR 
+Porto Alegre,R$ 2.550, RS,iPhone XR 
+Salvador,R$ 2.550, BA,iPhone XR 
+São Luís,R$ 2.550, MA,iPhone XR 
+Ponta Porã,R$ 2.550, MS,iPhone XR 
+Recife,R$ 2.550, PE,iPhone XR 
+São José de Ribamar,R$ 2.550, MA,iPhone XR 
+Duque de Caxias,R$ 2.550, RJ,iPhone XR 
+Belém,R$ 2.550, PA,iPhone XR 
+Salvador,R$ 2.550, BA,iPhone XR 
+São Luís,R$ 2.550, MA,iPhone XR 
+Ananindeua,R$ 2.550, PA,iPhone XR 
+Aracaju,R$ 2.550, SE,iPhone XR 
+São Luís,R$ 2.550, MA,iPhone XR 
+Fortaleza,R$ 2.550, CE,iPhone XR 
+Rio de Janeiro,R$ 2.550, RJ,iPhone XR 
+São Paulo,R$ 2.550, SP,iPhone XR 
+Santa Luzia,R$ 2.550, MG,iPhone XR 
+Fortaleza,R$ 2.550, CE,iPhone XR 
+Indaial,R$ 2.550, SC,iPhone XR 
+Belo Horizonte,R$ 2.550, MG,iPhone XR 
+Curitiba,R$ 2.550, PR,iPhone XR 
+Contagem,R$ 2.550, MG,iPhone XR 
+Maceió,R$ 2.550, AL,iPhone XR 
+Fortaleza,R$ 2.550, CE,iPhone XR 
+João Pessoa,R$ 2.550, PB,iPhone XR 
+Foz do Iguaçu,R$ 2.550, PR,iPhone XR 
+São José dos Campos,R$ 2.550, SP,iPhone XR 
+Salvador,R$ 2.550, BA,iPhone XR 
+Fortaleza,R$ 2.550, CE,iPhone XR 
+Caieiras,R$ 2.550, SP,iPhone XR 
+Rio de Janeiro,R$ 2.550, RJ,iPhone XR 
+Diadema,R$ 2.550, SP,iPhone XR 
+Fortaleza,R$ 3.100, CE,iPhone XR
+Belo Horizonte,R$ 3.100, MG,iPhone XR
+Vitória,R$ 3.100, ES,iPhone XR
+Teresina,R$ 3.100, PI,iPhone XR
+Vespasiano,R$ 3.100, MG,iPhone XR
+Manaus,R$ 3.100, AM,iPhone XR
+Parauapebas,R$ 3.100, PA,iPhone XR
+Manaus,R$ 3.100, AM,iPhone XR
+Caucaia,R$ 3.100, CE,iPhone XR
+Rio de Janeiro,R$ 3.100, RJ,iPhone XR
+Fortaleza,R$ 3.100, CE,iPhone XR
+Rio de Janeiro,R$ 3.100, RJ,iPhone XR
+São Luís,R$ 3.100, MA,iPhone XR
+Fortaleza,R$ 3.100, CE,iPhone XR
+Maceió,R$ 3.100, AL,iPhone XR
+Itabaiana,R$ 3.100, SE,iPhone XR
+Curitiba,R$ 3.100, PR,iPhone XR
+Rio de Janeiro,R$ 3.100, RJ,iPhone XR
+Maringá,R$ 3.100, PR,iPhone XR
+São Cristóvão,R$ 3.100, SE,iPhone XR
+São Paulo,R$ 3.100, SP,iPhone XR
+Alagoinhas,R$ 3.100, BA,iPhone XR
+Porto Grande,R$ 3.100, AP,iPhone XR
+Campinas,R$ 3.100, SP,iPhone XR
+Feira de Santana,R$ 3.100, BA,iPhone XR
+Porto Alegre,R$ 3.100, RS,iPhone XR
+Nossa Senhora do Socorro,R$ 3.100, SE,iPhone XR
+Cascavel,R$ 3.100, PR,iPhone XR
+Belo Horizonte,R$ 3.100, MG,iPhone XR
+Goiânia,R$ 3.100, GO,iPhone XR
+Boa Vista,R$ 3.100, RR,iPhone XR
+Florianópolis,R$ 3.100, SC,iPhone XR
+Natal,R$ 3.100, RN,iPhone XR
+Campo Grande,R$ 3.100, MS,iPhone XR
+Toledo,R$ 3.100, MG,iPhone XR
+Belo Horizonte,R$ 3.100, MG,iPhone XR
+Extremoz,R$ 3.100, RN,iPhone XR
+Conselheiro Lafaiete,R$ 3.100, MG,iPhone XR
+São Gonçalo do Amarante,R$ 3.100, RN,iPhone XR
+Brasília,R$ 3.100, DF,iPhone XR
+Goiânia,R$ 3.100, GO,iPhone XR
+São José Dos Campos,R$ 3.100, SP,iPhone XR
+Brasília,R$ 3.100, DF,iPhone XR
+Salvador,R$ 3.100, BA,iPhone XR
+Rio de Janeiro,R$ 3.100, RJ,iPhone XR
+Anápolis,R$ 3.100, GO,iPhone XR
+Campinas,R$ 3.100, SP,iPhone XR
+Rio de Janeiro,R$ 3.100, RJ,iPhone XR
+Ananindeua,R$ 3.100, PA,iPhone XR
+Camaçari,R$ 3.100, BA,iPhone XR
+Guaíra,R$ 350, PR,iPhone 6
+Itapema,R$ 350, SC,iPhone 6
+Belo Horizonte,R$ 350, MG,iPhone 6
+Manaus,R$ 350, AM,iPhone 6
+Paranavaí,R$ 350, PR,iPhone 6
+Águas Lindas de Goiás,R$ 350, DF,iPhone 6
+Brasília,R$ 350, DF,iPhone 6
+Belém,R$ 350, PA,iPhone 6
+Raul Soares,R$ 350, MG,iPhone 6
+Salvador,R$ 350, BA,iPhone 6
+Campinas,R$ 350, SP,iPhone 6
+Goiânia,R$ 350, GO,iPhone 6
+Taubaté,R$ 350, SP,iPhone 6
+Recife,R$ 350, PE,iPhone 6
+Juiz de Fora,R$ 350, MG,iPhone 6
+São José de Ribamar,R$ 350, MA,iPhone 6
+Aracaju,R$ 350, SE,iPhone 6
+Maceió,R$ 350, AL,iPhone 6
+Montes Claros,R$ 350, MG,iPhone 6
+Rio de Janeiro,R$ 350, RJ,iPhone 6
+Rio de Janeiro,R$ 350, RJ,iPhone 6
+Fortaleza,R$ 350, CE,iPhone 6
+Santa Rita,R$ 350, PB,iPhone 6
+Araranguá,R$ 350, SC,iPhone 6
+Itapetininga,R$ 350, SP,iPhone 6
+Santos,R$ 350, SP,iPhone 6
+Boa Vista,R$ 350, RR,iPhone 6
+Belo Horizonte,R$ 350, MG,iPhone 6
+Jaboatão dos Guararapes,R$ 350, PE,iPhone 6
+Salvador,R$ 350, BA,iPhone 6
+Bayeux,R$ 350, PB,iPhone 6
+Aracaju,R$ 350, SE,iPhone 6
+Joinville,R$ 350, SC,iPhone 6
+Capela,R$ 350, SE,iPhone 6
+Maceió,R$ 350, AL,iPhone 6
+Santarém,R$ 350, PA,iPhone 6
+Santarém,R$ 350, PA,iPhone 6
+Natal,R$ 350, RN,iPhone 6
+Uberlândia,R$ 350, MG,iPhone 6
+Bauru,R$ 350, SP,iPhone 6
+Pelotas,R$ 350, RS,iPhone 6
+Aracaju,R$ 350, SE,iPhone 6
+Campo Grande,R$ 350, MS,iPhone 6
+Olímpia,R$ 350, SP,iPhone 6
+Arapiraca,R$ 350, AL,iPhone 6
+Lauro de Freitas,R$ 350, BA,iPhone 6
+Guarulhos,R$ 350, SP,iPhone 6
+Fortaleza,R$ 1.500, CE,Iphone 7plus 
+Recife,R$ 1.500, PE,Iphone 7plus 
+Fortaleza,R$ 1.500, CE,Iphone 7plus 
+Brasília,R$ 1.500, DF,Iphone 7plus 
+Camboriú,R$ 1.500, SC,Iphone 7plus 
+Cuiabá,R$ 1.500, MT,Iphone 7plus 
+São João de Meriti,R$ 1.500, RJ,Iphone 7plus 
+Nova Iguaçu,R$ 1.500, RJ,Iphone 7plus 
+Belo Horizonte,R$ 1.500, MG,Iphone 7plus 
+Boa Vista,R$ 1.500, RR,Iphone 7plus 
+Rio de Janeiro,R$ 1.500, RJ,Iphone 7plus 
+Rio de Janeiro,R$ 1.500, RJ,Iphone 7plus 
+Aparecida de Goiânia,R$ 1.500, GO,Iphone 7plus 
+São Paulo,R$ 1.500, SP,Iphone 7plus 
+Aracaju,R$ 1.500, SE,Iphone 7plus 
+Divinópolis,R$ 1.500, MG,Iphone 7plus 
+Maceió,R$ 1.500, AL,Iphone 7plus 
+Vila Velha,R$ 1.500, ES,Iphone 7plus 
+Manaus,R$ 1.500, AM,Iphone 7plus 
+São Paulo,R$ 1.500, SP,Iphone 7plus 
+Florianópolis,R$ 1.500, SC,Iphone 7plus 
+São Paulo,R$ 1.500, SP,Iphone 7plus 
+Cubatão,R$ 1.500, SP,Iphone 7plus 
+São Paulo,R$ 1.500, SP,Iphone 7plus 
+Manaus,R$ 1.500, AM,Iphone 7plus 
+Presidente Prudente,R$ 1.500, SP,Iphone 7plus 
+Rio de Janeiro,R$ 1.500, RJ,Iphone 7plus 
+Paulo Afonso,R$ 1.500, BA,Iphone 7plus 
+Manaus,R$ 1.500, AM,Iphone 7plus 
+Rio de Janeiro,R$ 1.500, RJ,Iphone 7plus 
+Brazabrantes,R$ 1.500, GO,Iphone 7plus 
+Fortaleza,R$ 1.500, CE,Iphone 7plus 
+Olinda,R$ 1.500, PE,Iphone 7plus 
+Uberlândia,R$ 1.500, MG,Iphone 7plus 
+Maceió,R$ 1.500, AL,Iphone 7plus 
+Fortaleza,R$ 1.500, CE,Iphone 7plus 
+Maceió,R$ 1.500, AL,Iphone 7plus 
+Charqueada,R$ 1.500, SP,Iphone 7plus 
+Brasília,R$ 1.500, DF,Iphone 7plus 
+Rio de Janeiro,R$ 1.500, RJ,Iphone 7plus 
+São Luís,R$ 1.500, MA,Iphone 7plus 
+Fortaleza,R$ 1.500, CE,Iphone 7plus 
+Salvador,R$ 1.500, BA,Iphone 7plus 
+Rio de Janeiro,R$ 1.500, RJ,Iphone 7plus 
+Rio de Janeiro,R$ 1.500, RJ,Iphone 7plus 
+Goiânia,R$ 1.500, GO,Iphone 7plus 
+Manaus,R$ 1.500, AM,Iphone 7plus 
+Salvador,R$ 1.500, BA,Iphone 7plus 
+São Paulo,R$ 1.500, SP,Iphone 7plus 
+Contagem,R$ 1.500, MG,Iphone 7plus 
+Uberlândia,R$ 300, MG,iPhone 5s
+Betim,R$ 300, MG,iPhone 5s
+Goiânia,R$ 300, GO,iPhone 5s
+Brasília,R$ 300, DF,iPhone 5s
+João Pessoa,R$ 300, PB,iPhone 5s
+Piracicaba,R$ 300, SP,iPhone 5s
+Salvador,R$ 300, BA,iPhone 5s
+Teresina,R$ 300, PI,iPhone 5s
+Anápolis,R$ 300, GO,iPhone 5s
+Brasília,R$ 300, DF,iPhone 5s
+Salvador,R$ 300, BA,iPhone 5s
+Maracanaú,R$ 300, CE,iPhone 5s
+São Paulo,R$ 300, SP,iPhone 5s
+São Cristóvão,R$ 300, SE,iPhone 5s
+Caucaia,R$ 300, CE,iPhone 5s
+Manacapuru,R$ 300, AM,iPhone 5s
+Presidente Prudente,R$ 300, SP,iPhone 5s
+Fortaleza,R$ 300, CE,iPhone 5s
+Palhoça,R$ 300, SC,iPhone 5s
+Luziânia,R$ 300, DF,iPhone 5s
+Mogi das Cruzes,R$ 300, SP,iPhone 5s
+Brasília,R$ 300, DF,iPhone 5s
+Cascavel,R$ 300, PR,iPhone 5s
+Salvador,R$ 300, BA,iPhone 5s
+Cuiabá,R$ 300, MT,iPhone 5s
+Cachoeiro de Itapemirim,R$ 300, ES,iPhone 5s
+Salvador,R$ 300, BA,iPhone 5s
+Salvador,R$ 300, BA,iPhone 5s
+Sorocaba,R$ 300, SP,iPhone 5s
+Colatina,R$ 300, ES,iPhone 5s
+Campo Grande,R$ 300, MS,iPhone 5s
+Feira de Santana,R$ 300, BA,iPhone 5s
+Rio de Janeiro,R$ 300, RJ,iPhone 5s
+Camboriú,R$ 300, SC,iPhone 5s
+Parnamirim,R$ 300, RN,iPhone 5s
+Fortaleza,R$ 300, CE,iPhone 5s
+Belo Horizonte,R$ 300, MG,iPhone 5s
+Vitória,R$ 300, ES,iPhone 5s
+Teresina,R$ 300, PI,iPhone 5s
+Vespasiano,R$ 300, MG,iPhone 5s
+Manaus,R$ 300, AM,iPhone 5s
+Parauapebas,R$ 300, PA,iPhone 5s
+Manaus,R$ 300, AM,iPhone 5s
+Caucaia,R$ 300, CE,iPhone 5s
+Rio de Janeiro,R$ 300, RJ,iPhone 5s
+Fortaleza,R$ 300, CE,iPhone 5s
+Rio de Janeiro,R$ 300, RJ,iPhone 5s
+São Luís,R$ 300, MA,iPhone 5s
+Fortaleza,R$ 300, CE,iPhone 5s
+Rio de Janeiro,R$ 550, RJ,iPhone SE 64GB
+Sertãozinho,R$ 550, SP,iPhone SE 64GB
+Fortaleza,R$ 550, CE,iPhone SE 64GB
+Jundiaí,R$ 550, SP,iPhone SE 64GB
+Belo Horizonte,R$ 550, MG,iPhone SE 64GB
+Irará,R$ 550, BA,iPhone SE 64GB
+Teresina,R$ 550, PI,iPhone SE 64GB
+São Paulo,R$ 550, SP,iPhone SE 64GB
+São Paulo,R$ 550, SP,iPhone SE 64GB
+Anápolis,R$ 550, GO,iPhone SE 64GB
+Brasília,R$ 550, DF,iPhone SE 64GB
+Brasília,R$ 550, DF,iPhone SE 64GB
+Goiânia,R$ 550, GO,iPhone SE 64GB
+Goiânia,R$ 550, GO,iPhone SE 64GB
+Fortaleza,R$ 550, CE,iPhone SE 64GB
+Fortaleza,R$ 550, CE,iPhone SE 64GB
+Fortaleza,R$ 550, CE,iPhone SE 64GB
+Manaus,R$ 550, AM,iPhone SE 64GB
+Salvador,R$ 550, BA,iPhone SE 64GB
+Jardinópolis,R$ 550, SP,iPhone SE 64GB
+Teófilo Otoni,R$ 550, MG,iPhone SE 64GB
+São Paulo,R$ 550, SP,iPhone SE 64GB
+Caçapava,R$ 550, SP,iPhone SE 64GB
+São Paulo,R$ 550, SP,iPhone SE 64GB
+Belém,R$ 550, PA,iPhone SE 64GB
+Manaus,R$ 550, AM,iPhone SE 64GB
+Osasco,R$ 550, SP,iPhone SE 64GB
+Natal,R$ 550, RN,iPhone SE 64GB
+Cascavel,R$ 550, PR,iPhone SE 64GB
+Maceió,R$ 550, AL,iPhone SE 64GB
+Brasília,R$ 550, DF,iPhone SE 64GB
+Ribeirão das Neves,R$ 550, MG,iPhone SE 64GB
+Belo Horizonte,R$ 550, MG,iPhone SE 64GB
+Recife,R$ 550, PE,iPhone SE 64GB
+Recife,R$ 550, PE,iPhone SE 64GB
+Muriaé,R$ 550, MG,iPhone SE 64GB
+Vila Velha,R$ 550, ES,iPhone SE 64GB
+São José do Rio Preto,R$ 550, SP,iPhone SE 64GB
+Natal,R$ 550, RN,iPhone SE 64GB
+Maceió,R$ 550, AL,iPhone SE 64GB
+Anápolis,R$ 550, GO,iPhone SE 64GB
+Cosmópolis,R$ 550, SP,iPhone SE 64GB
+Juiz de Fora,R$ 550, MG,iPhone SE 64GB
+Fortaleza,R$ 550, CE,iPhone SE 64GB
+Recife,R$ 550, PE,iPhone SE 64GB
+Fortaleza,R$ 550, CE,iPhone SE 64GB
+Brasília,R$ 550, DF,iPhone SE 64GB
+Camboriú,R$ 550, SC,iPhone SE 64GB
+Cuiabá,R$ 550, MT,iPhone SE 64GB
+São João de Meriti,R$ 550, RJ,iPhone SE 64GB
+São Paulo,R$ 2.500, SP,iPhone Vendo
+Rondonópolis,R$ 2.500, MT,iPhone Vendo
+Alagoinhas,R$ 2.500, BA,iPhone Vendo
+São Gonçalo do Amarante,R$ 2.500, RN,iPhone Vendo
+São Paulo,R$ 2.500, SP,iPhone Vendo
+Rio de Janeiro,R$ 2.500, RJ,iPhone Vendo
+Curitiba,R$ 2.500, PR,iPhone Vendo
+Rio de Janeiro,R$ 2.500, RJ,iPhone Vendo
+Osasco,R$ 2.500, SP,iPhone Vendo
+Brasília,R$ 2.500, DF,iPhone Vendo
+São Paulo,R$ 2.500, SP,iPhone Vendo
+São Luís,R$ 2.500, MA,iPhone Vendo
+Rio de Janeiro,R$ 2.500, RJ,iPhone Vendo
+Osasco,R$ 2.500, SP,iPhone Vendo
+Natal,R$ 2.500, RN,iPhone Vendo
+Cascavel,R$ 2.500, PR,iPhone Vendo
+Maceió,R$ 2.500, AL,iPhone Vendo
+Brasília,R$ 2.500, DF,iPhone Vendo
+Ribeirão das Neves,R$ 2.500, MG,iPhone Vendo
+Belo Horizonte,R$ 2.500, MG,iPhone Vendo
+Recife,R$ 2.500, PE,iPhone Vendo
+Recife,R$ 2.500, PE,iPhone Vendo
+Muriaé,R$ 2.500, MG,iPhone Vendo
+Vila Velha,R$ 2.500, ES,iPhone Vendo
+São José do Rio Preto,R$ 2.500, SP,iPhone Vendo
+Natal,R$ 2.500, RN,iPhone Vendo
+Maceió,R$ 2.500, AL,iPhone Vendo
+Anápolis,R$ 2.500, GO,iPhone Vendo
+Cosmópolis,R$ 2.500, SP,iPhone Vendo
+Juiz de Fora,R$ 2.500, MG,iPhone Vendo
+Fortaleza,R$ 2.500, CE,iPhone Vendo
+Recife,R$ 2.500, PE,iPhone Vendo
+Fortaleza,R$ 2.500, CE,iPhone Vendo
+Brasília,R$ 2.500, DF,iPhone Vendo
+Camboriú,R$ 2.500, SC,iPhone Vendo
+Cuiabá,R$ 2.500, MT,iPhone Vendo
+São João de Meriti,R$ 2.500, RJ,iPhone Vendo
+Nova Iguaçu,R$ 2.500, RJ,iPhone Vendo
+Belo Horizonte,R$ 2.500, MG,iPhone Vendo
+Boa Vista,R$ 2.500, RR,iPhone Vendo
+Rio de Janeiro,R$ 2.500, RJ,iPhone Vendo
+Rio de Janeiro,R$ 2.500, RJ,iPhone Vendo
+Rio de Janeiro,R$ 2.500, RJ,iPhone Vendo
+São José do Rio Preto,R$ 2.500, SP,iPhone Vendo
+Rio de Janeiro,R$ 2.500, RJ,iPhone Vendo
+Aparecida de Goiânia,R$ 2.500, GO,iPhone Vendo
+Recife,R$ 2.500, PE,iPhone Vendo
+Salvador,R$ 2.500, BA,iPhone Vendo
+São Paulo,R$ 2.500, SP,iPhone Vendo
+Barra dos Coqueiros,R$ 2.500, SE,iPhone Vendo
+Rio de Janeiro,R$ 3.500, RJ,IPhone xsmax
+São Gonçalo,R$ 3.500, RJ,IPhone xsmax
+Jaboatão dos Guararapes,R$ 3.500, PE,IPhone xsmax
+Montes Claros,R$ 3.500, MG,IPhone xsmax
+Serra,R$ 3.500, ES,IPhone xsmax
+Belo Horizonte,R$ 3.500, MG,IPhone xsmax
+Belo Horizonte,R$ 3.500, MG,IPhone xsmax
+Betim,R$ 3.500, MG,IPhone xsmax
+Aracaju,R$ 3.500, SE,IPhone xsmax
+Taubaté,R$ 3.500, SP,IPhone xsmax
+Curitiba,R$ 3.500, PR,IPhone xsmax
+Uberlândia,R$ 3.500, MG,IPhone xsmax
+São Carlos,R$ 3.500, SP,IPhone xsmax
+Cabedelo,R$ 3.500, PB,IPhone xsmax
+São Luís,R$ 3.500, MA,IPhone xsmax
+São Paulo,R$ 3.500, SP,IPhone xsmax
+Teresina,R$ 3.500, PI,IPhone xsmax
+São Luís,R$ 3.500, MA,IPhone xsmax
+Santana de Parnaíba,R$ 3.500, SP,IPhone xsmax
+"Vargem Alegre, Barra do Piraí",R$ 3.500, RJ,IPhone xsmax
+"Taquaralto, Palmas",R$ 3.500, TO,IPhone xsmax
+João Pessoa,R$ 3.500, PB,IPhone xsmax
+Macapá,R$ 3.500, AP,IPhone xsmax
+Natal,R$ 3.500, RN,IPhone xsmax
+Uberlândia,R$ 3.500, MG,IPhone xsmax
+Goiânia,R$ 3.500, GO,IPhone xsmax
+Maceió,R$ 3.500, AL,IPhone xsmax
+Curitiba,R$ 3.500, PR,IPhone xsmax
+Olinda,R$ 3.500, PE,IPhone xsmax
+Aracaju,R$ 3.500, SE,IPhone xsmax
+Recife,R$ 3.500, PE,IPhone xsmax
+São Sebastião do Caí,R$ 3.500, RS,IPhone xsmax
+Campo Grande,R$ 3.500, MS,IPhone xsmax
+São Gonçalo,R$ 3.500, RJ,IPhone xsmax
+Fortaleza,R$ 3.500, CE,IPhone xsmax
+Nova Iguaçu,R$ 3.500, RJ,IPhone xsmax
+Salvador,R$ 3.500, BA,IPhone xsmax
+Serra,R$ 3.500, ES,IPhone xsmax
+Porto Alegre,R$ 3.500, RS,IPhone xsmax
+Curitiba,R$ 3.500, PR,IPhone xsmax
+Uberlândia,R$ 3.500, MG,IPhone xsmax
+Guarulhos,R$ 3.500, SP,IPhone xsmax
+Jaboatão dos Guararapes,R$ 3.500, PE,IPhone xsmax
+Maringá,R$ 3.500, PR,IPhone xsmax
+São Paulo,R$ 3.500, SP,IPhone xsmax
+Rio de Janeiro,R$ 3.500, RJ,IPhone xsmax
+Cabaceiras do Paraguaçu,R$ 3.500, BA,IPhone xsmax
+Rio das Ostras,R$ 3.500, RJ,IPhone xsmax
+São Luís,R$ 3.500, MA,IPhone xsmax
+Taubaté,R$ 3.500, SP,IPhone xsmax
+Maceió,R$ 1.800, AL,iPhone 7plus 
+Goiânia,R$ 1.800, GO,iPhone 7plus 
+Fortaleza,R$ 1.800, CE,iPhone 7plus 
+Magé,R$ 1.800, RJ,iPhone 7plus 
+Itapevi,R$ 1.800, SP,iPhone 7plus 
+Porto Velho,R$ 1.800, RO,iPhone 7plus 
+Parnamirim,R$ 1.800, RN,iPhone 7plus 
+Belo Horizonte,R$ 1.800, MG,iPhone 7plus 
+Anápolis,R$ 1.800, GO,iPhone 7plus 
+Brasília,R$ 1.800, DF,iPhone 7plus 
+Belém,R$ 1.800, PA,iPhone 7plus 
+Santo André,R$ 1.800, SP,iPhone 7plus 
+Quipapá,R$ 1.800, PE,iPhone 7plus 
+Capão da Canoa,R$ 1.800, RS,iPhone 7plus 
+Salvador,R$ 1.800, BA,iPhone 7plus 
+Campinas,R$ 1.800, SP,iPhone 7plus 
+Santo André,R$ 1.800, SP,iPhone 7plus 
+Londrina,R$ 1.800, PR,iPhone 7plus 
+Ribeira do Pombal,R$ 1.800, BA,iPhone 7plus 
+Rio de Janeiro,R$ 1.800, RJ,iPhone 7plus 
+Jaboatão dos Guararapes,R$ 1.800, PE,iPhone 7plus 
+Fortaleza,R$ 1.800, CE,iPhone 7plus 
+Salvador,R$ 1.800, BA,iPhone 7plus 
+Brasília,R$ 1.800, DF,iPhone 7plus 
+Campinas,R$ 1.800, SP,iPhone 7plus 
+Hortolândia,R$ 1.800, SP,iPhone 7plus 
+São José do Rio Preto,R$ 1.800, SP,iPhone 7plus 
+Serra,R$ 1.800, ES,iPhone 7plus 
+Palmas,R$ 1.800, TO,iPhone 7plus 
+Maceió,R$ 1.800, AL,iPhone 7plus 
+João Pessoa,R$ 1.800, PB,iPhone 7plus 
+São José dos Campos,R$ 1.800, SP,iPhone 7plus 
+Brasília,R$ 1.800, DF,iPhone 7plus 
+Belém,R$ 1.800, PA,iPhone 7plus 
+Petrolina,R$ 1.800, PE,iPhone 7plus 
+Cambé,R$ 1.800, PR,iPhone 7plus 
+Campo Grande,R$ 1.800, MS,iPhone 7plus 
+Campinas,R$ 1.800, SP,iPhone 7plus 
+Goiânia,R$ 1.800, GO,iPhone 7plus 
+Teresina,R$ 1.800, PI,iPhone 7plus 
+Rio de Janeiro,R$ 1.800, RJ,iPhone 7plus 
+São Paulo,R$ 1.800, SP,iPhone 7plus 
+Sete Lagoas,R$ 1.800, MG,iPhone 7plus 
+Porto Velho,R$ 1.800, RO,iPhone 7plus 
+Betim,R$ 1.800, MG,iPhone 7plus 
+Juiz de Fora,R$ 1.800, MG,iPhone 7plus 
+Aracaju,R$ 1.800, SE,iPhone 7plus 
+São Luís,R$ 1.800, MA,iPhone 7plus 
+Aracaju,R$ 1.250, SE,IPhone 7
+Curitiba,R$ 1.250, PR,IPhone 7
+Montes Claros,R$ 1.250, MG,IPhone 7
+Fortaleza,R$ 1.250, CE,IPhone 7
+Belo Horizonte,R$ 1.250, MG,IPhone 7
+Formoso,R$ 1.250, GO,IPhone 7
+Fortaleza,R$ 1.250, CE,IPhone 7
+Curitiba,R$ 1.250, PR,IPhone 7
+Cariacica,R$ 1.250, ES,IPhone 7
+São Benedito do Rio Preto,R$ 1.250, MA,IPhone 7
+Rio Branco,R$ 1.250, AC,IPhone 7
+Parnamirim,R$ 1.250, RN,IPhone 7
+Salvador,R$ 1.250, BA,IPhone 7
+São Gonçalo do Amarante,R$ 1.250, RN,IPhone 7
+Santos,R$ 1.250, SP,IPhone 7
+Belém,R$ 1.250, PA,IPhone 7
+Nova Iguaçu,R$ 1.250, RJ,IPhone 7
+São João de Meriti,R$ 1.250, RJ,IPhone 7
+Porto Velho,R$ 1.250, RO,IPhone 7
+Rio de Janeiro,R$ 1.250, RJ,IPhone 7
+Goiânia,R$ 1.250, GO,IPhone 7
+Novo Horizonte,R$ 1.250, SP,IPhone 7
+Fortaleza,R$ 1.250, CE,IPhone 7
+Belo Horizonte,R$ 1.250, MG,IPhone 7
+Macapá,R$ 1.250, AP,IPhone 7
+Salvador,R$ 1.250, BA,IPhone 7
+Jaboatão dos Guararapes,R$ 1.250, PE,IPhone 7
+Salvador,R$ 1.250, BA,IPhone 7
+Brasília,R$ 1.250, DF,IPhone 7
+Goiânia,R$ 1.250, GO,IPhone 7
+Florianópolis,R$ 1.250, SC,IPhone 7
+Serra,R$ 1.250, ES,IPhone 7
+Salvador,R$ 1.250, BA,IPhone 7
+Guarulhos,R$ 1.250, SP,IPhone 7
+Jaboatão dos Guararapes,R$ 1.250, PE,IPhone 7
+Maringá,R$ 1.250, PR,IPhone 7
+São Paulo,R$ 1.250, SP,IPhone 7
+Rio de Janeiro,R$ 1.250, RJ,IPhone 7
+Cabaceiras do Paraguaçu,R$ 1.250, BA,IPhone 7
+Rio das Ostras,R$ 1.250, RJ,IPhone 7
+São Luís,R$ 1.250, MA,IPhone 7
+Taubaté,R$ 1.250, SP,IPhone 7
+Cravinhos,R$ 1.250, SP,IPhone 7
+Porto Velho,R$ 1.250, RO,IPhone 7
+Serra,R$ 1.250, ES,IPhone 7
+Araruama,R$ 1.250, RJ,IPhone 7
+Jaicós,R$ 1.250, PI,IPhone 7
+Brasília,R$ 1.250, DF,IPhone 7
+Saquarema,R$ 1.250, RJ,IPhone 7
+Rio de Janeiro,R$ 1.250, RJ,IPhone 7
+Sabará,R$ 2.000, MG,iPhone 8 
+Bragança Paulista,R$ 2.000, SP,iPhone 8 
+Marília,R$ 2.000, SP,iPhone 8 
+Lauro de Freitas,R$ 2.000, BA,iPhone 8 
+Caxias do Sul,R$ 2.000, RS,iPhone 8 
+Goiânia,R$ 2.000, GO,iPhone 8 
+Goiânia,R$ 2.000, GO,iPhone 8 
+Salvador,R$ 2.000, BA,iPhone 8 
+Limeira,R$ 2.000, SP,iPhone 8 
+Araçatuba,R$ 2.000, SP,iPhone 8 
+Volta Redonda,R$ 2.000, RJ,iPhone 8 
+São Paulo,R$ 2.000, SP,iPhone 8 
+Fortaleza,R$ 2.000, CE,iPhone 8 
+Natal,R$ 2.000, RN,iPhone 8 
+Macaé,R$ 2.000, RJ,iPhone 8 
+Joinville,R$ 2.000, SC,iPhone 8 
+Manaus,R$ 2.000, AM,iPhone 8 
+Rio Branco,R$ 2.000, AC,iPhone 8 
+Teresina,R$ 2.000, PI,iPhone 8 
+Rio de Janeiro,R$ 2.000, RJ,iPhone 8 
+Almirante Tamandaré,R$ 2.000, PR,iPhone 8 
+Natal,R$ 2.000, RN,iPhone 8 
+São José do Rio Preto,R$ 2.000, SP,iPhone 8 
+Feira De Santana,R$ 2.000, BA,iPhone 8 
+São Luís,R$ 2.000, MA,iPhone 8 
+João Pessoa,R$ 2.000, PB,iPhone 8 
+Belo Horizonte,R$ 2.000, MG,iPhone 8 
+Belo Horizonte,R$ 2.000, MG,iPhone 8 
+São Paulo,R$ 2.000, SP,iPhone 8 
+Manaus,R$ 2.000, AM,iPhone 8 
+Joinville,R$ 2.000, SC,iPhone 8 
+Maceió,R$ 2.000, AL,iPhone 8 
+Paulista,R$ 2.000, PE,iPhone 8 
+Goiânia,R$ 2.000, GO,iPhone 8 
+São Luís,R$ 2.000, MA,iPhone 8 
+Manaus,R$ 2.000, AM,iPhone 8 
+Nova Iguaçu,R$ 2.000, RJ,iPhone 8 
+Brasília,R$ 2.000, DF,iPhone 8 
+Salvador,R$ 2.000, BA,iPhone 8 
+Guarulhos,R$ 2.000, SP,iPhone 8 
+Ribeirão Preto,R$ 2.000, SP,iPhone 8 
+São José dos Campos,R$ 2.000, SP,iPhone 8 
+Castanhal,R$ 2.000, PA,iPhone 8 
+São Paulo,R$ 2.000, SP,iPhone 8 
+Balneário Camboriú,R$ 2.000, SC,iPhone 8 
+Jaboatão dos Guararapes,R$ 2.000, PE,iPhone 8 
+Salvador,R$ 2.000, BA,iPhone 8 
+Gurupi,R$ 2.000, TO,iPhone 8 
+Jaboatão dos Guararapes,R$ 2.000, PE,iPhone 8 
+Joinville,R$ 2.000, SC,iPhone 8 
+Paulo Lopes,R$ 30, SC,IPhone carregador
+Rio de Janeiro,R$ 30, RJ,IPhone carregador
+Belo Horizonte,R$ 30, MG,IPhone carregador
+Cacimbinhas,R$ 30, AL,IPhone carregador
+Niterói,R$ 30, RJ,IPhone carregador
+Ferraz de Vasconcelos,R$ 30, SP,IPhone carregador
+Belém,R$ 30, PA,IPhone carregador
+Belém,R$ 30, PA,IPhone carregador
+Belo Horizonte,R$ 30, MG,IPhone carregador
+Taboão da Serra,R$ 30, SP,IPhone carregador
+São Bernardo do Campo,R$ 30, SP,IPhone carregador
+Barra do Piraí,R$ 30, RJ,IPhone carregador
+Salvador,R$ 30, BA,IPhone carregador
+Pouso Alegre,R$ 30, MG,IPhone carregador
+Aracaju,R$ 30, SE,IPhone carregador
+Brasília,R$ 30, DF,IPhone carregador
+Aparecida de Goiânia,R$ 30, GO,IPhone carregador
+Aparecida de Goiânia,R$ 30, GO,IPhone carregador
+João Pessoa,R$ 30, PB,IPhone carregador
+Contagem,R$ 30, MG,IPhone carregador
+São Luís,R$ 30, MA,IPhone carregador
+Belém,R$ 30, PA,IPhone carregador
+Ribeirão Preto,R$ 30, SP,IPhone carregador
+Aparecida de Goiânia,R$ 30, GO,IPhone carregador
+Goiânia,R$ 30, GO,IPhone carregador
+Sete Lagoas,R$ 30, MG,IPhone carregador
+João Pessoa,R$ 30, PB,IPhone carregador
+Feira de Santana,R$ 30, BA,IPhone carregador
+Salvador,R$ 30, BA,IPhone carregador
+Goiânia,R$ 30, GO,IPhone carregador
+São Paulo,R$ 30, SP,IPhone carregador
+Nossa Senhora do Socorro,R$ 30, SE,IPhone carregador
+Campos dos Goytacazes,R$ 30, RJ,IPhone carregador
+Cuiabá,R$ 30, MT,IPhone carregador
+Belo Horizonte,R$ 30, MG,IPhone carregador
+São Cristóvão,R$ 30, SE,IPhone carregador
+Rio de Janeiro,R$ 30, RJ,IPhone carregador
+Sales Oliveira,R$ 30, SP,IPhone carregador
+Campo Grande,R$ 30, MS,IPhone carregador
+São José de Ribamar,R$ 30, MA,IPhone carregador
+Brasília,R$ 30, DF,IPhone carregador
+Belém,R$ 30, PA,IPhone carregador
+Belo Horizonte,R$ 30, MG,IPhone carregador
+Brasília,R$ 30, DF,IPhone carregador
+Fortaleza,R$ 30, CE,IPhone carregador
+Teresina,R$ 30, PI,IPhone carregador
+Anápolis,R$ 30, GO,IPhone carregador
+Castanhal,R$ 30, PA,IPhone carregador
+Londrina,R$ 30, PR,IPhone carregador
+Fazenda Rio Grande,R$ 30, PR,IPhone carregador
+Cuiabá,R$ 1.500, MT,iPhone 8
+Campo Grande,R$ 1.500, MS,iPhone 8
+São Luís,R$ 1.500, MA,iPhone 8
+Parauapebas,R$ 1.500, PA,iPhone 8
+Curitiba,R$ 1.500, PR,iPhone 8
+Guarapari,R$ 1.500, ES,iPhone 8
+Rio de Janeiro,R$ 1.500, RJ,iPhone 8
+Aracaju,R$ 1.500, SE,iPhone 8
+Curitiba,R$ 1.500, PR,iPhone 8
+Montes Claros,R$ 1.500, MG,iPhone 8
+Fortaleza,R$ 1.500, CE,iPhone 8
+Belo Horizonte,R$ 1.500, MG,iPhone 8
+Formoso,R$ 1.500, GO,iPhone 8
+Fortaleza,R$ 1.500, CE,iPhone 8
+Curitiba,R$ 1.500, PR,iPhone 8
+Cariacica,R$ 1.500, ES,iPhone 8
+São Benedito do Rio Preto,R$ 1.500, MA,iPhone 8
+Rio Branco,R$ 1.500, AC,iPhone 8
+Parnamirim,R$ 1.500, RN,iPhone 8
+Recife,R$ 1.500, PE,iPhone 8
+Santarém,R$ 1.500, PA,iPhone 8
+Rio de Janeiro,R$ 1.500, RJ,iPhone 8
+Vitória,R$ 1.500, ES,iPhone 8
+Porto Alegre,R$ 1.500, RS,iPhone 8
+Vila Velha,R$ 1.500, ES,iPhone 8
+Aracaju,R$ 1.500, SE,iPhone 8
+Guarujá,R$ 1.500, SP,iPhone 8
+Nova Iguaçu,R$ 1.500, RJ,iPhone 8
+Ibirité,R$ 1.500, MG,iPhone 8
+Capela,R$ 1.500, SE,iPhone 8
+Caxias do Sul,R$ 1.500, RS,iPhone 8
+Brasília,R$ 1.500, DF,iPhone 8
+Maceió,R$ 1.500, AL,iPhone 8
+Brasília,R$ 1.500, DF,iPhone 8
+Osasco,R$ 1.500, SP,iPhone 8
+Fortaleza,R$ 1.500, CE,iPhone 8
+Duque de Caxias,R$ 1.500, RJ,iPhone 8
+Ouricuri,R$ 1.500, PE,iPhone 8
+Maceió,R$ 1.500, AL,iPhone 8
+Goiânia,R$ 1.500, GO,iPhone 8
+Fortaleza,R$ 1.500, CE,iPhone 8
+Magé,R$ 1.500, RJ,iPhone 8
+Itapevi,R$ 1.500, SP,iPhone 8
+Porto Velho,R$ 1.500, RO,iPhone 8
+Parnamirim,R$ 1.500, RN,iPhone 8
+Salvador,R$ 1.500, BA,iPhone 8
+Anápolis,R$ 1.500, GO,iPhone 8
+São Gonçalo do Amarante,R$ 1.500, RN,iPhone 8
+Santos,R$ 1.500, SP,iPhone 8
+Montes Claros,R$ 1.500, MG,iPhone 8
+Rio de Janeiro,R$ 350, RJ,iPhone 5s 
+Patrocínio,R$ 350, MG,iPhone 5s 
+Porto Velho,R$ 350, RO,iPhone 5s 
+Belo Horizonte,R$ 350, MG,iPhone 5s 
+Anápolis,R$ 350, GO,iPhone 5s 
+Palmas,R$ 350, TO,iPhone 5s 
+São José dos Campos,R$ 350, SP,iPhone 5s 
+Belém,R$ 350, PA,iPhone 5s 
+Rio de Janeiro,R$ 350, RJ,iPhone 5s 
+Teresina,R$ 350, PI,iPhone 5s 
+Marituba,R$ 350, PA,iPhone 5s 
+São Paulo,R$ 350, SP,iPhone 5s 
+Descoberto,R$ 350, MG,iPhone 5s 
+Aparecida de Goiânia,R$ 350, GO,iPhone 5s 
+São José dos Campos,R$ 350, SP,iPhone 5s 
+Fazenda Rio Grande,R$ 350, PR,iPhone 5s 
+Belém,R$ 350, PA,iPhone 5s 
+Curitiba,R$ 350, PR,iPhone 5s 
+Rio de Janeiro,R$ 350, RJ,iPhone 5s 
+São Paulo,R$ 350, SP,iPhone 5s 
+São João Batista,R$ 350, SC,iPhone 5s 
+Rio de Janeiro,R$ 350, RJ,iPhone 5s 
+Brasília,R$ 350, DF,iPhone 5s 
+Fortaleza,R$ 350, CE,iPhone 5s 
+Porto Alegre,R$ 350, RS,iPhone 5s 
+São Mateus,R$ 350, ES,iPhone 5s 
+Uberlândia,R$ 350, MG,iPhone 5s 
+Piracicaba,R$ 350, SP,iPhone 5s 
+Goiânia,R$ 350, GO,iPhone 5s 
+Ribeirão Preto,R$ 350, SP,iPhone 5s 
+Fortaleza,R$ 350, CE,iPhone 5s 
+Vila Velha,R$ 350, ES,iPhone 5s 
+São Luís,R$ 350, MA,iPhone 5s 
+Belford Roxo,R$ 350, RJ,iPhone 5s 
+São Vicente,R$ 350, SP,iPhone 5s 
+Brasília,R$ 350, DF,iPhone 5s 
+João Pessoa,R$ 350, PB,iPhone 5s 
+Jaboatão dos Guararapes,R$ 350, PE,iPhone 5s 
+Manaus,R$ 350, AM,iPhone 5s 
+Florianópolis,R$ 350, SC,iPhone 5s 
+Salvador,R$ 350, BA,iPhone 5s 
+Rio de Janeiro,R$ 350, RJ,iPhone 5s 
+São José de Ribamar,R$ 350, MA,iPhone 5s 
+Contagem,R$ 350, MG,iPhone 5s 
+Salvador,R$ 350, BA,iPhone 5s 
+Brasília,R$ 350, DF,iPhone 5s 
+Pindamonhangaba,R$ 350, SP,iPhone 5s 
+Joinville,R$ 350, SC,iPhone 5s 
+São Paulo,R$ 350, SP,iPhone 5s 
+Fortaleza,R$ 350, CE,iPhone 5s 
+Rio de Janeiro,R$ 2.300, RJ,iPhone 8
+São Luís,R$ 2.300, MA,iPhone 8
+Porto Alegre,R$ 2.300, RS,iPhone 8
+Goiânia,R$ 2.300, GO,iPhone 8
+Santo Anastácio,R$ 2.300, SP,iPhone 8
+São José dos Campos,R$ 2.300, SP,iPhone 8
+Juiz de Fora,R$ 2.300, MG,iPhone 8
+Belo Horizonte,R$ 2.300, MG,iPhone 8
+Belo Horizonte,R$ 2.300, MG,iPhone 8
+Muriaé,R$ 2.300, MG,iPhone 8
+Brasília,R$ 2.300, DF,iPhone 8
+Olinda,R$ 2.300, PE,iPhone 8
+Manaus,R$ 2.300, AM,iPhone 8
+Fortaleza,R$ 2.300, CE,iPhone 8
+Rio Largo,R$ 2.300, AL,iPhone 8
+João Pessoa,R$ 2.300, PB,iPhone 8
+Palhoça,R$ 2.300, SC,iPhone 8
+São José de Ribamar,R$ 2.300, MA,iPhone 8
+Goiânia,R$ 2.300, GO,iPhone 8
+Natal,R$ 2.300, RN,iPhone 8
+Montes Claros,R$ 2.300, MG,iPhone 8
+São Luís,R$ 2.300, MA,iPhone 8
+Goiânia,R$ 2.300, GO,iPhone 8
+São Luís,R$ 2.300, MA,iPhone 8
+Salvador,R$ 2.300, BA,iPhone 8
+Maceió,R$ 2.300, AL,iPhone 8
+São José,R$ 2.300, SC,iPhone 8
+Contagem,R$ 2.300, MG,iPhone 8
+Osasco,R$ 2.300, SP,iPhone 8
+Jerumenha,R$ 2.300, PI,iPhone 8
+Belém,R$ 2.300, PA,iPhone 8
+Governador Valadares,R$ 2.300, MG,iPhone 8
+Manaus,R$ 2.300, AM,iPhone 8
+Fortaleza,R$ 2.300, CE,iPhone 8
+Taubaté,R$ 2.300, SP,iPhone 8
+Duque de Caxias,R$ 2.300, RJ,iPhone 8
+Rio de Janeiro,R$ 2.300, RJ,iPhone 8
+Anápolis,R$ 2.300, GO,iPhone 8
+Jaboatão dos Guararapes,R$ 2.300, PE,iPhone 8
+São Paulo,R$ 2.300, SP,iPhone 8
+Cabo Frio,R$ 2.300, RJ,iPhone 8
+Salvador,R$ 2.300, BA,iPhone 8
+Natal,R$ 2.300, RN,iPhone 8
+Natal,R$ 2.300, RN,iPhone 8
+Brasília,R$ 2.300, DF,iPhone 8
+Rio Branco,R$ 2.300, AC,iPhone 8
+Salvador,R$ 2.300, BA,iPhone 8
+São Paulo,R$ 2.300, SP,iPhone 8
+Poços de Caldas,R$ 2.300, MG,iPhone 8
+Salvador,R$ 1.100, BA,IPhone 7 
+Florianópolis,R$ 1.100, SC,IPhone 7 
+Serra Azul,R$ 1.100, SP,IPhone 7 
+Itapema,R$ 1.100, SC,IPhone 7 
+Manaus,R$ 1.100, AM,IPhone 7 
+Rio Largo,R$ 1.100, AL,IPhone 7 
+Rolândia,R$ 1.100, PR,IPhone 7 
+Santana da Vargem,R$ 1.100, MG,IPhone 7 
+Santana da Vargem,R$ 1.100, MG,IPhone 7 
+Maceió,R$ 1.100, AL,IPhone 7 
+Anápolis,R$ 1.100, GO,IPhone 7 
+Raul Soares,R$ 1.100, MG,IPhone 7 
+Palhoça,R$ 1.100, SC,IPhone 7 
+Rio de Janeiro,R$ 1.100, RJ,IPhone 7 
+Ponta Grossa,R$ 1.100, PR,IPhone 7 
+São José do Rio Preto,R$ 1.100, SP,IPhone 7 
+Aracaju,R$ 1.100, SE,IPhone 7 
+São Gonçalo,R$ 1.100, RJ,IPhone 7 
+Rio Preto da Eva,R$ 1.100, AM,IPhone 7 
+Contagem,R$ 1.100, MG,IPhone 7 
+Belém,R$ 1.100, PA,IPhone 7 
+Salvador,R$ 1.100, BA,IPhone 7 
+Rio Branco,R$ 1.100, AC,IPhone 7 
+Ilhota,R$ 1.100, SC,IPhone 7 
+Teófilo Otoni,R$ 1.100, MG,IPhone 7 
+Fortaleza,R$ 1.100, CE,IPhone 7 
+Salvador,R$ 1.100, BA,IPhone 7 
+Recife,R$ 1.100, PE,IPhone 7 
+Campos dos Goytacazes,R$ 1.100, RJ,IPhone 7 
+Fortaleza,R$ 1.100, CE,IPhone 7 
+São Carlos,R$ 1.100, SP,IPhone 7 
+Itapirapuã,R$ 1.100, GO,IPhone 7 
+Ananindeua,R$ 1.100, PA,IPhone 7 
+Salvador,R$ 1.100, BA,IPhone 7 
+Maceió,R$ 1.100, AL,IPhone 7 
+Olinda,R$ 1.100, PE,IPhone 7 
+Manaus,R$ 1.100, AM,IPhone 7 
+Londrina,R$ 1.100, PR,IPhone 7 
+Aracaju,R$ 1.100, SE,IPhone 7 
+Pinhais,R$ 1.100, PR,IPhone 7 
+São Luís,R$ 1.100, MA,IPhone 7 
+Belo Horizonte,R$ 1.100, MG,IPhone 7 
+Rio de Janeiro,R$ 1.100, RJ,IPhone 7 
+Belo Horizonte,R$ 1.100, MG,IPhone 7 
+Guarulhos,R$ 1.100, SP,IPhone 7 
+Salvador,R$ 1.100, BA,IPhone 7 
+Brasília,R$ 1.100, DF,IPhone 7 
+Armação dos Búzios,R$ 1.100, RJ,IPhone 7 
+João Pessoa,R$ 1.250, PB,iPhone 7 
+Salvador,R$ 1.250, BA,iPhone 7 
+Feira de Santana,R$ 1.250, BA,iPhone 7 
+Duque de Caxias,R$ 1.250, RJ,iPhone 7 
+Brasília,R$ 1.250, DF,iPhone 7 
+Fortaleza,R$ 1.250, CE,iPhone 7 
+Belo Horizonte,R$ 1.250, MG,iPhone 7 
+Contagem,R$ 1.250, MG,iPhone 7 
+Pacatuba,R$ 1.250, CE,iPhone 7 
+São Paulo,R$ 1.250, SP,iPhone 7 
+Cuiabá,R$ 1.250, MT,iPhone 7 
+Duque de Caxias,R$ 1.250, RJ,iPhone 7 
+Brasília,R$ 1.250, DF,iPhone 7 
+Maracanaú,R$ 1.250, CE,iPhone 7 
+Belford Roxo,R$ 1.250, RJ,iPhone 7 
+Guarulhos,R$ 1.250, SP,iPhone 7 
+Brasília,R$ 1.250, DF,iPhone 7 
+Teresina,R$ 1.250, PI,iPhone 7 
+Nova Iguaçu,R$ 1.250, RJ,iPhone 7 
+Ribeirão Preto,R$ 1.250, SP,iPhone 7 
+Manaus,R$ 1.250, AM,iPhone 7 
+Curitiba,R$ 1.250, PR,iPhone 7 
+Palhoça,R$ 1.250, SC,iPhone 7 
+Luziânia,R$ 1.250, DF,iPhone 7 
+Santana da Vargem,R$ 1.250, MG,iPhone 7 
+Maceió,R$ 1.250, AL,iPhone 7 
+Anápolis,R$ 1.250, GO,iPhone 7 
+Mogi das Cruzes,R$ 1.250, SP,iPhone 7 
+São José dos Campos,R$ 1.250, SP,iPhone 7 
+Brasília,R$ 1.250, DF,iPhone 7 
+Boa Vista,R$ 1.250, RR,iPhone 7 
+Contagem,R$ 1.250, MG,iPhone 7 
+Palhoça,R$ 1.250, SC,iPhone 7 
+Rio de Janeiro,R$ 1.250, RJ,iPhone 7 
+Ponta Grossa,R$ 1.250, PR,iPhone 7 
+São José do Rio Preto,R$ 1.250, SP,iPhone 7 
+Aracaju,R$ 1.250, SE,iPhone 7 
+São Gonçalo,R$ 1.250, RJ,iPhone 7 
+Rio Preto da Eva,R$ 1.250, AM,iPhone 7 
+Contagem,R$ 1.250, MG,iPhone 7 
+Belém,R$ 1.250, PA,iPhone 7 
+Salvador,R$ 1.250, BA,iPhone 7 
+Rio Branco,R$ 1.250, AC,iPhone 7 
+Ilhota,R$ 1.250, SC,iPhone 7 
+Teófilo Otoni,R$ 1.250, MG,iPhone 7 
+Fortaleza,R$ 1.250, CE,iPhone 7 
+Salvador,R$ 1.250, BA,iPhone 7 
+Recife,R$ 1.250, PE,iPhone 7 
+Campos dos Goytacazes,R$ 1.250, RJ,iPhone 7 
+Goiânia,R$ 3.300, GO,IPhone X 
+São Paulo,R$ 3.300, SP,IPhone X 
+Manaus,R$ 3.300, AM,IPhone X 
+Maceió,R$ 3.300, AL,IPhone X 
+Paranavaí,R$ 3.300, PR,IPhone X 
+Montes Claros,R$ 3.300, MG,IPhone X 
+João Pessoa,R$ 3.300, PB,IPhone X 
+São Paulo,R$ 3.300, SP,IPhone X 
+Barueri,R$ 3.300, SP,IPhone X 
+Belém,R$ 3.300, PA,IPhone X 
+Nova Iguaçu,R$ 3.300, RJ,IPhone X 
+Marataízes,R$ 3.300, ES,IPhone X 
+Rio Branco,R$ 3.300, AC,IPhone X 
+Nova Iguaçu,R$ 3.300, RJ,IPhone X 
+São Luís,R$ 3.300, MA,IPhone X 
+São José dos Campos,R$ 3.300, SP,IPhone X 
+Blumenau,R$ 3.300, SC,IPhone X 
+Aracaju,R$ 3.300, SE,IPhone X 
+São Luís,R$ 3.300, MA,IPhone X 
+Orizona,R$ 3.300, GO,IPhone X 
+Brasília,R$ 3.300, DF,IPhone X 
+Caucaia,R$ 3.300, CE,IPhone X 
+Joinville,R$ 3.300, SC,IPhone X 
+Duque de Caxias,R$ 3.300, RJ,IPhone X 
+Belo Horizonte,R$ 3.300, MG,IPhone X 
+Recife,R$ 3.300, PE,IPhone X 
+Natal,R$ 3.300, RN,IPhone X 
+Serra,R$ 3.300, ES,IPhone X 
+Brasília,R$ 3.300, DF,IPhone X 
+Taboão da Serra,R$ 3.300, SP,IPhone X 
+Nossa Senhora do Socorro,R$ 3.300, SE,IPhone X 
+Teresina,R$ 3.300, PI,IPhone X 
+Sapiranga,R$ 3.300, RS,IPhone X 
+Goiânia,R$ 3.300, GO,IPhone X 
+Sumaré,R$ 3.300, SP,IPhone X 
+Macapá,R$ 3.300, AP,IPhone X 
+São José,R$ 3.300, SC,IPhone X 
+Fortaleza,R$ 3.300, CE,IPhone X 
+Porto Alegre,R$ 3.300, RS,IPhone X 
+Aracaju,R$ 3.300, SE,IPhone X 
+Jacobina,R$ 3.300, BA,IPhone X 
+Fortaleza,R$ 3.300, CE,IPhone X 
+Santa Rita,R$ 3.300, PB,IPhone X 
+Sorocaba,R$ 3.300, SP,IPhone X 
+Duque de Caxias,R$ 3.300, RJ,IPhone X 
+Parnamirim,R$ 3.300, RN,IPhone X 
+Belo Horizonte,R$ 3.300, MG,IPhone X 
+Brasília,R$ 3.300, DF,IPhone X 
+Porto Velho,R$ 3.300, RO,IPhone X 
+Rio de Janeiro,R$ 3.300, RJ,IPhone X 
+Conceição do Coité,R$ 2.000, BA,iPhone 7plus
+Palmas,R$ 2.000, TO,iPhone 7plus
+Fortaleza,R$ 2.000, CE,iPhone 7plus
+Contagem,R$ 2.000, MG,iPhone 7plus
+Casimiro de Abreu,R$ 2.000, RJ,iPhone 7plus
+Ribeirão Preto,R$ 2.000, SP,iPhone 7plus
+São Paulo,R$ 2.000, SP,iPhone 7plus
+Rio de Janeiro,R$ 2.000, RJ,iPhone 7plus
+Brasília,R$ 2.000, DF,iPhone 7plus
+Nova Iguaçu,R$ 2.000, RJ,iPhone 7plus
+Rio de Janeiro,R$ 2.000, RJ,iPhone 7plus
+Brasília,R$ 2.000, DF,iPhone 7plus
+Fortaleza,R$ 2.000, CE,iPhone 7plus
+Manaus,R$ 2.000, AM,iPhone 7plus
+São Vicente,R$ 2.000, SP,iPhone 7plus
+São José dos Campos,R$ 2.000, SP,iPhone 7plus
+Rio de Janeiro,R$ 2.000, RJ,iPhone 7plus
+Aparecida de Goiânia,R$ 2.000, GO,iPhone 7plus
+Curitiba,R$ 2.000, PR,iPhone 7plus
+Nova Friburgo,R$ 2.000, RJ,iPhone 7plus
+Brasília,R$ 2.000, DF,iPhone 7plus
+Presidente Prudente,R$ 2.000, SP,iPhone 7plus
+Brasília,R$ 2.000, DF,iPhone 7plus
+Goiânia,R$ 2.000, GO,iPhone 7plus
+Maceió,R$ 2.000, AL,iPhone 7plus
+Brasília,R$ 2.000, DF,iPhone 7plus
+Maribondo,R$ 2.000, AL,iPhone 7plus
+Vila Velha,R$ 2.000, ES,iPhone 7plus
+Recife,R$ 2.000, PE,iPhone 7plus
+Fortaleza,R$ 2.000, CE,iPhone 7plus
+Fortaleza,R$ 2.000, CE,iPhone 7plus
+Governador Valadares,R$ 2.000, MG,iPhone 7plus
+"Jangada do Sul, General Carneiro",R$ 2.000, PR,iPhone 7plus
+Brasília,R$ 2.000, DF,iPhone 7plus
+Feira de Santana,R$ 2.000, BA,iPhone 7plus
+Fortaleza,R$ 2.000, CE,iPhone 7plus
+Itabaiana,R$ 2.000, SE,iPhone 7plus
+São Gonçalo do Amarante,R$ 2.000, RN,iPhone 7plus
+São Bernardo do Campo,R$ 2.000, SP,iPhone 7plus
+Brasília,R$ 2.000, DF,iPhone 7plus
+Guarulhos,R$ 2.000, SP,iPhone 7plus
+Joinville,R$ 2.000, SC,iPhone 7plus
+Botuverá,R$ 2.000, SC,iPhone 7plus
+Macapá,R$ 2.000, AP,iPhone 7plus
+Governador Valadares,R$ 2.000, MG,iPhone 7plus
+Recife,R$ 2.000, PE,iPhone 7plus
+Olinda,R$ 2.000, PE,iPhone 7plus
+Cariacica,R$ 2.000, ES,iPhone 7plus
+Palhoça,R$ 2.000, SC,iPhone 7plus
+Salvador,R$ 2.000, BA,iPhone 7plus
+Belém,R$ 600, PA,IPHONE 7 
+Recife,R$ 600, PE,IPHONE 7 
+Macapá,R$ 600, AP,IPHONE 7 
+Campo Grande,R$ 600, MS,IPHONE 7 
+Araçatuba,R$ 600, SP,IPHONE 7 
+Fortaleza,R$ 600, CE,IPHONE 7 
+Manaus,R$ 600, AM,IPHONE 7 
+Cruz das Almas,R$ 600, BA,IPHONE 7 
+Rio de Janeiro,R$ 600, RJ,IPHONE 7 
+Belo Horizonte,R$ 600, MG,IPHONE 7 
+São José dos Campos,R$ 600, SP,IPHONE 7 
+Campinas,R$ 600, SP,IPHONE 7 
+São José dos Campos,R$ 600, SP,IPHONE 7 
+São Paulo,R$ 600, SP,IPHONE 7 
+Caxias do Sul,R$ 600, RS,IPHONE 7 
+Belo Horizonte,R$ 600, MG,IPHONE 7 
+Salesópolis,R$ 600, SP,IPHONE 7 
+Abreu e Lima,R$ 600, PE,IPHONE 7 
+Brasília,R$ 600, DF,IPHONE 7 
+Ubá,R$ 600, MG,IPHONE 7 
+Diadema,R$ 600, SP,IPHONE 7 
+São Gonçalo,R$ 600, RJ,IPHONE 7 
+Maracanaú,R$ 600, CE,IPHONE 7 
+Juazeiro do Norte,R$ 600, CE,IPHONE 7 
+Brasília,R$ 600, DF,IPHONE 7 
+Florianópolis,R$ 600, SC,IPHONE 7 
+Jaboatão dos Guararapes,R$ 600, PE,IPHONE 7 
+Recife,R$ 600, PE,IPHONE 7 
+Magé,R$ 600, RJ,IPHONE 7 
+Itapevi,R$ 600, SP,IPHONE 7 
+Sapucaia do Sul,R$ 600, RS,IPHONE 7 
+Vila Velha,R$ 600, ES,IPHONE 7 
+Sertãozinho,R$ 600, SP,IPHONE 7 
+Salvador,R$ 600, BA,IPHONE 7 
+Paulista,R$ 600, PE,IPHONE 7 
+São Paulo,R$ 600, SP,IPHONE 7 
+São José dos Campos,R$ 600, SP,IPHONE 7 
+Trindade,R$ 600, GO,IPHONE 7 
+Salvador,R$ 600, BA,IPHONE 7 
+São Paulo,R$ 600, SP,IPHONE 7 
+São José do Rio Preto,R$ 600, SP,IPHONE 7 
+Cotia,R$ 600, SP,IPHONE 7 
+Marília,R$ 600, SP,IPHONE 7 
+Contagem,R$ 600, MG,IPHONE 7 
+Vitória,R$ 600, ES,IPHONE 7 
+Manaus,R$ 600, AM,IPHONE 7 
+São Paulo,R$ 600, SP,IPHONE 7 
+Recife,R$ 600, PE,IPHONE 7 
+Joinville,R$ 750, SC,iPhone 7 
+Duque de Caxias,R$ 750, RJ,iPhone 7 
+Belo Horizonte,R$ 750, MG,iPhone 7 
+Recife,R$ 750, PE,iPhone 7 
+Natal,R$ 750, RN,iPhone 7 
+Serra,R$ 750, ES,iPhone 7 
+Brasília,R$ 750, DF,iPhone 7 
+Taboão da Serra,R$ 750, SP,iPhone 7 
+Nossa Senhora do Socorro,R$ 750, SE,iPhone 7 
+Teresina,R$ 750, PI,iPhone 7 
+Sapiranga,R$ 750, RS,iPhone 7 
+Goiânia,R$ 750, GO,iPhone 7 
+Sumaré,R$ 750, SP,iPhone 7 
+Macapá,R$ 750, AP,iPhone 7 
+São José,R$ 750, SC,iPhone 7 
+Fortaleza,R$ 750, CE,iPhone 7 
+Porto Alegre,R$ 750, RS,iPhone 7 
+Aracaju,R$ 750, SE,iPhone 7 
+Jacobina,R$ 750, BA,iPhone 7 
+Fortaleza,R$ 750, CE,iPhone 7 
+Santa Rita,R$ 750, PB,iPhone 7 
+Sorocaba,R$ 750, SP,iPhone 7 
+Duque de Caxias,R$ 750, RJ,iPhone 7 
+Parnamirim,R$ 750, RN,iPhone 7 
+Belo Horizonte,R$ 750, MG,iPhone 7 
+Brasília,R$ 750, DF,iPhone 7 
+Porto Velho,R$ 750, RO,iPhone 7 
+Rio de Janeiro,R$ 750, RJ,iPhone 7 
+Natal,R$ 750, RN,iPhone 7 
+Manaus,R$ 750, AM,iPhone 7 
+Rio de Janeiro,R$ 750, RJ,iPhone 7 
+Natal,R$ 750, RN,iPhone 7 
+Nova Iguaçu,R$ 750, RJ,iPhone 7 
+Teresina,R$ 750, PI,iPhone 7 
+Araçatuba,R$ 750, SP,iPhone 7 
+São Paulo,R$ 750, SP,iPhone 7 
+Campo Grande,R$ 750, MS,iPhone 7 
+Tarauacá,R$ 750, AC,iPhone 7 
+São Paulo,R$ 750, SP,iPhone 7 
+Mirassol,R$ 750, SP,iPhone 7 
+Manaus,R$ 750, AM,iPhone 7 
+São Paulo,R$ 750, SP,iPhone 7 
+Cotia,R$ 750, SP,iPhone 7 
+João Pessoa,R$ 750, PB,iPhone 7 
+Betim,R$ 750, MG,iPhone 7 
+Parnamirim,R$ 750, RN,iPhone 7 
+Brasília,R$ 750, DF,iPhone 7 
+São Paulo,R$ 750, SP,iPhone 7 
+Rio de Janeiro,R$ 750, RJ,iPhone 7 
+Bauru,R$ 750, SP,iPhone 7 
+Aracaju,R$ 4.100, SE,iPhone 11
+Jacobina,R$ 4.100, BA,iPhone 11
+Fortaleza,R$ 4.100, CE,iPhone 11
+Santa Rita,R$ 4.100, PB,iPhone 11
+Sorocaba,R$ 4.100, SP,iPhone 11
+Duque de Caxias,R$ 4.100, RJ,iPhone 11
+Parnamirim,R$ 4.100, RN,iPhone 11
+Belo Horizonte,R$ 4.100, MG,iPhone 11
+Brasília,R$ 4.100, DF,iPhone 11
+Porto Velho,R$ 4.100, RO,iPhone 11
+Rio de Janeiro,R$ 4.100, RJ,iPhone 11
+Natal,R$ 4.100, RN,iPhone 11
+Manaus,R$ 4.100, AM,iPhone 11
+Rio de Janeiro,R$ 4.100, RJ,iPhone 11
+Natal,R$ 4.100, RN,iPhone 11
+Teresina,R$ 4.100, PI,iPhone 11
+Araçatuba,R$ 4.100, SP,iPhone 11
+São Paulo,R$ 4.100, SP,iPhone 11
+Campo Grande,R$ 4.100, MS,iPhone 11
+Tarauacá,R$ 4.100, AC,iPhone 11
+São Paulo,R$ 4.100, SP,iPhone 11
+Mirassol,R$ 4.100, SP,iPhone 11
+Manaus,R$ 4.100, AM,iPhone 11
+São Paulo,R$ 4.100, SP,iPhone 11
+Cotia,R$ 4.100, SP,iPhone 11
+João Pessoa,R$ 4.100, PB,iPhone 11
+Betim,R$ 4.100, MG,iPhone 11
+Parnamirim,R$ 4.100, RN,iPhone 11
+Brasília,R$ 4.100, DF,iPhone 11
+São Paulo,R$ 4.100, SP,iPhone 11
+Rio de Janeiro,R$ 4.100, RJ,iPhone 11
+Bauru,R$ 4.100, SP,iPhone 11
+Palmas,R$ 4.100, TO,iPhone 11
+Duque de Caxias,R$ 4.100, RJ,iPhone 11
+Iacanga,R$ 4.100, SP,iPhone 11
+João Pessoa,R$ 4.100, PB,iPhone 11
+Palhoça,R$ 4.100, SC,iPhone 11
+Luziânia,R$ 4.100, DF,iPhone 11
+Mogi das Cruzes,R$ 4.100, SP,iPhone 11
+Brasília,R$ 4.100, DF,iPhone 11
+Cascavel,R$ 4.100, PR,iPhone 11
+Salvador,R$ 4.100, BA,iPhone 11
+Cuiabá,R$ 4.100, MT,iPhone 11
+Cachoeiro de Itapemirim,R$ 4.100, ES,iPhone 11
+Salvador,R$ 4.100, BA,iPhone 11
+Salvador,R$ 4.100, BA,iPhone 11
+Sorocaba,R$ 4.100, SP,iPhone 11
+Colatina,R$ 4.100, ES,iPhone 11
+Campo Grande,R$ 4.100, MS,iPhone 11
+Goiânia,R$ 450, GO,iPhone 6
+São Paulo,R$ 450, SP,iPhone 6
+Nossa Senhora do Socorro,R$ 450, SE,iPhone 6
+Campos dos Goytacazes,R$ 450, RJ,iPhone 6
+Cuiabá,R$ 450, MT,iPhone 6
+Belo Horizonte,R$ 450, MG,iPhone 6
+São Cristóvão,R$ 450, SE,iPhone 6
+Rio de Janeiro,R$ 450, RJ,iPhone 6
+Sales Oliveira,R$ 450, SP,iPhone 6
+Campo Grande,R$ 450, MS,iPhone 6
+São José de Ribamar,R$ 450, MA,iPhone 6
+Brasília,R$ 450, DF,iPhone 6
+Belém,R$ 450, PA,iPhone 6
+Belo Horizonte,R$ 450, MG,iPhone 6
+Brasília,R$ 450, DF,iPhone 6
+Fortaleza,R$ 450, CE,iPhone 6
+Teresina,R$ 450, PI,iPhone 6
+Ponta Grossa,R$ 450, PR,iPhone 6
+Anápolis,R$ 450, GO,iPhone 6
+Rio de Janeiro,R$ 450, RJ,iPhone 6
+Castanhal,R$ 450, PA,iPhone 6
+Fazenda Rio Grande,R$ 450, PR,iPhone 6
+Belém,R$ 450, PA,iPhone 6
+Curitiba,R$ 450, PR,iPhone 6
+Rio de Janeiro,R$ 450, RJ,iPhone 6
+Joinville,R$ 450, SC,iPhone 6
+Aracaju,R$ 450, SE,iPhone 6
+São Paulo,R$ 450, SP,iPhone 6
+São João de Meriti,R$ 450, RJ,iPhone 6
+Baixo Guandu,R$ 450, ES,iPhone 6
+Rio de Janeiro,R$ 450, RJ,iPhone 6
+São José do Rio Preto,R$ 450, SP,iPhone 6
+Rio de Janeiro,R$ 450, RJ,iPhone 6
+Recife,R$ 450, PE,iPhone 6
+Salvador,R$ 450, BA,iPhone 6
+Barra dos Coqueiros,R$ 450, SE,iPhone 6
+Rio de Janeiro,R$ 450, RJ,iPhone 6
+Rio de Janeiro,R$ 450, RJ,iPhone 6
+Brasília,R$ 450, DF,iPhone 6
+Arapongas,R$ 450, PR,iPhone 6
+Anápolis,R$ 450, GO,iPhone 6
+Aparecida de Goiânia,R$ 450, GO,iPhone 6
+Salvador,R$ 450, BA,iPhone 6
+Recife,R$ 450, PE,iPhone 6
+Teresina,R$ 450, PI,iPhone 6
+São Luís,R$ 450, MA,iPhone 6
+São Luís,R$ 450, MA,iPhone 6
+Barra dos Coqueiros,R$ 450, SE,iPhone 6
+Belo Horizonte,R$ 450, MG,iPhone 6
+Brasília,R$ 450, DF,iPhone 6
+Maceió,R$ 1.750, AL,Iphone 7 
+Brasília,R$ 1.750, DF,Iphone 7 
+Goiânia,R$ 1.750, GO,Iphone 7 
+Sertãozinho,R$ 1.750, SP,Iphone 7 
+Cariacica,R$ 1.750, ES,Iphone 7 
+Sapucaia do Sul,R$ 1.750, RS,Iphone 7 
+Feira de Santana,R$ 1.750, BA,Iphone 7 
+São Paulo,R$ 1.750, SP,Iphone 7 
+Jaboatão dos Guararapes,R$ 1.750, PE,Iphone 7 
+Conceição do Coité,R$ 1.750, BA,Iphone 7 
+Palmas,R$ 1.750, TO,Iphone 7 
+Fortaleza,R$ 1.750, CE,Iphone 7 
+Contagem,R$ 1.750, MG,Iphone 7 
+Casimiro de Abreu,R$ 1.750, RJ,Iphone 7 
+Ribeirão Preto,R$ 1.750, SP,Iphone 7 
+São Paulo,R$ 1.750, SP,Iphone 7 
+Blumenau,R$ 1.750, SC,Iphone 7 
+Lajeado,R$ 1.750, RS,Iphone 7 
+Porto Alegre,R$ 1.750, RS,Iphone 7 
+Natal,R$ 1.750, RN,Iphone 7 
+São Paulo,R$ 1.750, SP,Iphone 7 
+São Gonçalo do Amarante,R$ 1.750, RN,Iphone 7 
+Campinas,R$ 1.750, SP,Iphone 7 
+Barra Mansa,R$ 1.750, RJ,Iphone 7 
+Ponta Grossa,R$ 1.750, PR,Iphone 7 
+Uberaba,R$ 1.750, MG,Iphone 7 
+Poá,R$ 1.750, SP,Iphone 7 
+Joinville,R$ 1.750, SC,Iphone 7 
+Barra dos Coqueiros,R$ 1.750, SE,Iphone 7 
+Montes Claros,R$ 1.750, MG,Iphone 7 
+Manaus,R$ 1.750, AM,Iphone 7 
+Teresina,R$ 1.750, PI,Iphone 7 
+Brasília,R$ 1.750, DF,Iphone 7 
+Natal,R$ 1.750, RN,Iphone 7 
+Matão,R$ 1.750, SP,Iphone 7 
+Fortaleza,R$ 1.750, CE,Iphone 7 
+Recife,R$ 1.750, PE,Iphone 7 
+Palmas,R$ 1.750, TO,Iphone 7 
+São Paulo,R$ 1.750, SP,Iphone 7 
+Natal,R$ 1.750, RN,Iphone 7 
+Campo Grande,R$ 1.750, MS,Iphone 7 
+Florianópolis,R$ 1.750, SC,Iphone 7 
+Indaiatuba,R$ 1.750, SP,Iphone 7 
+Ananindeua,R$ 1.750, PA,Iphone 7 
+Estância,R$ 1.750, SE,Iphone 7 
+São Paulo,R$ 1.750, SP,Iphone 7 
+Simões Filho,R$ 1.750, BA,Iphone 7 
+Taubaté,R$ 1.750, SP,Iphone 7 
+Nossa Senhora do Socorro,R$ 1.750, SE,Iphone 7 
+Anápolis,R$ 1.750, GO,Iphone 7 
+Campo Grande,R$ 2.500, MS,iPhone 8Plus
+São Paulo,R$ 2.500, SP,iPhone 8Plus
+Betim,R$ 2.500, MG,iPhone 8Plus
+Teresina,R$ 2.500, PI,iPhone 8Plus
+Fortaleza,R$ 2.500, CE,iPhone 8Plus
+Anápolis,R$ 2.500, GO,iPhone 8Plus
+Maceió,R$ 2.500, AL,iPhone 8Plus
+Contagem,R$ 2.500, MG,iPhone 8Plus
+Fortaleza,R$ 2.500, CE,iPhone 8Plus
+Osasco,R$ 2.500, SP,iPhone 8Plus
+São Paulo,R$ 2.500, SP,iPhone 8Plus
+São Mamede,R$ 2.500, PB,iPhone 8Plus
+Salvador,R$ 2.500, BA,iPhone 8Plus
+Sumaré,R$ 2.500, SP,iPhone 8Plus
+Parauapebas,R$ 2.500, PA,iPhone 8Plus
+Belford Roxo,R$ 2.500, RJ,iPhone 8Plus
+Mogi Mirim,R$ 2.500, SP,iPhone 8Plus
+Salvador,R$ 2.500, BA,iPhone 8Plus
+Horizonte,R$ 2.500, CE,iPhone 8Plus
+Castanhal,R$ 2.500, PA,iPhone 8Plus
+São Vicente,R$ 2.500, SP,iPhone 8Plus
+Ribeirão Preto,R$ 2.500, SP,iPhone 8Plus
+Palhoça,R$ 2.500, SC,iPhone 8Plus
+Salvador,R$ 2.500, BA,iPhone 8Plus
+Olho D'Água das Flores,R$ 2.500, AL,iPhone 8Plus
+São Paulo,R$ 2.500, SP,iPhone 8Plus
+Maceió,R$ 2.500, AL,iPhone 8Plus
+Londrina,R$ 2.500, PR,iPhone 8Plus
+Feira de Santana,R$ 2.500, BA,iPhone 8Plus
+Maceió,R$ 2.500, AL,iPhone 8Plus
+Rio Branco,R$ 2.500, AC,iPhone 8Plus
+Teresina,R$ 2.500, PI,iPhone 8Plus
+Belo Horizonte,R$ 2.500, MG,iPhone 8Plus
+Belo Horizonte,R$ 2.500, MG,iPhone 8Plus
+Maringá,R$ 2.500, PR,iPhone 8Plus
+Goiânia,R$ 2.500, GO,iPhone 8Plus
+Rio de Janeiro,R$ 2.500, RJ,iPhone 8Plus
+Belo Horizonte,R$ 2.500, MG,iPhone 8Plus
+São Vicente,R$ 2.500, SP,iPhone 8Plus
+Rio de Janeiro,R$ 2.500, RJ,iPhone 8Plus
+São João da Barra,R$ 2.500, RJ,iPhone 8Plus
+Curitiba,R$ 2.500, PR,iPhone 8Plus
+Divinópolis,R$ 2.500, MG,iPhone 8Plus
+Rio Branco,R$ 2.500, AC,iPhone 8Plus
+Jaboatão dos Guararapes,R$ 2.500, PE,iPhone 8Plus
+Manaus,R$ 2.500, AM,iPhone 8Plus
+Aracaju,R$ 2.500, SE,iPhone 8Plus
+Florianópolis,R$ 2.500, SC,iPhone 8Plus
+Niterói,R$ 2.500, RJ,iPhone 8Plus
+Vitória,R$ 2.500, ES,iPhone 8Plus
+São José do Rio Preto,R$ 699, SP,Iphone Se 64gb
+Campina Grande,R$ 699, PB,Iphone Se 64gb
+Paulista,R$ 699, PE,Iphone Se 64gb
+Brasília,R$ 699, DF,Iphone Se 64gb
+São Cristóvão,R$ 699, SE,Iphone Se 64gb
+Carapicuíba,R$ 699, SP,Iphone Se 64gb
+Itu,R$ 699, SP,Iphone Se 64gb
+Manaus,R$ 699, AM,Iphone Se 64gb
+Serrinha,R$ 699, BA,Iphone Se 64gb
+Rio de Janeiro,R$ 699, RJ,Iphone Se 64gb
+Nova Iguaçu,R$ 699, RJ,Iphone Se 64gb
+Maringá,R$ 699, PR,Iphone Se 64gb
+São Luís,R$ 699, MA,Iphone Se 64gb
+Gravataí,R$ 699, RS,Iphone Se 64gb
+Praia Grande,R$ 699, SP,Iphone Se 64gb
+Manaus,R$ 699, AM,Iphone Se 64gb
+João Pessoa,R$ 699, PB,Iphone Se 64gb
+São José de Ribamar,R$ 699, MA,Iphone Se 64gb
+Curitiba,R$ 699, PR,Iphone Se 64gb
+Manaus,R$ 699, AM,Iphone Se 64gb
+Santa Maria,R$ 699, RS,Iphone Se 64gb
+Natal,R$ 699, RN,Iphone Se 64gb
+São Paulo,R$ 699, SP,Iphone Se 64gb
+Aracaju,R$ 699, SE,Iphone Se 64gb
+Nossa Senhora do Socorro,R$ 699, SE,Iphone Se 64gb
+Feira de Santana,R$ 699, BA,Iphone Se 64gb
+Recife,R$ 699, PE,Iphone Se 64gb
+Natal,R$ 699, RN,Iphone Se 64gb
+Cuiabá,R$ 699, MT,Iphone Se 64gb
+Teresina,R$ 699, PI,Iphone Se 64gb
+Salvador,R$ 699, BA,Iphone Se 64gb
+Coronel Fabriciano,R$ 699, MG,Iphone Se 64gb
+Salvador,R$ 699, BA,Iphone Se 64gb
+Águas Lindas De Goiás,R$ 699, DF,Iphone Se 64gb
+Manaus,R$ 699, AM,Iphone Se 64gb
+Sorocaba,R$ 699, SP,Iphone Se 64gb
+Salvador,R$ 699, BA,Iphone Se 64gb
+Anápolis,R$ 699, GO,Iphone Se 64gb
+Juiz de Fora,R$ 699, MG,Iphone Se 64gb
+Juiz de Fora,R$ 699, MG,Iphone Se 64gb
+Rio de Janeiro,R$ 699, RJ,Iphone Se 64gb
+São Vicente,R$ 699, SP,Iphone Se 64gb
+Natal,R$ 699, RN,Iphone Se 64gb
+São Paulo,R$ 699, SP,Iphone Se 64gb
+Curitiba,R$ 699, PR,Iphone Se 64gb
+Ponta Grossa,R$ 699, PR,Iphone Se 64gb
+Rio de Janeiro,R$ 699, RJ,Iphone Se 64gb
+Ponta Grossa,R$ 699, PR,Iphone Se 64gb
+Araripina,R$ 699, PE,Iphone Se 64gb
+São Gonçalo,R$ 180, RJ,Iphone  6  
+Buritizal,R$ 180, SP,Iphone  6  
+Marília,R$ 180, SP,Iphone  6  
+Contagem,R$ 180, MG,Iphone  6  
+Olinda,R$ 180, PE,Iphone  6  
+Jaboatão dos Guararapes,R$ 180, PE,Iphone  6  
+Prata,R$ 180, MG,Iphone  6  
+Duque de Caxias,R$ 180, RJ,Iphone  6  
+Nossa Senhora das Dores,R$ 180, SE,Iphone  6  
+Guarulhos,R$ 180, SP,Iphone  6  
+Brasília,R$ 180, DF,Iphone  6  
+Campinas,R$ 180, SP,Iphone  6  
+Joinville,R$ 180, SC,Iphone  6  
+João Pessoa,R$ 180, PB,Iphone  6  
+Valparaíso de Goiás,R$ 180, DF,Iphone  6  
+Aracaju,R$ 180, SE,Iphone  6  
+Jandira,R$ 180, SP,Iphone  6  
+Paço do Lumiar,R$ 180, MA,Iphone  6  
+Brasília,R$ 180, DF,Iphone  6  
+São Luís,R$ 180, MA,Iphone  6  
+Rio de Janeiro,R$ 180, RJ,Iphone  6  
+Belo Horizonte,R$ 180, MG,Iphone  6  
+São José,R$ 180, SC,Iphone  6  
+Nossa Senhora do Socorro,R$ 180, SE,Iphone  6  
+São Paulo,R$ 180, SP,Iphone  6  
+Rio Branco,R$ 180, AC,Iphone  6  
+Belém,R$ 180, PA,Iphone  6  
+Brasília,R$ 180, DF,Iphone  6  
+Joinville,R$ 180, SC,Iphone  6  
+Araucária,R$ 180, PR,Iphone  6  
+Natal,R$ 180, RN,Iphone  6  
+Rio de Janeiro,R$ 180, RJ,Iphone  6  
+Manaus,R$ 180, AM,Iphone  6  
+Astorga,R$ 180, PR,Iphone  6  
+Mirassol,R$ 180, SP,Iphone  6  
+Votorantim,R$ 180, SP,Iphone  6  
+Campina Grande,R$ 180, PB,Iphone  6  
+Duque de Caxias,R$ 180, RJ,Iphone  6  
+Santa Inês,R$ 180, MA,Iphone  6  
+São João de Meriti,R$ 180, RJ,Iphone  6  
+Salvador,R$ 180, BA,Iphone  6  
+João Pessoa,R$ 180, PB,Iphone  6  
+Aracaju,R$ 180, SE,Iphone  6  
+Maceió,R$ 180, AL,Iphone  6  
+Maceió,R$ 180, AL,Iphone  6  
+Canoas,R$ 180, RS,Iphone  6  
+Salvador,R$ 180, BA,Iphone  6  
+Belo Horizonte,R$ 180, MG,Iphone  6  
+Ibiúna,R$ 180, SP,Iphone  6  
+Manaus,R$ 2.800, AM,iPhone X
+Florianópolis,R$ 2.800, SC,iPhone X
+Salvador,R$ 2.800, BA,iPhone X
+Rio de Janeiro,R$ 2.800, RJ,iPhone X
+São José de Ribamar,R$ 2.800, MA,iPhone X
+Contagem,R$ 2.800, MG,iPhone X
+Salvador,R$ 2.800, BA,iPhone X
+Brasília,R$ 2.800, DF,iPhone X
+Pindamonhangaba,R$ 2.800, SP,iPhone X
+Joinville,R$ 2.800, SC,iPhone X
+São Paulo,R$ 2.800, SP,iPhone X
+Fortaleza,R$ 2.800, CE,iPhone X
+Uberlândia,R$ 2.800, MG,iPhone X
+Salvador,R$ 2.800, BA,iPhone X
+São Vicente,R$ 2.800, SP,iPhone X
+Seropédica,R$ 2.800, RJ,iPhone X
+Diadema,R$ 2.800, SP,iPhone X
+Brasília,R$ 2.800, DF,iPhone X
+Salvador,R$ 2.800, BA,iPhone X
+Goianira,R$ 2.800, GO,iPhone X
+Chapecó,R$ 2.800, SC,iPhone X
+Castanhal,R$ 2.800, PA,iPhone X
+Rio de Janeiro,R$ 2.800, RJ,iPhone X
+Fortaleza,R$ 2.800, CE,iPhone X
+2 Irmãos,R$ 2.800, RS,iPhone X
+Belo Horizonte,R$ 2.800, MG,iPhone X
+Brasília,R$ 2.800, DF,iPhone X
+Contagem,R$ 2.800, MG,iPhone X
+São Paulo,R$ 2.800, SP,iPhone X
+Nova Iguaçu,R$ 2.800, RJ,iPhone X
+Recife,R$ 2.800, PE,iPhone X
+Aracaju,R$ 2.800, SE,iPhone X
+Recife,R$ 2.800, PE,iPhone X
+Tarabai,R$ 2.800, SP,iPhone X
+Salvador,R$ 2.800, BA,iPhone X
+Olinda,R$ 2.800, PE,iPhone X
+São João de Meriti,R$ 2.800, RJ,iPhone X
+João Pessoa,R$ 2.800, PB,iPhone X
+São José dos Campos,R$ 2.800, SP,iPhone X
+Niterói,R$ 2.800, RJ,iPhone X
+Ibirité,R$ 2.800, MG,iPhone X
+Rio de Janeiro,R$ 2.800, RJ,iPhone X
+Lages,R$ 2.800, SC,iPhone X
+Palhoça,R$ 2.800, SC,iPhone X
+São Luís,R$ 2.800, MA,iPhone X
+Itajaí,R$ 2.800, SC,iPhone X
+Maringá,R$ 2.800, PR,iPhone X
+São Luís,R$ 2.800, MA,iPhone X
+Brasília,R$ 2.800, DF,iPhone X
+Fortaleza,R$ 2.800, CE,iPhone X
+Brasília,R$ 430, DF,iPhone 5s
+Belo Horizonte,R$ 430, MG,iPhone 5s
+Salvador,R$ 430, BA,iPhone 5s
+Brasília,R$ 430, DF,iPhone 5s
+Rondonópolis,R$ 430, MT,iPhone 5s
+Goiânia,R$ 430, GO,iPhone 5s
+Guarulhos,R$ 430, SP,iPhone 5s
+Aracaju,R$ 430, SE,iPhone 5s
+Palmas,R$ 430, TO,iPhone 5s
+Campo Grande,R$ 430, MS,iPhone 5s
+Vitória da Conquista,R$ 430, BA,iPhone 5s
+Belo Horizonte,R$ 430, MG,iPhone 5s
+Itapetininga,R$ 430, SP,iPhone 5s
+Olinda,R$ 430, PE,iPhone 5s
+Aracaju,R$ 430, SE,iPhone 5s
+Manaus,R$ 430, AM,iPhone 5s
+Carmópolis,R$ 430, SE,iPhone 5s
+São Cristóvão,R$ 430, SE,iPhone 5s
+São Gonçalo,R$ 430, RJ,iPhone 5s
+Rio Branco,R$ 430, AC,iPhone 5s
+Campo Grande,R$ 430, MS,iPhone 5s
+Maricá,R$ 430, RJ,iPhone 5s
+São Cristóvão,R$ 430, SE,iPhone 5s
+Camaçari,R$ 430, BA,iPhone 5s
+São Paulo,R$ 430, SP,iPhone 5s
+Taubaté,R$ 430, SP,iPhone 5s
+Manaus,R$ 430, AM,iPhone 5s
+Goiânia,R$ 430, GO,iPhone 5s
+Campos dos Goytacazes,R$ 430, RJ,iPhone 5s
+Campina Grande,R$ 430, PB,iPhone 5s
+Serra,R$ 430, ES,iPhone 5s
+Joinville,R$ 430, SC,iPhone 5s
+Maceió,R$ 430, AL,iPhone 5s
+Itajaí,R$ 430, SC,iPhone 5s
+Icó,R$ 430, CE,iPhone 5s
+Rio Branco,R$ 430, AC,iPhone 5s
+São Paulo,R$ 430, SP,iPhone 5s
+Natal,R$ 430, RN,iPhone 5s
+Canaã dos Carajás,R$ 430, PA,iPhone 5s
+Belo Horizonte,R$ 430, MG,iPhone 5s
+Belo Horizonte,R$ 430, MG,iPhone 5s
+Mogi das Cruzes,R$ 430, SP,iPhone 5s
+Belo Horizonte,R$ 430, MG,iPhone 5s
+Salvador,R$ 430, BA,iPhone 5s
+Paranaiguara,R$ 430, GO,iPhone 5s
+Salvador,R$ 430, BA,iPhone 5s
+Cuiabá,R$ 430, MT,iPhone 5s
+Sertãozinho,R$ 430, SP,iPhone 5s
+Campo Grande,R$ 430, MS,iPhone 5s
+Santos,R$ 430, SP,iPhone 5s
+Palhoça,R$ 850, SC,iPhone 6
+Curitiba,R$ 850, PR,iPhone 6
+Lajeado,R$ 850, RS,iPhone 6
+São Paulo,R$ 850, SP,iPhone 6
+Manaus,R$ 850, AM,iPhone 6
+Irecê,R$ 850, BA,iPhone 6
+Campina Grande,R$ 850, PB,iPhone 6
+Recife,R$ 850, PE,iPhone 6
+Rio Branco,R$ 850, AC,iPhone 6
+São Paulo,R$ 850, SP,iPhone 6
+Joinville,R$ 850, SC,iPhone 6
+Cascavel,R$ 850, PR,iPhone 6
+Araras,R$ 850, SP,iPhone 6
+João Pessoa,R$ 850, PB,iPhone 6
+Salvador,R$ 850, BA,iPhone 6
+Feira de Santana,R$ 850, BA,iPhone 6
+Duque de Caxias,R$ 850, RJ,iPhone 6
+Brasília,R$ 850, DF,iPhone 6
+Fortaleza,R$ 850, CE,iPhone 6
+Belo Horizonte,R$ 850, MG,iPhone 6
+Contagem,R$ 850, MG,iPhone 6
+Pacatuba,R$ 850, CE,iPhone 6
+São Paulo,R$ 850, SP,iPhone 6
+Cuiabá,R$ 850, MT,iPhone 6
+Duque de Caxias,R$ 850, RJ,iPhone 6
+Brasília,R$ 850, DF,iPhone 6
+Maracanaú,R$ 850, CE,iPhone 6
+Belford Roxo,R$ 850, RJ,iPhone 6
+Guarulhos,R$ 850, SP,iPhone 6
+Brasília,R$ 850, DF,iPhone 6
+Teresina,R$ 850, PI,iPhone 6
+Nova Iguaçu,R$ 850, RJ,iPhone 6
+Ribeirão Preto,R$ 850, SP,iPhone 6
+Manaus,R$ 850, AM,iPhone 6
+Curitiba,R$ 850, PR,iPhone 6
+Porto Alegre,R$ 850, RS,iPhone 6
+Natal,R$ 850, RN,iPhone 6
+São Paulo,R$ 850, SP,iPhone 6
+São Gonçalo do Amarante,R$ 850, RN,iPhone 6
+Campinas,R$ 850, SP,iPhone 6
+Barbacena,R$ 850, MG,iPhone 6
+São José dos Campos,R$ 850, SP,iPhone 6
+Boa Vista,R$ 850, RR,iPhone 6
+Boa Vista,R$ 850, RR,iPhone 6
+Contagem,R$ 850, MG,iPhone 6
+Goiânia,R$ 850, GO,iPhone 6
+Florianópolis,R$ 850, SC,iPhone 6
+Niterói,R$ 850, RJ,iPhone 6
+São Paulo,R$ 850, SP,iPhone 6
+Goiânia,R$ 850, GO,iPhone 6
+Itaquaquecetuba,R$ 900, SP,iPhone 6s 
+Hortolândia,R$ 900, SP,iPhone 6s 
+Fortaleza,R$ 900, CE,iPhone 6s 
+São Luís,R$ 900, MA,iPhone 6s 
+Ipirá,R$ 900, BA,iPhone 6s 
+Brasília,R$ 900, DF,iPhone 6s 
+Porto Alegre,R$ 900, RS,iPhone 6s 
+João Pessoa,R$ 900, PB,iPhone 6s 
+Contagem,R$ 900, MG,iPhone 6s 
+Olho D'Água do Borges,R$ 900, RN,iPhone 6s 
+Uberlândia,R$ 900, MG,iPhone 6s 
+Contagem,R$ 900, MG,iPhone 6s 
+Maracanaú,R$ 900, CE,iPhone 6s 
+Aracaju,R$ 900, SE,iPhone 6s 
+Rio de Janeiro,R$ 900, RJ,iPhone 6s 
+Macapá,R$ 900, AP,iPhone 6s 
+Belo Horizonte,R$ 900, MG,iPhone 6s 
+Palmas,R$ 900, TO,iPhone 6s 
+Parauapebas,R$ 900, PA,iPhone 6s 
+Santos,R$ 900, SP,iPhone 6s 
+Recife,R$ 900, PE,iPhone 6s 
+Cruzília,R$ 900, MG,iPhone 6s 
+Sete Lagoas,R$ 900, MG,iPhone 6s 
+Campo Grande,R$ 900, MS,iPhone 6s 
+Paulista,R$ 900, PE,iPhone 6s 
+Recife,R$ 900, PE,iPhone 6s 
+Itapevi,R$ 900, SP,iPhone 6s 
+Ribeirão Preto,R$ 900, SP,iPhone 6s 
+Diadema,R$ 900, SP,iPhone 6s 
+Fortaleza,R$ 900, CE,iPhone 6s 
+Anápolis,R$ 900, GO,iPhone 6s 
+Rio de Janeiro,R$ 900, RJ,iPhone 6s 
+Parauapebas,R$ 900, PA,iPhone 6s 
+São José dos Campos,R$ 900, SP,iPhone 6s 
+Natal,R$ 900, RN,iPhone 6s 
+Rio de Janeiro,R$ 900, RJ,iPhone 6s 
+Americana,R$ 900, SP,iPhone 6s 
+Itabuna,R$ 900, BA,iPhone 6s 
+São Paulo,R$ 900, SP,iPhone 6s 
+Aracaju,R$ 900, SE,iPhone 6s 
+Manaus,R$ 900, AM,iPhone 6s 
+Recife,R$ 900, PE,iPhone 6s 
+São Luís,R$ 900, MA,iPhone 6s 
+Ananindeua,R$ 900, PA,iPhone 6s 
+Brasília,R$ 900, DF,iPhone 6s 
+Brasília,R$ 900, DF,iPhone 6s 
+Fortaleza,R$ 900, CE,iPhone 6s 
+Goiânia,R$ 900, GO,iPhone 6s 
+São Luís,R$ 900, MA,iPhone 6s 
+Aparecida de Goiânia,R$ 900, GO,iPhone 6s 
+São Luís,R$ 1.200, MA,IPHONE 6S
+Salvador,R$ 1.200, BA,IPHONE 6S
+Campos Dos Goytacazes,R$ 1.200, RJ,IPHONE 6S
+Cuiabá,R$ 1.200, MT,IPHONE 6S
+Brasiléia,R$ 1.200, AC,IPHONE 6S
+Fortaleza,R$ 1.200, CE,IPHONE 6S
+Palhoça,R$ 1.200, SC,IPHONE 6S
+Manaus,R$ 1.200, AM,IPHONE 6S
+Florianópolis,R$ 1.200, SC,IPHONE 6S
+Maceió,R$ 1.200, AL,IPHONE 6S
+Conselheiro Pena,R$ 1.200, MG,IPHONE 6S
+Goiânia,R$ 1.200, GO,IPHONE 6S
+Ubá,R$ 1.200, MG,IPHONE 6S
+Serra,R$ 1.200, ES,IPHONE 6S
+Anápolis,R$ 1.200, GO,IPHONE 6S
+Altos,R$ 1.200, PI,IPHONE 6S
+São Paulo,R$ 1.200, SP,IPHONE 6S
+Rio de Janeiro,R$ 1.200, RJ,IPHONE 6S
+Caxias do Sul,R$ 1.200, RS,IPHONE 6S
+São Gonçalo,R$ 1.200, RJ,IPHONE 6S
+Parnamirim,R$ 1.200, RN,IPHONE 6S
+Botucatu,R$ 1.200, SP,IPHONE 6S
+Camaçari,R$ 1.200, BA,IPHONE 6S
+Belo Horizonte,R$ 1.200, MG,IPHONE 6S
+Feira de Santana,R$ 1.200, BA,IPHONE 6S
+Belém,R$ 1.200, PA,IPHONE 6S
+Aracaju,R$ 1.200, SE,IPHONE 6S
+Curitiba,R$ 1.200, PR,IPHONE 6S
+Manaus,R$ 1.200, AM,IPHONE 6S
+Nossa Senhora do Socorro,R$ 1.200, SE,IPHONE 6S
+Recife,R$ 1.200, PE,IPHONE 6S
+Juiz de Fora,R$ 1.200, MG,IPHONE 6S
+Fortaleza,R$ 1.200, CE,IPHONE 6S
+Salvador,R$ 1.200, BA,IPHONE 6S
+Cuiabá,R$ 1.200, MT,IPHONE 6S
+Santa Rita,R$ 1.200, PB,IPHONE 6S
+Rio de Janeiro,R$ 1.200, RJ,IPHONE 6S
+Boa Vista,R$ 1.200, RR,IPHONE 6S
+Belém,R$ 1.200, PA,IPHONE 6S
+Campo Grande,R$ 1.200, MS,IPHONE 6S
+Manaus,R$ 1.200, AM,IPHONE 6S
+Jandira,R$ 1.200, SP,IPHONE 6S
+Belo Horizonte,R$ 1.200, MG,IPHONE 6S
+Recife,R$ 1.200, PE,IPHONE 6S
+Aracaju,R$ 1.200, SE,IPHONE 6S
+Niterói,R$ 1.200, RJ,IPHONE 6S
+São Carlos,R$ 1.200, SP,IPHONE 6S
+Cuiabá,R$ 1.200, MT,IPHONE 6S
+São Paulo,R$ 200, SP,iPhone 5
+Fortaleza,R$ 200, CE,iPhone 5
+Uberlândia,R$ 200, MG,iPhone 5
+Salvador,R$ 200, BA,iPhone 5
+São Vicente,R$ 200, SP,iPhone 5
+Seropédica,R$ 200, RJ,iPhone 5
+Diadema,R$ 200, SP,iPhone 5
+Brasília,R$ 200, DF,iPhone 5
+Salvador,R$ 200, BA,iPhone 5
+Goianira,R$ 200, GO,iPhone 5
+Chapecó,R$ 200, SC,iPhone 5
+Castanhal,R$ 200, PA,iPhone 5
+Rio de Janeiro,R$ 200, RJ,iPhone 5
+Fortaleza,R$ 200, CE,iPhone 5
+2 Irmãos,R$ 200, RS,iPhone 5
+Belo Horizonte,R$ 200, MG,iPhone 5
+Brasília,R$ 200, DF,iPhone 5
+Contagem,R$ 200, MG,iPhone 5
+São Paulo,R$ 200, SP,iPhone 5
+Nova Iguaçu,R$ 200, RJ,iPhone 5
+Recife,R$ 200, PE,iPhone 5
+Aracaju,R$ 200, SE,iPhone 5
+Recife,R$ 200, PE,iPhone 5
+Tarabai,R$ 200, SP,iPhone 5
+Salvador,R$ 200, BA,iPhone 5
+Goiânia,R$ 200, GO,iPhone 5
+Porto Alegre,R$ 200, RS,iPhone 5
+Rio de Janeiro,R$ 200, RJ,iPhone 5
+São João de Meriti,R$ 200, RJ,iPhone 5
+Salvador,R$ 200, BA,iPhone 5
+Belém,R$ 200, PA,iPhone 5
+Lages,R$ 200, SC,iPhone 5
+Palhoça,R$ 200, SC,iPhone 5
+Rio de Janeiro,R$ 200, RJ,iPhone 5
+Florianópolis,R$ 200, SC,iPhone 5
+Criciúma,R$ 200, SC,iPhone 5
+São Paulo,R$ 200, SP,iPhone 5
+Auriflama,R$ 200, SP,iPhone 5
+Cascavel,R$ 200, PR,iPhone 5
+Feira de Santana,R$ 200, BA,iPhone 5
+Carapicuíba,R$ 200, SP,iPhone 5
+Queimados,R$ 200, RJ,iPhone 5
+João Pessoa,R$ 200, PB,iPhone 5
+Indaiatuba,R$ 200, SP,iPhone 5
+Rio do Oeste,R$ 200, SC,iPhone 5
+Igarapé,R$ 200, MG,iPhone 5
+Contagem,R$ 200, MG,iPhone 5
+Belo Horizonte,R$ 200, MG,iPhone 5
+Porto Alegre,R$ 200, RS,iPhone 5
+Goiânia,R$ 200, GO,iPhone 5
+Parnamirim,R$ 4.000, RN,Iphone 11
+Conceição do Jacuípe,R$ 4.000, BA,Iphone 11
+Sorocaba,R$ 4.000, SP,Iphone 11
+Cariacica,R$ 4.000, ES,Iphone 11
+Curitiba,R$ 4.000, PR,Iphone 11
+Rio de Janeiro,R$ 4.000, RJ,Iphone 11
+São Cristóvão,R$ 4.000, SE,Iphone 11
+Nova Iguaçu,R$ 4.000, RJ,Iphone 11
+Brasília,R$ 4.000, DF,Iphone 11
+Itatiba,R$ 4.000, SP,Iphone 11
+Guarulhos,R$ 4.000, SP,Iphone 11
+Fortaleza,R$ 4.000, CE,Iphone 11
+Brasilia,R$ 4.000, DF,Iphone 11
+Fortaleza,R$ 4.000, CE,Iphone 11
+Belo Horizonte,R$ 4.000, MG,Iphone 11
+Niterói,R$ 4.000, RJ,Iphone 11
+Aracaju,R$ 4.000, SE,Iphone 11
+São Luís,R$ 4.000, MA,Iphone 11
+Belo Horizonte,R$ 4.000, MG,Iphone 11
+Joinville,R$ 4.000, SC,Iphone 11
+Senador Guiomard,R$ 4.000, AC,Iphone 11
+"Abrantes, Camaçari",R$ 4.000, BA,Iphone 11
+Jaboatão dos Guararapes,R$ 4.000, PE,Iphone 11
+Goiânia,R$ 4.000, GO,Iphone 11
+Camaragibe,R$ 4.000, PE,Iphone 11
+São Luís,R$ 4.000, MA,Iphone 11
+Alvorada,R$ 4.000, RS,Iphone 11
+Novo Lino,R$ 4.000, AL,Iphone 11
+Contagem,R$ 4.000, MG,Iphone 11
+Ribeirão Preto,R$ 4.000, SP,Iphone 11
+Vila Velha,R$ 4.000, ES,Iphone 11
+Praia Grande,R$ 4.000, SP,Iphone 11
+Juiz de Fora,R$ 4.000, MG,Iphone 11
+Blumenau,R$ 4.000, SC,Iphone 11
+Rio de Janeiro,R$ 4.000, RJ,Iphone 11
+Itapetininga,R$ 4.000, SP,Iphone 11
+Hortolândia,R$ 4.000, SP,Iphone 11
+Palhoça,R$ 4.000, SC,Iphone 11
+São José do Rio Preto,R$ 4.000, SP,Iphone 11
+Guarapari,R$ 4.000, ES,Iphone 11
+Várzea Grande,R$ 4.000, MT,Iphone 11
+São Luís,R$ 4.000, MA,Iphone 11
+Eusébio,R$ 4.000, CE,Iphone 11
+Recife,R$ 4.000, PE,Iphone 11
+Rio de Janeiro,R$ 4.000, RJ,Iphone 11
+Brasília,R$ 4.000, DF,Iphone 11
+Fortaleza,R$ 4.000, CE,Iphone 11
+Porto Alegre,R$ 4.000, RS,Iphone 11
+São Mateus,R$ 4.000, ES,Iphone 11
+Uberlândia,R$ 4.000, MG,Iphone 11
+Joinville,R$ 650, SC,iPhone 6
+Carapicuíba,R$ 650, SP,iPhone 6
+São João de Meriti,R$ 650, RJ,iPhone 6
+João Pessoa,R$ 650, PB,iPhone 6
+Baixo Guandu,R$ 650, ES,iPhone 6
+São José da Coroa Grande,R$ 650, PE,iPhone 6
+Salvador,R$ 650, BA,iPhone 6
+Fortaleza,R$ 650, CE,iPhone 6
+Fortaleza,R$ 650, CE,iPhone 6
+Cuiabá,R$ 650, MT,iPhone 6
+Joinville,R$ 650, SC,iPhone 6
+Florianópolis,R$ 650, SC,iPhone 6
+Jaguariaíva,R$ 650, PR,iPhone 6
+Campo Largo,R$ 650, PR,iPhone 6
+São Paulo,R$ 650, SP,iPhone 6
+Parnamirim,R$ 650, RN,iPhone 6
+Brasília,R$ 650, DF,iPhone 6
+Cachoeiras de Macacu,R$ 650, RJ,iPhone 6
+São Luís,R$ 650, MA,iPhone 6
+Brasília,R$ 650, DF,iPhone 6
+Brasília,R$ 650, DF,iPhone 6
+Maceió,R$ 650, AL,iPhone 6
+Urupês,R$ 650, SP,iPhone 6
+São Lourenço da Mata,R$ 650, PE,iPhone 6
+São Paulo,R$ 650, SP,iPhone 6
+Boa Vista,R$ 650, RR,iPhone 6
+Rio de Janeiro,R$ 650, RJ,iPhone 6
+Águas Lindas de Goiás,R$ 650, DF,iPhone 6
+Barueri,R$ 650, SP,iPhone 6
+Mossoró,R$ 650, RN,iPhone 6
+Santarém,R$ 650, PA,iPhone 6
+Ouro Branco,R$ 650, MG,iPhone 6
+Porto Alegre,R$ 650, RS,iPhone 6
+Hortolândia,R$ 650, SP,iPhone 6
+Salvador,R$ 650, BA,iPhone 6
+Goiânia,R$ 650, GO,iPhone 6
+Porto Alegre,R$ 650, RS,iPhone 6
+Uberlândia,R$ 650, MG,iPhone 6
+Belém,R$ 650, PA,iPhone 6
+Rio de Janeiro,R$ 650, RJ,iPhone 6
+Belo Horizonte,R$ 650, MG,iPhone 6
+Criciúma,R$ 650, SC,iPhone 6
+Ponta Grossa,R$ 650, PR,iPhone 6
+São Paulo,R$ 650, SP,iPhone 6
+Ponta Grossa,R$ 650, PR,iPhone 6
+Auriflama,R$ 650, SP,iPhone 6
+Cascavel,R$ 650, PR,iPhone 6
+Feira de Santana,R$ 650, BA,iPhone 6
+Carapicuíba,R$ 650, SP,iPhone 6
+João Pessoa,R$ 800, PB,iPhone 6
+Novo Hamburgo,R$ 800, RS,iPhone 6
+Caetanos,R$ 800, BA,iPhone 6
+Contagem,R$ 800, MG,iPhone 6
+Americana,R$ 800, SP,iPhone 6
+Rio de Janeiro,R$ 800, RJ,iPhone 6
+Brasília,R$ 800, DF,iPhone 6
+Nova Iguaçu,R$ 800, RJ,iPhone 6
+Rio de Janeiro,R$ 800, RJ,iPhone 6
+Brasília,R$ 800, DF,iPhone 6
+Fortaleza,R$ 800, CE,iPhone 6
+Manaus,R$ 800, AM,iPhone 6
+São Vicente,R$ 800, SP,iPhone 6
+São José dos Campos,R$ 800, SP,iPhone 6
+Rio de Janeiro,R$ 800, RJ,iPhone 6
+Aparecida de Goiânia,R$ 800, GO,iPhone 6
+Curitiba,R$ 800, PR,iPhone 6
+Nova Friburgo,R$ 800, RJ,iPhone 6
+Brasília,R$ 800, DF,iPhone 6
+Presidente Prudente,R$ 800, SP,iPhone 6
+Brasília,R$ 800, DF,iPhone 6
+Goiânia,R$ 800, GO,iPhone 6
+Maceió,R$ 800, AL,iPhone 6
+Brasília,R$ 800, DF,iPhone 6
+Maribondo,R$ 800, AL,iPhone 6
+Vila Velha,R$ 800, ES,iPhone 6
+Recife,R$ 800, PE,iPhone 6
+Fortaleza,R$ 800, CE,iPhone 6
+Fortaleza,R$ 800, CE,iPhone 6
+Governador Valadares,R$ 800, MG,iPhone 6
+"Jangada do Sul, General Carneiro",R$ 800, PR,iPhone 6
+Brasília,R$ 800, DF,iPhone 6
+Feira de Santana,R$ 800, BA,iPhone 6
+Fortaleza,R$ 800, CE,iPhone 6
+Itabaiana,R$ 800, SE,iPhone 6
+São Gonçalo do Amarante,R$ 800, RN,iPhone 6
+São Bernardo do Campo,R$ 800, SP,iPhone 6
+Brasília,R$ 800, DF,iPhone 6
+Joinville,R$ 800, SC,iPhone 6
+Botuverá,R$ 800, SC,iPhone 6
+Macapá,R$ 800, AP,iPhone 6
+Governador Valadares,R$ 800, MG,iPhone 6
+Recife,R$ 800, PE,iPhone 6
+Olinda,R$ 800, PE,iPhone 6
+Cariacica,R$ 800, ES,iPhone 6
+Palhoça,R$ 800, SC,iPhone 6
+Rio de Janeiro,R$ 800, RJ,iPhone 6
+Curitiba,R$ 800, PR,iPhone 6
+Salvador,R$ 800, BA,iPhone 6
+Campo Grande,R$ 3.000, MS,Iphone X
+Santos,R$ 3.000, SP,Iphone X
+Garanhuns,R$ 3.000, PE,Iphone X
+Brasília,R$ 3.000, DF,Iphone X
+Fortaleza,R$ 3.000, CE,Iphone X
+Campina Grande,R$ 3.000, PB,Iphone X
+Tijucas,R$ 3.000, SC,Iphone X
+Manaus,R$ 3.000, AM,Iphone X
+Fortaleza,R$ 3.000, CE,Iphone X
+Rio Branco,R$ 3.000, AC,Iphone X
+Belford Roxo,R$ 3.000, RJ,Iphone X
+Aparecida de Goiânia,R$ 3.000, GO,Iphone X
+São Luís,R$ 3.000, MA,Iphone X
+São João de Meriti,R$ 3.000, RJ,Iphone X
+Cascavel,R$ 3.000, PR,Iphone X
+Auriflama,R$ 3.000, SP,Iphone X
+Pomerode,R$ 3.000, SC,Iphone X
+Barretos,R$ 3.000, SP,Iphone X
+Cascavel,R$ 3.000, PR,Iphone X
+Feira de Santana,R$ 3.000, BA,Iphone X
+Carapicuíba,R$ 3.000, SP,Iphone X
+Queimados,R$ 3.000, RJ,Iphone X
+João Pessoa,R$ 3.000, PB,Iphone X
+Indaiatuba,R$ 3.000, SP,Iphone X
+Rio do Oeste,R$ 3.000, SC,Iphone X
+Igarapé,R$ 3.000, MG,Iphone X
+Contagem,R$ 3.000, MG,Iphone X
+Belo Horizonte,R$ 3.000, MG,Iphone X
+Porto Alegre,R$ 3.000, RS,Iphone X
+Goiânia,R$ 3.000, GO,Iphone X
+São José de Ribamar,R$ 3.000, MA,Iphone X
+Vitória de Santo Antão,R$ 3.000, PE,Iphone X
+Aracaju,R$ 3.000, SE,Iphone X
+Belo Horizonte,R$ 3.000, MG,Iphone X
+Fortaleza,R$ 3.000, CE,Iphone X
+Teixeira de Freitas,R$ 3.000, BA,Iphone X
+Aracaju,R$ 3.000, SE,Iphone X
+Campo Largo,R$ 3.000, PR,Iphone X
+São Gonçalo,R$ 3.000, RJ,Iphone X
+São Paulo,R$ 3.000, SP,Iphone X
+Goiânia,R$ 3.000, GO,Iphone X
+Salvador,R$ 3.000, BA,Iphone X
+Trindade,R$ 3.000, GO,Iphone X
+São José dos Campos,R$ 3.000, SP,Iphone X
+Pendências,R$ 3.000, RN,Iphone X
+Rio de Janeiro,R$ 3.000, RJ,Iphone X
+Campinas,R$ 3.000, SP,Iphone X
+Teresina,R$ 3.000, PI,Iphone X
+São Luís,R$ 3.000, MA,Iphone X
+Goiânia,R$ 3.000, GO,Iphone X
+Brasília,R$ 500, DF,Iphone 6s
+Curitiba,R$ 500, PR,Iphone 6s
+Rio de Janeiro,R$ 500, RJ,Iphone 6s
+São José dos Campos,R$ 500, SP,Iphone 6s
+Campinas,R$ 500, SP,Iphone 6s
+São José dos Campos,R$ 500, SP,Iphone 6s
+São Paulo,R$ 500, SP,Iphone 6s
+Caxias do Sul,R$ 500, RS,Iphone 6s
+Belo Horizonte,R$ 500, MG,Iphone 6s
+Salesópolis,R$ 500, SP,Iphone 6s
+Abreu e Lima,R$ 500, PE,Iphone 6s
+Brasília,R$ 500, DF,Iphone 6s
+Ubá,R$ 500, MG,Iphone 6s
+Diadema,R$ 500, SP,Iphone 6s
+São Gonçalo,R$ 500, RJ,Iphone 6s
+Maracanaú,R$ 500, CE,Iphone 6s
+Juazeiro do Norte,R$ 500, CE,Iphone 6s
+Brasília,R$ 500, DF,Iphone 6s
+Florianópolis,R$ 500, SC,Iphone 6s
+Jaboatão dos Guararapes,R$ 500, PE,Iphone 6s
+Recife,R$ 500, PE,Iphone 6s
+Magé,R$ 500, RJ,Iphone 6s
+Itapevi,R$ 500, SP,Iphone 6s
+Sapucaia do Sul,R$ 500, RS,Iphone 6s
+Vila Velha,R$ 500, ES,Iphone 6s
+Sertãozinho,R$ 500, SP,Iphone 6s
+Salvador,R$ 500, BA,Iphone 6s
+Paulista,R$ 500, PE,Iphone 6s
+São Paulo,R$ 500, SP,Iphone 6s
+São José dos Campos,R$ 500, SP,Iphone 6s
+Trindade,R$ 500, GO,Iphone 6s
+Salvador,R$ 500, BA,Iphone 6s
+Recife,R$ 500, PE,Iphone 6s
+Araripina,R$ 500, PE,Iphone 6s
+Rio de Janeiro,R$ 500, RJ,Iphone 6s
+Vitória,R$ 500, ES,Iphone 6s
+Porto Alegre,R$ 500, RS,Iphone 6s
+Vila Velha,R$ 500, ES,Iphone 6s
+Salvador,R$ 500, BA,Iphone 6s
+Montes Claros,R$ 500, MG,Iphone 6s
+São Luís,R$ 500, MA,Iphone 6s
+Maringá,R$ 500, PR,Iphone 6s
+Brasília,R$ 500, DF,Iphone 6s
+Fortaleza,R$ 500, CE,Iphone 6s
+Manaus,R$ 500, AM,Iphone 6s
+Camaçari,R$ 500, BA,Iphone 6s
+São Paulo,R$ 500, SP,Iphone 6s
+Taboão da Serra,R$ 500, SP,Iphone 6s
+Teresina,R$ 500, PI,Iphone 6s
+São Luís,R$ 1.200, MA,Iphone 6s
+Rio de Janeiro,R$ 1.200, RJ,Iphone 6s
+Cariacica,R$ 1.200, ES,Iphone 6s
+Rio de Janeiro,R$ 1.200, RJ,Iphone 6s
+Almirante Tamandaré,R$ 1.200, PR,Iphone 6s
+Betim,R$ 1.200, MG,Iphone 6s
+Aracaju,R$ 1.200, SE,Iphone 6s
+Salvador,R$ 1.200, BA,Iphone 6s
+Caucaia,R$ 1.200, CE,Iphone 6s
+Feira de Santana,R$ 1.200, BA,Iphone 6s
+São José,R$ 1.200, SC,Iphone 6s
+Fortaleza,R$ 1.200, CE,Iphone 6s
+Boa Vista,R$ 1.200, RR,Iphone 6s
+Brasília,R$ 1.200, DF,Iphone 6s
+Recife,R$ 1.200, PE,Iphone 6s
+Porto Alegre,R$ 1.200, RS,Iphone 6s
+Contagem,R$ 1.200, MG,Iphone 6s
+Manaus,R$ 1.200, AM,Iphone 6s
+Matão,R$ 1.200, SP,Iphone 6s
+Olinda,R$ 1.200, PE,Iphone 6s
+Novo Hamburgo,R$ 1.200, RS,Iphone 6s
+Rio de Janeiro,R$ 1.200, RJ,Iphone 6s
+Fortaleza,R$ 1.200, CE,Iphone 6s
+Avaré,R$ 1.200, SP,Iphone 6s
+São Paulo,R$ 1.200, SP,Iphone 6s
+São Paulo,R$ 1.200, SP,Iphone 6s
+Ponta Grossa,R$ 1.200, PR,Iphone 6s
+Senador Canedo,R$ 1.200, GO,Iphone 6s
+São Luís,R$ 1.200, MA,Iphone 6s
+Porto Alegre,R$ 1.200, RS,Iphone 6s
+Fortaleza,R$ 1.200, CE,Iphone 6s
+Belém,R$ 1.200, PA,Iphone 6s
+Cuiabá,R$ 1.200, MT,Iphone 6s
+Recife,R$ 1.200, PE,Iphone 6s
+São Paulo,R$ 1.200, SP,Iphone 6s
+Salvador,R$ 1.200, BA,Iphone 6s
+Rio Largo,R$ 1.200, AL,Iphone 6s
+Maricá,R$ 1.200, RJ,Iphone 6s
+Tubarão,R$ 1.200, SC,Iphone 6s
+Jaboatão dos Guararapes,R$ 1.200, PE,Iphone 6s
+Taubaté,R$ 1.200, SP,Iphone 6s
+Manaus,R$ 1.200, AM,Iphone 6s
+Vespasiano,R$ 1.200, MG,Iphone 6s
+Maringá,R$ 1.200, PR,Iphone 6s
+Uberlândia,R$ 1.200, MG,Iphone 6s
+Goiânia,R$ 1.200, GO,Iphone 6s
+Recife,R$ 1.200, PE,Iphone 6s
+Trindade,R$ 1.200, GO,Iphone 6s
+São Paulo,R$ 1.200, SP,Iphone 6s
+Rio de Janeiro,R$ 1.200, RJ,Iphone 6s

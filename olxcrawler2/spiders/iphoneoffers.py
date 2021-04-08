@@ -24,7 +24,7 @@ class IphoneoffersSpider(scrapy.Spider):
 
             yield offerItem
 
-        nextPageUrl = offer.xpath(""".//a[contains(@class,'sc-1bofr6e-0') and contains(@class, 'iRQkdN') and @data-lurker-detail='next_page']/@href""").get()
+        nextPageUrl = response.xpath(""".//a[@data-lurker-detail='next_page']/@href""").get()
         print('nextpage')
         print(nextPageUrl)
         if nextPageUrl is not '' and nextPageUrl is not None:
