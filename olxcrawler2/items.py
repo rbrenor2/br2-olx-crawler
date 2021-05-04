@@ -14,7 +14,14 @@ class Olxcrawler2Item(scrapy.Item):
     pass
 
 class IphoneOfferItem(scrapy.Item):
+    product_id = scrapy.Field()
+    url = scrapy.Field()
     title = scrapy.Field()
     price = scrapy.Field()
     city = scrapy.Field()
     state = scrapy.Field()
+    post_date = scrapy.Field()
+    post_time = scrapy.Field()
+    thumb_url = scrapy.Field()
+    is_featured = scrapy.Field()
+    list_position = scrapy.Field()
