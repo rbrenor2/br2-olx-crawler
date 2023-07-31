@@ -25,3 +25,4 @@ class IphoneOfferItem(scrapy.Item):
     thumb_url = scrapy.Field()
     is_featured = scrapy.Field()
     list_position = scrapy.Field()
+    scrap_time = scrapy.Field()

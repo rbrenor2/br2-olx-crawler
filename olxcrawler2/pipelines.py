@@ -20,7 +20,7 @@ class IphoneOfferPipeline:
             offerItem["price"] = float(offerItem["price"].split("R$ ")[1].replace('.', ''))
             
         offerItem["is_featured"] = True if offerItem['is_featured'] == '1' else False
-        offerItem["list_position"] = int(offerItem['list_position'])
+        offerItem["list_position"] = int(offerItem['list_position']) if offerItem['list_position'] is not None else None
 
         if offerItem["city"] is not None and offerItem["city"] != '':
                 offerItem["state"] = offerItem["city"].split(' - ')[1].replace(' ', '')
